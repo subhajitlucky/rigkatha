@@ -1,0 +1,552 @@
+[
+  {
+    "id": "agni",
+    "name": "अग्नि",
+    "nameEnglish": "Agni",
+    "title": "God of Fire",
+    "emoji": "🔥",
+    "description": "Agni is the sacred fire, messenger between humans and gods. He carries offerings to the heavens and brings divine blessings to earth. The very first hymn of the Rig Veda begins with 'Agni Meele Purohitam' - a testament to his supreme importance.",
+    "symbolism": "Transformation, purification, divine communication, sacrifice, light",
+    "character": "The Eternal Mediator",
+    "hymnCount": 200,
+    "primaryMandalas": [1, 2, 3, 4, 5, 6, 7, 8, 10],
+    "famousHymns": [
+      {
+        "reference": "1.1.1",
+        "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् | होतारं रत्नधातमम् ||",
+        "translation": "I praise Agni, the priest, the divine minister of sacrifice, the invoker, the greatest bestower of treasures.",
+        "significance": "The very first verse of the Rig Veda - the most sacred opening",
+        "theme": "Invocation"
+      },
+      {
+        "reference": "1.1.2",
+        "sanskrit": "अग्निः पूर्वेभिर्ऋषिभिरीड्यो नूतनैरुत | स देवाँ एह वक्षति ||",
+        "translation": "Agni, worthy of praise by ancient and modern seers alike, may he bring the gods here.",
+        "significance": "Establishes Agni's timeless relevance across generations",
+        "theme": "Divine Connection"
+      },
+      {
+        "reference": "3.1.1",
+        "sanskrit": "अभि त्वा शूर नोनुमो वयं घृणेन वावृधः | अग्ने वृषण्यं वृषा ||",
+        "translation": "O hero Agni, we increase you with our hymns. O mighty one, you are the mightiest.",
+        "significance": "Celebrates Agni's heroic aspect and power",
+        "theme": "Strength"
+      },
+      {
+        "reference": "6.1.1",
+        "sanskrit": "अग्निं धीभिर्मनसा विद्युतैः | यशं प्र शंसामि तमीमहे ||",
+        "translation": "With thoughts, mind and hymns, I praise Agni, the illustrious one whom we worship.",
+        "significance": "Mental and spiritual devotion to divine fire",
+        "theme": "Devotion"
+      },
+      {
+        "reference": "10.87.1",
+        "sanskrit": "पृथिवि त्वं वरुण उत द्यौः त्वं त्वम् अग्ने |",
+        "translation": "You are the earth, Varuna, and you are the sky, you are Agni.",
+        "significance": "Shows Agni's cosmic, all-pervading nature",
+        "theme": "Cosmic Unity"
+      }
+    ],
+    "visualCharacter": "Depicted with flames, holding sacred ladle, riding a ram",
+    "associations": ["Dawn", "Lightning", "Household hearth", "Sacrificial altar"],
+    "keyQualities": ["Omnipresent", "Purifying", "Witness to all deeds", "Never-aging"],
+    "ageGroup": "All ages - Beginner friendly",
+    "color": "from-red-100 to-orange-100",
+    "stories": ["The Wise Fish and Sacred Fire", "Agni's Journey to the Gods", "The Three Sacred Flames"]
+  },
+  {
+    "id": "indra",
+    "name": "इन्द्र",
+    "nameEnglish": "Indra",
+    "title": "King of Gods & Thunder",
+    "emoji": "⚡",
+    "description": "Indra is the mighty warrior god, wielder of the thunderbolt (Vajra), and slayer of the demon Vritra who held back the cosmic waters. He represents divine strength, heroism, and the force that breaks through obstacles. More hymns are dedicated to Indra than any other deity in the Rig Veda.",
+    "symbolism": "Power, victory, rainfall, fertility, protection, heroic action",
+    "character": "The Supreme Warrior",
+    "hymnCount": 250,
+    "primaryMandalas": [1, 2, 3, 4, 5, 6, 7, 8, 10],
+    "famousHymns": [
+      {
+        "reference": "1.32.1",
+        "sanskrit": "इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री | अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम् ||",
+        "translation": "Now I shall proclaim the heroic deeds of Indra, which the thunderbolt-wielder performed first. He slew the dragon and released the waters; he split open the bellies of mountains.",
+        "significance": "The famous Vritra-slaying myth - Indra's greatest victory",
+        "theme": "Victory"
+      },
+      {
+        "reference": "2.12.1",
+        "sanskrit": "यो जात एव प्रथमो मनस्वान्देवो देवानां क्रतुना पर्यभूषत् | यस्य शुष्माद्रोदसी अभ्यसेतां नृम्णस्य महिमा स जनास इन्द्रः ||",
+        "translation": "Who from birth was the wisest of the wise, a god who by his power protected the gods; before whose might the two worlds trembled by reason of the greatness of his valor - he, O people, is Indra.",
+        "significance": "Defines Indra's supreme position among all deities",
+        "theme": "Supremacy"
+      },
+      {
+        "reference": "3.32.1",
+        "sanskrit": "इन्द्रं विश्वा अवीवृधन्त् समुद्र व्यचस्वती | इन्द्रं पर्वतासश्चित् ||",
+        "translation": "All rivers have magnified Indra, and the streams also. Mountains too have exalted Indra.",
+        "significance": "Nature itself celebrates Indra's glory",
+        "theme": "Universal Praise"
+      },
+      {
+        "reference": "4.16.2",
+        "sanskrit": "त्वं वज्रिन् वृत्रतूर्येण वृत्रं जघन्थ महत्या वधेन |",
+        "translation": "You, O wielder of the vajra, with your mighty weapon struck down Vritra.",
+        "significance": "Celebrates the vajra (thunderbolt) as ultimate weapon",
+        "theme": "Divine Weapon"
+      },
+      {
+        "reference": "8.14.1",
+        "sanskrit": "इममिन्द्राय सोममिन्द्रपानं हरी वहतः |",
+        "translation": "This soma is for Indra; the two bay horses bring Indra to drink.",
+        "significance": "Indra's love for soma and his divine horses",
+        "theme": "Divine Celebration"
+      }
+    ],
+    "visualCharacter": "Rides two bay horses, wields vajra thunderbolt, golden-hued warrior",
+    "associations": ["Thunder", "Rain", "Battle", "Soma ritual", "Cosmic order"],
+    "keyQualities": ["Invincible", "Generous", "Protector of Aryans", "Soma-lover"],
+    "ageGroup": "Ages 8+ - Action & heroism",
+    "color": "from-blue-100 to-indigo-100",
+    "stories": ["Indra's Cosmic Horses", "The Battle with Vritra", "Thunder's Teaching"]
+  },
+  {
+    "id": "varuna",
+    "name": "वरुण",
+    "nameEnglish": "Varuna",
+    "title": "Guardian of Cosmic Law",
+    "emoji": "🌊",
+    "description": "Varuna is the all-seeing guardian of Rita (cosmic order and moral law). He rules over the waters, the night sky, and the hidden realms. His thousand eyes miss nothing - he knows truth from falsehood and watches over all oaths and promises. A deeply philosophical deity representing conscience and cosmic justice.",
+    "symbolism": "Truth, moral law (Rita), water, sky, cosmic order, forgiveness",
+    "character": "The All-Seeing Judge",
+    "hymnCount": 46,
+    "primaryMandalas": [1, 2, 5, 7, 8, 10],
+    "famousHymns": [
+      {
+        "reference": "7.86.1",
+        "sanskrit": "बोधि होता मधुमां मन्द्र वल्गुः पीपायन्तं यदुषसः विश्वधायसः |",
+        "translation": "Wise, inspirational, sweet-voiced is the priest who nourishes all creatures at the dawning of the day.",
+        "significance": "Varuna-Vasishtha dialogue - one of Rig Veda's most moving passages",
+        "theme": "Forgiveness"
+      },
+      {
+        "reference": "7.86.3",
+        "sanskrit": "कित्त्यो अस्ति वरुण त्रविषो यदहं चिकितुषः | नवेद् इत्स्य कर्तवे ||",
+        "translation": "What, O Varuna, has been my chief transgression that you would destroy the friend who praises you?",
+        "significance": "Human plea for mercy - shows personal relationship with divine",
+        "theme": "Confession"
+      },
+      {
+        "reference": "1.25.1",
+        "sanskrit": "कविं अस्येकः सुभरितं सहो यः पाथःपा इत्तमो |",
+        "translation": "The wise, the pure, the powerful Varuna is the best protector of pathways.",
+        "significance": "Varuna as cosmic guide and protector",
+        "theme": "Divine Guidance"
+      },
+      {
+        "reference": "5.85.1",
+        "sanskrit": "उदुत्यं वरुणं चित्रमृष्वं मित्रं सत्यदक्षं |",
+        "translation": "I praise the wondrous, exalted Varuna and Mitra of true strength.",
+        "significance": "Varuna-Mitra pair representing day-night cosmic balance",
+        "theme": "Cosmic Balance"
+      },
+      {
+        "reference": "7.88.2",
+        "sanskrit": "मा नो वधी रुद्र मा परा दा मा ते भूम प्रतिदाने अनागाः |",
+        "translation": "Do not destroy us, O Rudra, do not forsake us. May we not be guilty in your retribution.",
+        "significance": "Prayer for protection from divine wrath",
+        "theme": "Protection"
+      }
+    ],
+    "visualCharacter": "Seated on aquatic creature, holding noose (pasha), robed in cosmic waters",
+    "associations": ["Ocean", "Rivers", "Night", "Moon", "Oaths", "Truth"],
+    "keyQualities": ["Omniscient", "Just", "Merciful", "Guardian of Rita"],
+    "ageGroup": "Ages 13+ - Deep philosophy",
+    "color": "from-blue-100 to-cyan-100",
+    "stories": ["The Patient Crocodile's Wisdom", "Rivers that Remember", "Ocean's Ancient Laws"]
+  },
+  {
+    "id": "soma",
+    "name": "सोम",
+    "nameEnglish": "Soma",
+    "title": "Sacred Essence of Enlightenment",
+    "emoji": "🌿",
+    "description": "Soma is the divine essence extracted from a sacred plant and offered in Vedic rituals. Personified as a god, Soma represents purification, enlightenment, inspiration, and the nectar of immortality. The entire 9th Mandala (114 hymns) is dedicated solely to Soma - unique in the Rig Veda.",
+    "symbolism": "Purification, clarity, poetic inspiration, divine bliss, immortality",
+    "character": "The Purifying Stream",
+    "hymnCount": 123,
+    "primaryMandalas": [9],
+    "famousHymns": [
+      {
+        "reference": "9.1.1",
+        "sanskrit": "अयं सुतः सोमो अद्रिभिः | पवित्रं विदथे अर्षति ||",
+        "translation": "This pressed soma flows through the filter to the assembly, purified by stones.",
+        "significance": "Opening of the sacred 9th Mandala dedicated entirely to Soma",
+        "theme": "Purification"
+      },
+      {
+        "reference": "9.113.7",
+        "sanskrit": "यत्र ज्योतिर्जन्म | तस्मिन् मामृतं लोके |",
+        "translation": "Where there is eternal light, in that immortal realm place me, O Soma.",
+        "significance": "Prayer for immortality through Soma's grace",
+        "theme": "Immortality"
+      },
+      {
+        "reference": "9.107.14",
+        "sanskrit": "पवमान हि ते पयो देव सोमाभि संदृशः |",
+        "translation": "O divine Soma Pavamana, your purifying milk is clearly visible.",
+        "significance": "Soma Pavamana - 'flowing and purifying' aspect",
+        "theme": "Divine Flow"
+      },
+      {
+        "reference": "9.2.5",
+        "sanskrit": "गौर्भरत् सुता इमे सोमासो दधि प्र्यम् |",
+        "translation": "The bright milk-bearing soma is pressed, mingled with curds.",
+        "significance": "Ritual preparation of soma described poetically",
+        "theme": "Sacred Ritual"
+      },
+      {
+        "reference": "9.86.19",
+        "sanskrit": "यत्र काम निकामाः तस्मिन् मा पुनरा धेहि |",
+        "translation": "Where desires are fulfilled, there establish me again, O Purifier.",
+        "significance": "Soma as granter of spiritual desires",
+        "theme": "Fulfillment"
+      }
+    ],
+    "visualCharacter": "Golden-hued, flowing like water, adorned with sacred plants",
+    "associations": ["Moon", "Healing", "Poetry", "Rituals", "Divine nectar"],
+    "keyQualities": ["Purifying", "Enlightening", "Immortal", "All-pervading"],
+    "ageGroup": "Ages 15+ - Mystical content",
+    "color": "from-green-100 to-emerald-100",
+    "stories": ["The Golden Stream", "Soma's Journey Through the Worlds", "The Purifying Light"]
+  },
+  {
+    "id": "ushas",
+    "name": "उषस्",
+    "nameEnglish": "Ushas",
+    "title": "Goddess of Dawn",
+    "emoji": "🌅",
+    "description": "Ushas is the radiant goddess of dawn who awakens the world each morning. She is portrayed as a beautiful maiden adorned in light, riding a golden chariot drawn by ruddy cows or horses. Ushas represents new beginnings, hope, consciousness, and the eternal cycle of renewal. The hymns to her are among the most poetic in the Rig Veda.",
+    "symbolism": "New beginnings, hope, beauty, awakening, eternal youth",
+    "character": "The Eternal Dawn Maiden",
+    "hymnCount": 20,
+    "primaryMandalas": [1, 3, 5, 7, 10],
+    "famousHymns": [
+      {
+        "reference": "1.113.1",
+        "sanskrit": "इयं उषा अभूद्विचक्षणा गावो न योथा वि व्रजं चरन्ति |",
+        "translation": "This Dawn has appeared with her illumination, like cattle from their stall, spreading in all directions.",
+        "significance": "Beautiful metaphor comparing dawn to cattle being released",
+        "theme": "Awakening"
+      },
+      {
+        "reference": "1.113.7",
+        "sanskrit": "उषो यच्छसि सूनृता अभि प्रियमदत्रमा |",
+        "translation": "O Dawn, when you grant us your lovely treasures and your unerring bounty.",
+        "significance": "Dawn as giver of blessings and treasures",
+        "theme": "Blessing"
+      },
+      {
+        "reference": "1.92.1",
+        "sanskrit": "एदु नू उषा उच्छाद् देवी वह्निं न चिक्वुषी |",
+        "translation": "Now indeed Dawn, the divine goddess, has shone forth, kindling the flame.",
+        "significance": "Dawn awakening the sacred fire",
+        "theme": "Sacred Connection"
+      },
+      {
+        "reference": "7.81.1",
+        "sanskrit": "आज्जानत जनित्री धियो न उषा सूनृतानाम् |",
+        "translation": "The mother Dawn who gives birth to thoughts, to holy hymns, has become known.",
+        "significance": "Dawn as inspirer of spiritual thoughts",
+        "theme": "Inspiration"
+      },
+      {
+        "reference": "5.80.5",
+        "sanskrit": "युवा कुमारी वयुनानि विद्वान् माता देवानामदितेर् निधा अभूत् |",
+        "translation": "Young maiden knowing all wisdom, she became the treasure-house of the immortal gods, the mother Aditi.",
+        "significance": "Dawn's eternal youth and cosmic motherhood",
+        "theme": "Eternal Youth"
+      }
+    ],
+    "visualCharacter": "Radiant maiden in golden-red robes, riding chariot drawn by red cows",
+    "associations": ["Sunrise", "Morning light", "Hope", "New beginnings", "Beauty"],
+    "keyQualities": ["Ever-young", "Beautiful", "Life-giving", "Awakener"],
+    "ageGroup": "All ages - Inspiring & beautiful",
+    "color": "from-pink-100 to-orange-100",
+    "stories": ["The Early Bird's Revelation", "Dance of First Light", "Morning's Sacred Promise"]
+  },
+  {
+    "id": "surya",
+    "name": "सूर्य",
+    "nameEnglish": "Surya",
+    "title": "The Solar Deity",
+    "emoji": "☀️",
+    "description": "Surya is the sun god who brings light, life, and knowledge to the world. He rides across the sky in a golden chariot drawn by seven horses, representing the seven rays of the sun or the seven days of the week. Surya is the eye of Varuna and Mitra, the all-seeing witness who dispels darkness both physical and spiritual.",
+    "symbolism": "Light, life, vision, time, universal witness, knowledge",
+    "character": "The All-Seeing Eye",
+    "hymnCount": 10,
+    "primaryMandalas": [1, 7, 10],
+    "famousHymns": [
+      {
+        "reference": "1.50.1",
+        "sanskrit": "उद्वयं तमसस्परि ज्योतिः पश्यन्त उत्तरम् | देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तमम् ||",
+        "translation": "Seeing the higher light beyond the darkness, we have reached Surya, god among gods, the light supreme.",
+        "significance": "Surya as the supreme illuminator and divine among divines",
+        "theme": "Supreme Light"
+      },
+      {
+        "reference": "1.50.4",
+        "sanskrit": "चित्रं देवानामुदगादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः |",
+        "translation": "The brilliant face of the gods has risen, the eye of Mitra, Varuna and Agni.",
+        "significance": "Sun as the divine eye seeing all truth",
+        "theme": "Divine Vision"
+      },
+      {
+        "reference": "7.63.1",
+        "sanskrit": "तच्चक्षुर्देवहितं पुरस्ताच्छुक्रमुच्चरत् | पश्येम शरदः शतं ||",
+        "translation": "May we see for a hundred autumns that blessed eye established by the gods, rising radiant in the east.",
+        "significance": "Prayer for long life with clear vision",
+        "theme": "Longevity"
+      },
+      {
+        "reference": "1.115.1",
+        "sanskrit": "चित्रं देवानां उद्गादनीकं चक्षुर्मित्रस्य वरुणस्याग्नेः |",
+        "translation": "The wondrous countenance of the gods has arisen; the eye of Mitra, Varuna, and Agni.",
+        "significance": "Universal witnessing power of the sun",
+        "theme": "Universal Witness"
+      },
+      {
+        "reference": "10.37.1",
+        "sanskrit": "सूर्यस्य यो रश्मिभिरास्तनोति दिवा वसानो अक्तुभिर्विभाति |",
+        "translation": "He who spreads out with the rays of the sun, dwelling by day, shines with his beams.",
+        "significance": "Sun's rays as cosmic reach",
+        "theme": "Cosmic Reach"
+      }
+    ],
+    "visualCharacter": "Golden-hued, riding chariot with seven horses, radiating light",
+    "associations": ["Daylight", "Time", "Seasons", "Life force", "Health"],
+    "keyQualities": ["All-seeing", "Life-giving", "Illuminating", "Eternal"],
+    "ageGroup": "All ages - Universal symbol",
+    "color": "from-yellow-100 to-amber-100",
+    "stories": ["The Seven Horses of Heaven", "The Sun's Daily Journey", "Eye of the Universe"]
+  },
+  {
+    "id": "maruts",
+    "name": "मरुतः",
+    "nameEnglish": "Maruts",
+    "title": "Storm Gods & Warriors",
+    "emoji": "🌪️",
+    "description": "The Maruts are a group of storm gods, sons of Rudra and Prisni, companions of Indra. They ride in golden chariots wielding lightning and thunderbolts, bringing both destructive storms and life-giving rain. Portrayed as young, fierce, and handsome warriors who roar across the heavens, shaking mountains and forests with their power.",
+    "symbolism": "Storm, rain, collective power, youthful energy, natural forces",
+    "character": "The Divine Storm Troop",
+    "hymnCount": 33,
+    "primaryMandalas": [1, 5, 8],
+    "famousHymns": [
+      {
+        "reference": "1.85.1",
+        "sanskrit": "प्र वो महे महिमाने तवीयसे ब्रह्म गायत्र मरुद्भ्यो अर्चाति |",
+        "translation": "To your great and powerful might, O Maruts, the hymn-singer offers his song.",
+        "significance": "Invocation to the collective power of storm gods",
+        "theme": "Collective Power"
+      },
+      {
+        "reference": "1.87.1",
+        "sanskrit": "आदित् सोमाय मरुतो मरुत्वते यूयं प्र गायत सुवीर्याय |",
+        "translation": "Sing to Soma and to the Maruts, possessed of Marut-power, for heroic strength.",
+        "significance": "Maruts as companions in divine ritual",
+        "theme": "Divine Companionship"
+      },
+      {
+        "reference": "5.52.1",
+        "sanskrit": "कस्मा उ न प्रियो अभूद् मरुत्वान् यत् पिता जीवो न रिरिक्थ पुत्रान् |",
+        "translation": "To whom have you not been dear, O Maruts? For the father does not abandon his living sons.",
+        "significance": "Maruts as divine family caring for devotees",
+        "theme": "Divine Care"
+      },
+      {
+        "reference": "5.53.1",
+        "sanskrit": "किं नो मरुत इन्द्राय कर्णो न प्र यच्छथ सख्ये अस्मे |",
+        "translation": "Why, O Maruts, do you not lend your ears to Indra's sake, in friendship with us?",
+        "significance": "Complex relationship between Indra and Maruts",
+        "theme": "Divine Relationships"
+      },
+      {
+        "reference": "8.20.1",
+        "sanskrit": "केन मर्यः पृक्षासे अमित्राँ अभि मर्म्मृशः |",
+        "translation": "By what means, O youthful ones, do you crush enemies and pierce through them?",
+        "significance": "Maruts as divine warriors protecting devotees",
+        "theme": "Protection"
+      }
+    ],
+    "visualCharacter": "Young warriors in golden armor, riding storm chariots, wielding lightning",
+    "associations": ["Rain", "Thunder", "Wind", "Clouds", "Mountains"],
+    "keyQualities": ["Youthful", "Fierce", "Benevolent", "United"],
+    "ageGroup": "Ages 8+ - Action-packed",
+    "color": "from-gray-100 to-blue-100",
+    "stories": ["The Storm Brothers", "When Mountains Trembled", "Rain's Gift"]
+  },
+  {
+    "id": "ashvins",
+    "name": "अश्विनौ",
+    "nameEnglish": "Ashvins",
+    "title": "Divine Twin Physicians",
+    "emoji": "🐎",
+    "description": "The Ashvins are divine twin brothers, sons of the sun god, who ride across the sky in a golden chariot before dawn. They are celestial physicians who heal the sick, rescue those in distress, and bring good fortune. Young, handsome, and ever-youthful, they represent compassion, healing, and divine intervention in times of need.",
+    "symbolism": "Healing, rescue, dawn, duality, divine compassion, miracles",
+    "character": "The Divine Healers",
+    "hymnCount": 50,
+    "primaryMandalas": [1, 7, 8, 10],
+    "famousHymns": [
+      {
+        "reference": "1.116.1",
+        "sanskrit": "नासत्या सस्वरा हुवे अश्विना पुरुभुजा | इमं यज्ञमुप गच्छतं युवं नरा शवीरया ||",
+        "translation": "I call the Nasatyas (Ashvins), the benefactors of many. Come, O heroes, to this sacrifice with your power.",
+        "significance": "Classic invocation to the healing twins",
+        "theme": "Divine Healing"
+      },
+      {
+        "reference": "1.117.7",
+        "sanskrit": "यत् चक्रं वर्तनिर्नरा अपश्यं तन्तुं तन्वन्नृजुना पर्येति |",
+        "translation": "When the wheel turns, O heroes, the weaver stretches the thread straight around it.",
+        "significance": "Mysterious metaphor about cosmic order and healing",
+        "theme": "Cosmic Order"
+      },
+      {
+        "reference": "1.118.1",
+        "sanskrit": "अश्विना पुरुदंससा नरा शवसा सुतं पिबतं सोममस्य |",
+        "translation": "O Ashvins, wonderful workers, O heroes, drink the pressed soma by your might.",
+        "significance": "Ashvins partaking in sacred ritual",
+        "theme": "Sacred Ritual"
+      },
+      {
+        "reference": "7.71.1",
+        "sanskrit": "अश्विना यज्वरीर इषो दुहाने पयः सुधं अक्रिणुतं युवजुष्टम् |",
+        "translation": "O Ashvins who love sacrifice, milking refreshments, you made the sweet milk pleasant for the youth.",
+        "significance": "Ashvins providing nourishment and comfort",
+        "theme": "Divine Nourishment"
+      },
+      {
+        "reference": "10.39.3",
+        "sanskrit": "युवं श्येनस्य पत्मना सुपर्णस्य वेधसा | आरात् सोममभीरथम् ||",
+        "translation": "You brought soma from afar by the flight of the eagle, by the wisdom of the golden bird.",
+        "significance": "Miraculous rescue and acquisition of soma",
+        "theme": "Divine Miracle"
+      }
+    ],
+    "visualCharacter": "Twin youths riding golden chariot, healing herbs in hand, eternally young",
+    "associations": ["Dawn", "Medicine", "Rescue", "Fortune", "Horses"],
+    "keyQualities": ["Compassionate", "Swift", "Miraculous", "Youthful"],
+    "ageGroup": "All ages - Heroes & helpers",
+    "color": "from-amber-100 to-yellow-100",
+    "stories": ["The Twin Healers", "Rescue at Dawn", "The Golden Chariot"]
+  },
+  {
+    "id": "rudra",
+    "name": "रुद्र",
+    "nameEnglish": "Rudra",
+    "title": "The Fierce Storm God",
+    "emoji": "⛈️",
+    "description": "Rudra is the fierce and terrifying aspect of divine power, associated with storms, hunting, and destruction. Yet he is also a healer, the father of the Maruts, and shows mercy to those who propitiate him. Rudra represents the duality of nature - both terrible and benevolent, destroyer and healer. He is the precursor to Lord Shiva of later Hindu tradition.",
+    "symbolism": "Storm, destruction, healing, duality, divine wrath, mercy",
+    "character": "The Terrible & Benevolent",
+    "hymnCount": 5,
+    "primaryMandalas": [1, 2, 7],
+    "famousHymns": [
+      {
+        "reference": "1.114.1",
+        "sanskrit": "इमा रुद्राय तवसे कपर्दिने क्षयद्वीराय प्र भरामहे मतीः |",
+        "translation": "We offer these prayers to Rudra, the strong one with braided hair, the lord of heroes.",
+        "significance": "Respectful prayer to the fierce deity",
+        "theme": "Reverent Fear"
+      },
+      {
+        "reference": "1.114.6",
+        "sanskrit": "मा नो महान्तमुत मा नो अर्भकं मा नः उक्षन्तमुत मा न उक्षितम् | मा नो वधीः पितरं मोत मातरं मा नः प्रियास्तन्वो रुद्र रीरिषः ||",
+        "translation": "Do not harm our great or our small, our growing or our grown. Do not kill our father or mother, do not harm our dear bodies, O Rudra.",
+        "significance": "Heartfelt plea for family protection from divine wrath",
+        "theme": "Family Protection"
+      },
+      {
+        "reference": "2.33.1",
+        "sanskrit": "पिता रुद्राणां उत वा स्वसा बहवः सुमार्याः |",
+        "translation": "He is the father of the Maruts, or their sister - many are the noble ones.",
+        "significance": "Rudra's mysterious relationship with the Maruts",
+        "theme": "Divine Mystery"
+      },
+      {
+        "reference": "7.46.1",
+        "sanskrit": "हितः शुचा यो अभि वीरो अस्थाद् रुद्रः शर्द्धन्तो अदितिं दिवेदिवे |",
+        "translation": "The hero Rudra who stands resplendent, roaring daily toward the unconquerable Aditi.",
+        "significance": "Rudra's awesome power and eternal nature",
+        "theme": "Divine Power"
+      },
+      {
+        "reference": "7.46.2",
+        "sanskrit": "मा नः पुत्रेषु रीरिषो मा नो गोषु मा नो अश्वेषु रीरिषः |",
+        "translation": "Do not harm our children, do not harm our cattle, do not harm our horses.",
+        "significance": "Prayer for protection of family and livelihood",
+        "theme": "Protection Prayer"
+      }
+    ],
+    "visualCharacter": "Wild-haired deity with bow and arrows, fierce expression, storm clouds",
+    "associations": ["Storms", "Medicine", "Hunting", "Mountains", "Animals"],
+    "keyQualities": ["Fierce", "Healing", "Protective", "Unpredictable"],
+    "ageGroup": "Ages 13+ - Complex deity",
+    "color": "from-gray-100 to-slate-100",
+    "stories": ["The Storm Lord's Mercy", "Rudra's Healing Power", "Father of the Maruts"]
+  },
+  {
+    "id": "sarasvati",
+    "name": "सरस्वती",
+    "nameEnglish": "Sarasvati",
+    "title": "Goddess of Speech & Rivers",
+    "emoji": "🌊",
+    "description": "Sarasvati is the goddess of speech, knowledge, and the sacred river. She represents the flow of wisdom, eloquence, and creativity. In Vedic times primarily a river goddess, she became the patron of learning, music, and arts. Sarasvati purifies thought and speech, inspiring poets, priests, and seekers of knowledge.",
+    "symbolism": "Speech, knowledge, rivers, purification, wisdom, eloquence",
+    "character": "The Flowing Wisdom",
+    "hymnCount": 3,
+    "primaryMandalas": [6, 7],
+    "famousHymns": [
+      {
+        "reference": "6.61.1",
+        "sanskrit": "इमं मे गङ्गे यमुने सरस्वति शुतुद्रि स्तोमं सचता परुष्ण्या | असिक्न्या मरुद्वृधे वितस्तया आर्जीकीये शृणुह्या सुषोमया ||",
+        "translation": "O Ganga, Yamuna, Sarasvati, Shutudri - hear this hymn of praise! With Parushni, Marudvridha, Vitasta with Arjikiya and Sushoma.",
+        "significance": "The famous river hymn (Nadistuti) celebrating sacred rivers",
+        "theme": "Sacred Rivers"
+      },
+      {
+        "reference": "6.61.4",
+        "sanskrit": "इमा या नद्यः सुरथा इव प्र यन्ति सरस्वत्यै प्रथमाय देव्यै |",
+        "translation": "These rivers go forward like well-driven chariots, to Sarasvati, the foremost goddess.",
+        "significance": "Sarasvati as supreme among river goddesses",
+        "theme": "Supreme Goddess"
+      },
+      {
+        "reference": "7.95.1",
+        "sanskrit": "इमं मे वरुण श्रुधीहवमद्या च मृडय | त्वामवस्युरा चके ||",
+        "translation": "Hear this my call, O Varuna, and be gracious now. I seek you desiring protection.",
+        "significance": "Associated prayer mentioning divine rivers",
+        "theme": "Divine Protection"
+      },
+      {
+        "reference": "6.61.12",
+        "sanskrit": "पर्जन्यवाता वृषभा रिहन्ति सिन्धवः शूरा इव प्र यन्ति |",
+        "translation": "The rain clouds roar like bulls; the rivers rush forward like warriors.",
+        "significance": "Vivid imagery of river power and movement",
+        "theme": "Natural Power"
+      },
+      {
+        "reference": "7.95.2",
+        "sanskrit": "एतावानस्य महिमा ज्यायांश्च पुरुषाद्वृहान् |",
+        "translation": "So great is her glory, greater and mightier than man.",
+        "significance": "Celebrating the transcendent nature of Sarasvati",
+        "theme": "Divine Transcendence"
+      }
+    ],
+    "visualCharacter": "Flowing goddess with book/veena, white robes, swan vehicle, serene",
+    "associations": ["Rivers", "Speech", "Learning", "Music", "Purity"],
+    "keyQualities": ["Eloquent", "Purifying", "Inspiring", "Wise"],
+    "ageGroup": "All ages - Learning & wisdom",
+    "color": "from-blue-100 to-teal-100",
+    "stories": ["The River of Knowledge", "Song of Sarasvati", "The Purifying Flow"]
+  }
+]

@@ -1,0 +1,475 @@
+[
+  {
+    "id": "courage",
+    "name": "साहस",
+    "nameEnglish": "Courage & Heroism",
+    "emoji": "⚔️",
+    "description": "The Rig Veda celebrates courage in facing life's battles - both external and internal. From Indra's heroic defeat of Vritra to the bravery of ancient seers speaking truth, these hymns inspire us to face our fears with strength and determination.",
+    "coreMessage": "True courage comes from righteousness and divine support. Face your challenges with fearless determination.",
+    "keyVerses": [
+      {
+        "reference": "1.32.1",
+        "deity": "Indra",
+        "sanskrit": "इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री |",
+        "translation": "Now I shall proclaim the heroic deeds of Indra, which the thunderbolt-wielder performed first.",
+        "lesson": "Proclaim your victories and inspire others through your courageous actions."
+      },
+      {
+        "reference": "2.12.1",
+        "deity": "Indra",
+        "sanskrit": "यो जात एव प्रथमो मनस्वान्देवो देवानां क्रतुना पर्यभूषत् |",
+        "translation": "Who from birth was the wisest, a god who by his power protected the gods.",
+        "lesson": "Wisdom combined with strength creates true heroism."
+      },
+      {
+        "reference": "6.75.1",
+        "deity": "Various",
+        "sanskrit": "अयं वां मित्रावरुणा वृणानो हव्यो वरुत्रं जगत्वानम् |",
+        "translation": "This invoker calls you, Mitra and Varuna, choosing you as protectors of the moving world.",
+        "lesson": "Seek divine protection when facing great challenges."
+      },
+      {
+        "reference": "10.125.3",
+        "deity": "Vak (Speech)",
+        "sanskrit": "अहं रुद्राय धनुरा तनोमि ब्रह्मद्विषे शरवे हन्तवा उ |",
+        "translation": "I bend the bow for Rudra to slay the hater of sacred speech.",
+        "lesson": "Stand up courageously for truth and righteousness."
+      }
+    ],
+    "relatedDeities": ["Indra", "Maruts", "Agni", "Rudra"],
+    "practicalApplication": "When facing difficult situations, remember these verses. Take courage from knowing that righteousness and truth are on your side.",
+    "ageGroup": "Ages 8+ - Life lessons",
+    "color": "from-red-100 to-orange-100",
+    "stories": ["The Battle with Vritra", "Thunder's Teaching", "The Storm Brothers"]
+  },
+  {
+    "id": "truth",
+    "name": "सत्य",
+    "nameEnglish": "Truth & Honesty",
+    "emoji": "✨",
+    "description": "Rita (cosmic truth) is the foundation of Vedic philosophy. Truth is not just honesty in speech but alignment with cosmic order, natural law, and dharma. These hymns teach that truth is the highest virtue, protected by Varuna and all righteous deities.",
+    "coreMessage": "Truth is the foundation of the universe. Speak truth, live truth, be truth.",
+    "keyVerses": [
+      {
+        "reference": "7.86.3",
+        "deity": "Varuna",
+        "sanskrit": "कित्त्यो अस्ति वरुण त्रविषो यदहं चिकितुषः |",
+        "translation": "What, O Varuna, has been my chief transgression that you would destroy the friend who praises you?",
+        "lesson": "Confess your wrongs honestly and seek forgiveness with sincere heart."
+      },
+      {
+        "reference": "1.25.1",
+        "deity": "Varuna",
+        "sanskrit": "कविं अस्येकः सुभरितं सहो यः पाथःपा इत्तमो |",
+        "translation": "The wise, the pure, the powerful Varuna is the best protector of pathways.",
+        "lesson": "Walk the path of truth; it is protected by divine law."
+      },
+      {
+        "reference": "4.23.8",
+        "deity": "Various",
+        "sanskrit": "ऋतं वदन्तः ऋतमित्स्वे धामन्नुपस्थे अधि सानवि प्रियम् |",
+        "translation": "Speaking truth, truth indeed in its own dwelling place, on the summit of the mountain.",
+        "lesson": "Truth should be spoken from the highest place of consciousness."
+      },
+      {
+        "reference": "5.51.1",
+        "deity": "Vishvedevas",
+        "sanskrit": "ऋतेन ऋतमपिहितं धीरा देवासो असुरत्वमापुः |",
+        "translation": "By truth the wise gods attained divine nature, truth protecting truth.",
+        "lesson": "Living in truth elevates you to divine consciousness."
+      }
+    ],
+    "relatedDeities": ["Varuna", "Mitra", "Agni", "Surya"],
+    "practicalApplication": "Practice radical honesty. When you make a mistake, admit it quickly. Let your words and actions align with truth.",
+    "ageGroup": "Ages 10+ - Moral foundation",
+    "color": "from-blue-100 to-cyan-100",
+    "stories": ["The Patient Crocodile's Wisdom", "Ocean's Ancient Laws", "Rivers that Remember"]
+  },
+  {
+    "id": "wisdom",
+    "name": "ज्ञान",
+    "nameEnglish": "Wisdom & Knowledge",
+    "emoji": "📚",
+    "description": "The Rig Veda prizes wisdom above all else - not mere information, but deep understanding of cosmic principles, self-knowledge, and the ability to see the divine in all things. True wisdom leads to enlightenment and liberation.",
+    "coreMessage": "Seek knowledge that liberates. True wisdom sees the unity in diversity.",
+    "keyVerses": [
+      {
+        "reference": "3.62.10",
+        "deity": "Savitri",
+        "sanskrit": "तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि | धियो यो नः प्रचोदयात् ||",
+        "translation": "We meditate on that excellent glory of the divine Savitri, who may inspire our thoughts.",
+        "lesson": "The famous Gayatri Mantra - prayer for divine inspiration of intellect."
+      },
+      {
+        "reference": "1.164.46",
+        "deity": "Vishvedevas",
+        "sanskrit": "इन्द्रं मित्रं वरुणमग्निमाहुरथो दिव्यः स सुपर्णो गरुत्मान् | एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः ||",
+        "translation": "They call him Indra, Mitra, Varuna, Agni; he is the celestial bird Garuda. The one existence sages call by many names - Agni, Yama, Matarisvan.",
+        "lesson": "Ultimate wisdom sees the one divine reality behind many names and forms."
+      },
+      {
+        "reference": "10.129.1",
+        "deity": "Creation",
+        "sanskrit": "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् |",
+        "translation": "Then even nothingness was not, nor existence. There was no air nor the heavens beyond it.",
+        "lesson": "The deepest wisdom questions even existence itself - the Nasadiya Sukta."
+      },
+      {
+        "reference": "1.89.1",
+        "deity": "Vishvedevas",
+        "sanskrit": "यस्यां देवा विश्वे सदासीदं मधु वेन अवोचन् |",
+        "translation": "In whom all the gods together declared this sweet truth as one.",
+        "lesson": "True knowledge is universal, recognized by all the wise."
+      }
+    ],
+    "relatedDeities": ["Sarasvati", "Agni", "Brihaspati", "Vishvedevas"],
+    "practicalApplication": "Study deeply, question fearlessly, and seek to understand the underlying unity of all things. Knowledge without wisdom is incomplete.",
+    "ageGroup": "Ages 13+ - Deep philosophy",
+    "color": "from-purple-100 to-indigo-100",
+    "stories": ["The River of Knowledge", "Song of Sarasvati", "Eye of the Universe"]
+  },
+  {
+    "id": "gratitude",
+    "name": "कृतज्ञता",
+    "nameEnglish": "Gratitude & Devotion",
+    "emoji": "🙏",
+    "description": "The Rig Veda is filled with hymns of thanksgiving - gratitude for life, light, food, protection, and divine grace. True devotion expresses itself through sincere gratitude and recognition of the sources of all blessings.",
+    "coreMessage": "Gratitude opens the heart to divine grace. Count your blessings daily.",
+    "keyVerses": [
+      {
+        "reference": "1.1.1",
+        "deity": "Agni",
+        "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् | होतारं रत्नधातमम् ||",
+        "translation": "I praise Agni, the priest, the divine minister of sacrifice, the invoker, the greatest bestower of treasures.",
+        "lesson": "Begin everything with gratitude and invocation of the divine."
+      },
+      {
+        "reference": "1.113.7",
+        "deity": "Ushas",
+        "sanskrit": "उषो यच्छसि सूनृता अभि प्रियमदत्रमा |",
+        "translation": "O Dawn, when you grant us your lovely treasures and your unerring bounty.",
+        "lesson": "Greet each new day with gratitude for life's gifts."
+      },
+      {
+        "reference": "2.35.1",
+        "deity": "Apam Napat",
+        "sanskrit": "अपां नपातमविनिषीदन्तं स्वर्विदं मतिभिः |",
+        "translation": "The Child of Waters, dwelling in the good, finding light with our prayers.",
+        "lesson": "Express gratitude for water, the source of all life."
+      },
+      {
+        "reference": "8.48.3",
+        "deity": "Soma",
+        "sanskrit": "अभि त्वा शूर नोनुमो वायव्यस्य पृष्ठ्ये |",
+        "translation": "O hero, we praise you on the summit of the wind's back.",
+        "lesson": "Offer thanks for spiritual experiences and divine presence."
+      }
+    ],
+    "relatedDeities": ["Agni", "Ushas", "All Deities"],
+    "practicalApplication": "Start and end each day with gratitude. Thank people who help you. Recognize divine grace in everyday blessings.",
+    "ageGroup": "All ages - Universal virtue",
+    "color": "from-yellow-100 to-amber-100",
+    "stories": ["The Wise Fish and Sacred Fire", "Dance of First Light", "Morning's Sacred Promise"]
+  },
+  {
+    "id": "unity",
+    "name": "एकता",
+    "nameEnglish": "Unity & Harmony",
+    "emoji": "🤝",
+    "description": "Despite describing many gods and forces, the Rig Veda ultimately points to underlying unity. These hymns teach that diversity exists within oneness, that all beings are interconnected, and that harmony comes from recognizing our fundamental unity.",
+    "coreMessage": "All is one. See the divine in all beings and all beings in the divine.",
+    "keyVerses": [
+      {
+        "reference": "1.164.46",
+        "deity": "Vishvedevas",
+        "sanskrit": "एकं सद्विप्रा बहुधा वदन्त्यग्निं यमं मातरिश्वानमाहुः |",
+        "translation": "The one existence sages call by many names - Agni, Yama, Matarisvan.",
+        "lesson": "The supreme teaching of Vedic unity - many names, one reality."
+      },
+      {
+        "reference": "10.191.2",
+        "deity": "Various",
+        "sanskrit": "सं गच्छध्वं सं वदध्वं सं वो मनांसि जानताम् |",
+        "translation": "Move together, speak together, let your minds be in harmony.",
+        "lesson": "Social unity through aligned thoughts, words, and actions."
+      },
+      {
+        "reference": "10.191.4",
+        "deity": "Various",
+        "sanskrit": "समानो मन्त्रः समितिः समानी समानं मनः सह चित्तमेषाम् |",
+        "translation": "United be your intention, united be your hearts, united be your thoughts, that you may live in harmony.",
+        "lesson": "Perfect harmony comes from unity at all levels of being."
+      },
+      {
+        "reference": "5.60.5",
+        "deity": "Mitra-Varuna",
+        "sanskrit": "इमे यज्ञास्य साधवः स्वाध्योऽप्रयुच्छन्तः |",
+        "translation": "These performers of sacrifice are united, not separating from right practice.",
+        "lesson": "Unity in righteous action strengthens all."
+      }
+    ],
+    "relatedDeities": ["Vishvedevas", "Mitra", "Varuna"],
+    "practicalApplication": "See beyond surface differences. Practice compassion by recognizing the same divine spark in all beings. Work for harmony in your relationships and community.",
+    "ageGroup": "Ages 13+ - Social wisdom",
+    "color": "from-green-100 to-teal-100",
+    "stories": ["The Storm Brothers", "Rivers that Remember", "The Golden Stream"]
+  },
+  {
+    "id": "perseverance",
+    "name": "धैर्य",
+    "nameEnglish": "Perseverance & Patience",
+    "emoji": "🌱",
+    "description": "The Rig Veda teaches that great achievements require sustained effort, patience, and unwavering commitment. Like the dawn that unfailingly returns each morning, or the sacrificial fire that must be tended continuously, success comes through persistent dedication.",
+    "coreMessage": "Keep going. Dawn always comes. The patient person achieves what seems impossible.",
+    "keyVerses": [
+      {
+        "reference": "1.92.1",
+        "deity": "Ushas",
+        "sanskrit": "एदु नू उषा उच्छाद् देवी वह्निं न चिक्वुषी |",
+        "translation": "Now indeed Dawn, the divine goddess, has shone forth, kindling the flame.",
+        "lesson": "Like dawn, return to your practice daily with unfailing regularity."
+      },
+      {
+        "reference": "3.8.4",
+        "deity": "Agni",
+        "sanskrit": "यं त्वा देवास आदधुः पुरोहितं नराशंसं वन्द्यं स्वध्वरेष्वा |",
+        "translation": "You whom the gods have placed as the priest, praiseworthy one, at the good sacrifices.",
+        "lesson": "Continuous service and dedication lead to honored positions."
+      },
+      {
+        "reference": "9.97.32",
+        "deity": "Soma",
+        "sanskrit": "पुनाना धारया कविर्हिरण्ययः |",
+        "translation": "The golden sage flows in a stream, purifying himself.",
+        "lesson": "Continuous flow and self-purification through persistent effort."
+      },
+      {
+        "reference": "7.86.5",
+        "deity": "Varuna",
+        "sanskrit": "किमू नू मन्यमानः किमागाः कदा चिद्धि त्वा स्तवित्या कनिष्ठः |",
+        "translation": "What sin am I thinking of? When will the youngest praiser of you be acceptable?",
+        "lesson": "Patient persistence in spiritual practice eventually brings acceptance."
+      }
+    ],
+    "relatedDeities": ["Ushas", "Agni", "Soma", "Varuna"],
+    "practicalApplication": "When facing long-term challenges, break them into daily practices. Like tending the sacred fire, show up consistently even when results aren't immediate.",
+    "ageGroup": "Ages 10+ - Character building",
+    "color": "from-green-100 to-emerald-100",
+    "stories": ["The Patient Crocodile's Wisdom", "Dance of First Light", "The Golden Stream"]
+  },
+  {
+    "id": "protection",
+    "name": "रक्षा",
+    "nameEnglish": "Protection & Safety",
+    "emoji": "🛡️",
+    "description": "Many Rig Vedic hymns are prayers for protection - from enemies, evil, disease, darkness, and danger. These verses invoke divine guardianship while also teaching that righteousness itself is the best protection. The gods protect those who live in truth and perform right action.",
+    "coreMessage": "Divine protection surrounds the righteous. Seek shelter in truth and dharma.",
+    "keyVerses": [
+      {
+        "reference": "1.114.6",
+        "deity": "Rudra",
+        "sanskrit": "मा नो महान्तमुत मा नो अर्भकं मा नो वधीः पितरं मोत मातरम् |",
+        "translation": "Do not harm our great or our small. Do not kill our father or mother.",
+        "lesson": "Pray for protection of family, especially the vulnerable."
+      },
+      {
+        "reference": "10.190.1",
+        "deity": "Agni-Soma",
+        "sanskrit": "यत् सुपर्णो वृषणा गर्भमादधे दिवि सीदन्नुपरि स्कम्भने |",
+        "translation": "When the mighty bird places the embryo in heaven, sitting on the support above.",
+        "lesson": "Divine protection begins from conception itself."
+      },
+      {
+        "reference": "7.46.2",
+        "deity": "Rudra",
+        "sanskrit": "मा नः पुत्रेषु रीरिषो मा नो गोषु मा नो अश्वेषु रीरिषः |",
+        "translation": "Do not harm our children, do not harm our cattle, do not harm our horses.",
+        "lesson": "Seek protection for livelihood and dependents."
+      },
+      {
+        "reference": "2.29.6",
+        "deity": "Indra",
+        "sanskrit": "त्वं नः पाहि त्वं वर्धय त्वं स्तोतारं प्रवतो रक्ष |",
+        "translation": "You protect us, you increase us, you guard the praiser from the downward path.",
+        "lesson": "Divine protection includes spiritual protection from wrong paths."
+      }
+    ],
+    "relatedDeities": ["Rudra", "Indra", "Agni", "Varuna"],
+    "practicalApplication": "Create safe spaces for yourself and others. Protect the vulnerable. Stand up against injustice. Remember that living righteously is itself protective.",
+    "ageGroup": "All ages - Security needs",
+    "color": "from-blue-100 to-indigo-100",
+    "stories": ["The Storm Lord's Mercy", "Rudra's Healing Power", "Thunder's Teaching"]
+  },
+  {
+    "id": "prosperity",
+    "name": "समृद्धि",
+    "nameEnglish": "Prosperity & Abundance",
+    "emoji": "💰",
+    "description": "The Rig Veda acknowledges the importance of material well-being alongside spiritual growth. These hymns pray for wealth, cattle, children, food, and all forms of abundance - but always in the context of righteous living and generous sharing.",
+    "coreMessage": "Prosperity comes through right action and divine grace. Share your abundance generously.",
+    "keyVerses": [
+      {
+        "reference": "1.1.1",
+        "deity": "Agni",
+        "sanskrit": "होतारं रत्नधातमम् |",
+        "translation": "The invoker, the greatest bestower of treasures.",
+        "lesson": "Agni as the divine source of all treasures and wealth."
+      },
+      {
+        "reference": "2.41.5",
+        "deity": "Various",
+        "sanskrit": "यं राये यं धनसाय हूयते यं केवलाय स्वेनसे |",
+        "translation": "Who is invoked for wealth, for treasure, for prosperity, for abundance.",
+        "lesson": "It is right to pray for material prosperity alongside spiritual blessings."
+      },
+      {
+        "reference": "7.32.14",
+        "deity": "Indra",
+        "sanskrit": "इन्द्रं वाजेषु वाजिनं सहस्रप्रधनं हुवे |",
+        "translation": "I call Indra, lord of booty, giver of a thousand gifts, in the contests for wealth.",
+        "lesson": "Invoke divine help in your efforts for livelihood."
+      },
+      {
+        "reference": "8.78.5",
+        "deity": "Agni",
+        "sanskrit": "अग्ने दाता वसूनां स्तोतारमितृभिः सह |",
+        "translation": "O Agni, giver of treasures, be with the praiser and his companions.",
+        "lesson": "Share your wealth with your community and companions."
+      }
+    ],
+    "relatedDeities": ["Agni", "Indra", "Ashvins", "Pushan"],
+    "practicalApplication": "Work diligently and honestly. Pray for abundance, but also practice generosity. Prosperity flows where there is gratitude and sharing.",
+    "ageGroup": "Ages 13+ - Material success",
+    "color": "from-yellow-100 to-amber-100",
+    "stories": ["The Wise Fish and Sacred Fire", "The Golden Chariot", "Soma's Journey Through the Worlds"]
+  },
+  {
+    "id": "renewal",
+    "name": "नवीकरण",
+    "nameEnglish": "Renewal & Transformation",
+    "emoji": "🔄",
+    "description": "The Rig Veda celebrates the cyclical nature of existence - day and night, seasons, birth and death, destruction and creation. These hymns teach that endings are also beginnings, that purification transforms, and that renewal is the eternal rhythm of the universe.",
+    "coreMessage": "Every ending is a new beginning. Transform through sacred fire. Embrace change as divine rhythm.",
+    "keyVerses": [
+      {
+        "reference": "1.113.1",
+        "deity": "Ushas",
+        "sanskrit": "इयं उषा अभूद्विचक्षणा गावो न योथा वि व्रजं चरन्ति |",
+        "translation": "This Dawn has appeared with her illumination, like cattle from their stall, spreading in all directions.",
+        "lesson": "Each dawn brings complete renewal and fresh opportunity."
+      },
+      {
+        "reference": "9.1.1",
+        "deity": "Soma",
+        "sanskrit": "अयं सुतः सोमो अद्रिभिः पवित्रं विदथे अर्षति |",
+        "translation": "This pressed soma flows through the filter, purified by stones.",
+        "lesson": "Purification and filtering are essential for transformation."
+      },
+      {
+        "reference": "10.16.3",
+        "deity": "Agni",
+        "sanskrit": "शुक्रमत्त शुक्रमा धत्स्व पीवः पीवमा धत्स्व |",
+        "translation": "Place the pure in the pure realm, place the fat in the fat realm.",
+        "lesson": "Funeral hymn showing transformation through fire into new existence."
+      },
+      {
+        "reference": "3.1.23",
+        "deity": "Agni",
+        "sanskrit": "पुरा जातो जातावेदा अप्रतीतः पुरोहितः |",
+        "translation": "Born before, Jatavedas, the unconquerable priest.",
+        "lesson": "The eternal fire is ever-ancient yet ever-renewed."
+      }
+    ],
+    "relatedDeities": ["Ushas", "Soma", "Agni", "Ashvins"],
+    "practicalApplication": "Embrace life changes as opportunities for growth. Practice daily renewal through meditation or prayer. Let go of what no longer serves you.",
+    "ageGroup": "Ages 13+ - Life transitions",
+    "color": "from-purple-100 to-pink-100",
+    "stories": ["Dance of First Light", "The Purifying Light", "Agni's Journey to the Gods"]
+  },
+  {
+    "id": "dharma",
+    "name": "धर्म",
+    "nameEnglish": "Righteousness & Duty",
+    "emoji": "⚖️",
+    "description": "Rita and Dharma represent cosmic order and righteous duty. These hymns teach that there is a right way to live - in harmony with cosmic law, fulfilling one's role, speaking truth, and acting with integrity. Dharma is the foundation of a stable, prosperous, and harmonious world.",
+    "coreMessage": "Follow your dharma faithfully. Right action sustains the cosmos itself.",
+    "keyVerses": [
+      {
+        "reference": "1.105.15",
+        "deity": "Trita",
+        "sanskrit": "स धर्मणा सहो धत्ते स सत्येना गम्यः |",
+        "translation": "He holds power through righteousness, he is reached through truth.",
+        "lesson": "True power and access to the divine come through dharma and truth."
+      },
+      {
+        "reference": "5.51.1",
+        "deity": "Vishvedevas",
+        "sanskrit": "ऋतेन ऋतमपिहितं धीरा देवासो असुरत्वमापुः |",
+        "translation": "By truth the wise gods attained divine nature, truth protecting truth.",
+        "lesson": "Living in rita/dharma elevates you to divine consciousness."
+      },
+      {
+        "reference": "7.65.2",
+        "deity": "Mitra-Varuna",
+        "sanskrit": "तं वां वसिष्ठः सुम्मतौ मित्रावरुणा पुरुस्पृहः |",
+        "translation": "Vasishtha praises you two, Mitra and Varuna, much desired by many.",
+        "lesson": "Mitra-Varuna as guardians of contracts, oaths, and right conduct."
+      },
+      {
+        "reference": "10.117.6",
+        "deity": "Various",
+        "sanskrit": "न स सखा यो न ददाति सख्ये |",
+        "translation": "He is not a friend who gives nothing to his friend.",
+        "lesson": "Dharma in relationships requires mutual giving and support."
+      }
+    ],
+    "relatedDeities": ["Varuna", "Mitra", "Agni", "Vishvedevas"],
+    "practicalApplication": "Know your responsibilities and fulfill them. Keep your promises. Act with integrity even when no one is watching. Support the cosmic order through right action.",
+    "ageGroup": "Ages 10+ - Moral foundation",
+    "color": "from-indigo-100 to-purple-100",
+    "stories": ["Ocean's Ancient Laws", "The Patient Crocodile's Wisdom", "Rivers that Remember"]
+  },
+  {
+    "id": "devotion",
+    "name": "भक्ति",
+    "nameEnglish": "Devotion & Love",
+    "emoji": "❤️",
+    "description": "The Rig Veda is filled with intense devotional poetry - love for the divine expressed through praise, offering, and surrender. These hymns teach that sincere devotion opens the heart to divine grace and creates a personal relationship with the cosmic powers.",
+    "coreMessage": "Love the divine with all your heart. Sincere devotion is the sweetest offering.",
+    "keyVerses": [
+      {
+        "reference": "1.1.2",
+        "deity": "Agni",
+        "sanskrit": "अग्निः पूर्वेभिर्ऋषिभिरीड्यो नूतनैरुत |",
+        "translation": "Agni, worthy of praise by ancient and modern seers alike.",
+        "lesson": "Devotion transcends time - the same divine worthy of eternal love."
+      },
+      {
+        "reference": "8.48.1",
+        "deity": "Soma",
+        "sanskrit": "पवमान सुते सचा इन्द्रायेन्दो परि स्रव |",
+        "translation": "O purifying Soma, when pressed flow around for Indra's sake.",
+        "lesson": "Offering made with love for the beloved deity."
+      },
+      {
+        "reference": "7.86.2",
+        "deity": "Varuna",
+        "sanskrit": "यत् किं चेदं वरुण दयुम्नं ममार क्वा चिदागस्तव धर्मन्विधेम |",
+        "translation": "Whatever divine law of yours, O Varuna, we humans violate day by day.",
+        "lesson": "Devotion includes confession, humility, and seeking forgiveness."
+      },
+      {
+        "reference": "1.154.1",
+        "deity": "Vishnu",
+        "sanskrit": "विष्णोः कर्माणि पश्यत यतो व्रतानि पस्पशे |",
+        "translation": "Behold the deeds of Vishnu, who observed the sacred ordinances.",
+        "lesson": "Devotion includes contemplating and emulating divine qualities."
+      }
+    ],
+    "relatedDeities": ["Agni", "Indra", "Soma", "Varuna", "All Deities"],
+    "practicalApplication": "Develop a personal relationship with the divine. Offer prayers with genuine feeling. See the divine in nature, in others, and in yourself.",
+    "ageGroup": "All ages - Heart-centered",
+    "color": "from-pink-100 to-red-100",
+    "stories": ["The Wise Fish and Sacred Fire", "The Golden Stream", "Morning's Sacred Promise"]
+  }
+]
