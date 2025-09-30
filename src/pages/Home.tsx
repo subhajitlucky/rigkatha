@@ -49,7 +49,7 @@ const Home = () => {
           
           {/* Card 1: By Deity */}
           <PathCard 
-            icon='🎭'
+            icon='ॐ'
             title='By Deity'
             description='Meet the gods, heroes, and nature spirits. Learn through engaging character-driven stories.'
             bestFor='Ages 8-12 • Beginners'
@@ -60,7 +60,7 @@ const Home = () => {
 
           {/* Card 2: By Theme */}
           <PathCard 
-            icon='🎯'
+            icon='🪷'
             title='By Theme'
             description='Explore life lessons on courage, wisdom, truth, and more. Values that matter today.'
             bestFor='Ages 13-18 • Values Learning'
@@ -71,7 +71,7 @@ const Home = () => {
 
           {/* Card 3: By Mandala */}
           <PathCard 
-            icon='📚'
+            icon='📜'
             title='By Mandala'
             description='Study the Rig Veda chapter by chapter, the traditional way. Comprehensive and structured.'
             bestFor='Scholars • Traditional Study'
