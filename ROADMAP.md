@@ -17,14 +17,81 @@ Transform ancient Rig Veda wisdom into engaging visual stories through:
 
 ---
 
+## 📋 **Phase 0: Content Planning** (Day 1 - CRITICAL!)
+
+### 📚 **Approved Sources for Content** (USE ONLY THESE!)
+
+**Primary Sanskrit Text**:
+- [Rigveda Samhita - Wikisource](https://sa.wikisource.org/wiki/ऋग्वेदः) (Devanagari)
+- [Sacred-Texts.com Rig Veda](https://sacred-texts.com/hin/rigveda/) (Sanskrit + English)
+
+**Verified English Translations** (Public Domain):
+- Ralph T.H. Griffith (1896) - Complete, public domain ✅
+- Available at: https://sacred-texts.com/hin/rigveda/
+- VedaWeb Project (University of Cologne): https://vedaweb.uni-koeln.de/rigveda ✅
+
+**Cross-Reference Tool**:
+- Rigveda Online: https://rigveda-online.github.io/ (for verification)
+
+**Attribution Template**:
+```
+Source: Rig Veda Mandala X, Sukta Y, Rik Z
+Translation: Based on Griffith (1896) / VedaWeb
+Adaptation: Original story by RigKatha Team
+```
+
+### 🎯 Story Selection Strategy
+- [ ] Select 5 initial stories from different DEITIES (Indra, Agni, Varuna, Ushas, Ashvins)
+- [ ] Choose hymns with CLEAR narratives (avoid abstract philosophy for MVP)
+- [ ] Find corresponding shlokas with verified translations from approved sources
+- [ ] Write simple story adaptations (100-150 words each)
+- [ ] Identify key lessons for school kids (ages 8-14)
+- [ ] Cross-verify all Sanskrit text and translations
+- [ ] Get Sanskrit accuracy validated (r/sanskrit or scholar contact) - MANDATORY!
+
+### 📊 Content Database Structure
+
+**Organization Strategy**: Hybrid approach
+- **Primary**: By Deity/Character (kid-friendly browsing)
+- **Secondary**: By Theme (learning outcomes)
+- **Meta**: Show Mandala/Sukta/Rik (scholarly rigor)
+
+**Deity Categories** (covers complete Rig Veda):
+1. 🔥 **Agni** (Fire God) - ~200 hymns available
+2. ⚡ **Indra** (Thunder God) - ~250 hymns available
+3. 🌊 **Varuna** (Ocean/Law God) - ~40 hymns available
+4. 🌅 **Ushas** (Dawn Goddess) - ~20 hymns available
+5. 🍷 **Soma** (Sacred Plant) - ~120 hymns available
+6. ☀️ **Surya** (Sun God) - ~10 hymns available
+7. 🏇 **Ashvins** (Divine Twins) - ~50 hymns available
+8. 🌬️ **Vayu** (Wind God) - ~12 hymns available
+
+**Initial Story Selection** (MVP - 5 stories):
+- [ ] 1 Indra story (most popular, action-packed)
+- [ ] 1 Agni story (foundational, appears first in RV)
+- [ ] 1 Ushas story (beautiful, nature-focused)
+- [ ] 1 Varuna story (wisdom, moral lessons)
+- [ ] 1 Ashvins story (teamwork, helping others)
+
+Tasks:
+- [ ] Create stories.json with scalable schema
+- [ ] Prepare shloka sources with proper citations (Mandala.Sukta.Rik format)
+- [ ] Plan character sprite list (reusable across stories)
+- [ ] Map Deity → Stories → Themes → Source Citations
+
+**Why this matters**: Build the right content first, then code becomes easy! Bad content = wasted coding time.
+
+---
+
 ## 📋 **Phase 1: Foundation Setup** (Day 1-2)
 
 ### ✅ Core Setup
 - [x] Initialize React + TypeScript project
-- [ ] Install and configure TailwindCSS
+- [x] Install and configure TailwindCSS  
+- [x] Install React Router
 - [ ] Install Framer Motion for animations
-- [ ] Setup project structure
-- [ ] Configure Vite for optimal performance
+- [x] Setup project structure (basic)
+- [x] Configure Vite for optimal performance
 
 ### 📁 Project Structure
 ```
@@ -79,6 +146,10 @@ src/
 ---
 
 ## 📖 **Phase 3: Core Story Engine** (Day 3-5)
+
+### 🎯 **SCALABILITY FOCUS**: Build once, add stories infinitely!
+
+The goal: After building the engine, adding story #10 should take 30 minutes (create JSON + generate images).
 
 ### 📚 Story Data Structure
 ```json
@@ -194,14 +265,27 @@ src/
 
 ## 🎯 **Minimum Viable Product (MVP)**
 
-For hackathon submission, we need:
-- ✅ 5-10 complete stories with comic panels
-- ✅ Character sprites and backgrounds
-- ✅ Story → Lesson → Shloka → Quiz flow
+### For hackathon submission (October 7):
+**MUST HAVE**:
+- ✅ 3 EXCELLENT stories minimum (quality > quantity)
+- ✅ Smooth comic panel system
+- ✅ Story → Lesson → Shloka flow (quiz optional)
 - ✅ Responsive design
 - ✅ Fast loading (<3 seconds)
 - ✅ Public deployment
 - ✅ Demo video
+
+**STRETCH GOALS** (if time permits):
+- ✅ 5-10 stories (add more as system scales)
+- ✅ Quiz system
+- ✅ Voice narration
+- ✅ Character gallery
+- ✅ Progress tracking
+
+**POST-HACKATHON ROADMAP**:
+- Keep adding stories weekly (targeting 30+ stories by December)
+- Community contributions (other creators can add stories)
+- Teacher/parent feedback integration
 
 ---
 
@@ -218,17 +302,20 @@ For hackathon submission, we need:
 
 ---
 
-## 📝 **Daily Targets**
+## 📝 **Daily Targets** (UPDATED - Sept 30 to Oct 7)
 
-| Day | Focus | Deliverable |
-|-----|--------|-------------|
-| 1 | Setup + Planning | Project structure, first components |
-| 2 | Visuals + Assets | Character sprites, comic panels |
-| 3 | Story Engine | Data structure, story viewer |
-| 4 | Interactivity | Quiz system, navigation |
-| 5 | Audio + Polish | Voice features, animations |
-| 6 | Testing + Optimization | Performance tuning, bug fixes |
-| 7 | Deploy + Demo | Live site, demo video, submission |
+| Day | Date | Focus | Deliverable |
+|-----|------|--------|-------------|
+| 1 | Sept 30 | **Content + Setup** | 5 stories written, shlokas selected, Framer Motion installed |
+| 2 | Oct 1 | **Asset Creation** | 25 panels generated (5 per story), backgrounds, character sprites |
+| 3 | Oct 2 | **Core Engine** | Comic panel component, story viewer, JSON data structure |
+| 4 | Oct 3 | **Story Flow** | Navigation, panel transitions, lesson/shloka display |
+| 5 | Oct 4 | **Interactivity** | Quiz (if time) or reflection questions, homepage grid |
+| 6 | Oct 5 | **Polish + Scale** | Add 2 more stories (if engine works well), animations, mobile optimization |
+| 7 | Oct 6 | **Deploy + Test** | Vercel deploy, cross-browser testing, performance audit |
+| 8 | Oct 7 | **Demo + Submit** | Record demo video, final polish, submit before 11:59 PM IST |
+
+**Key Strategy**: Days 1-4 = Build the ENGINE. Days 5-7 = Scale rapidly by adding more stories.
 
 ---
 

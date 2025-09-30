@@ -186,10 +186,16 @@ We welcome contributions from:
 ## 📄 **Attribution & Sources**
 
 ### 📚 **Rig Veda Sources**
-- All content sourced from **Rig Veda Samhita** (Mandalas 1-10)
-- Translations referenced from scholarly works
+- All content sourced from **Rig Veda Samhita** (Mandalas 1-10 only, no Khilas)
+- **Sanskrit Text**: [Wikisource Rig Veda](https://sa.wikisource.org/wiki/ऋग्वेदः) (Devanagari)
+- **English Translations**: 
+  - Ralph T.H. Griffith (1896) - Public Domain
+  - [VedaWeb Project](https://vedaweb.uni-koeln.de/rigveda) (University of Cologne) - Open Access
+  - [Sacred-Texts.com](https://sacred-texts.com/hin/rigveda/) Rig Veda compilation
+- **Verification**: Cross-referenced with [Rigveda-Online](https://rigveda-online.github.io/)
+- **Adaptations**: Original story retellings by RigKatha Team for educational purposes
 - **No copyrighted material** used without permission
-- **Open source approach** to ancient wisdom
+- **Attribution**: Every story includes Mandala.Sukta.Rik citation
 
 ### 🎨 **Visual Assets**
 - Character illustrations: AI-generated + custom artwork
