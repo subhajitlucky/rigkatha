@@ -1,0 +1,157 @@
+{
+  "id": "agni-wise-fish",
+  "deity": "agni",
+  "title": "The Wise Fish and Sacred Fire",
+  "subtitle": "A young sage learns that true devotion comes from the heart, not the size of the offering",
+  "theme": ["wisdom", "devotion", "humility", "gratitude"],
+  "ageGroup": "8-12 years",
+  "readingTime": 3,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "A young sage sitting by a peaceful river at sunset, preparing offerings for the sacred fire",
+      "dialogues": [
+        {
+          "character": "Narrator",
+          "text": "By the sacred Saraswati River",
+          "type": "caption"
+        }
+      ],
+      "narration": "A young sage named Dhruva sat by the river as the sun began to set. He carefully arranged small wildflowers and a handful of rice grains—all he had—before his sacred fire.",
+      "sceneDescription": "Sunset by river, young Indian sage in simple robes, small offerings of flowers and rice, peaceful atmosphere, golden light, sacred fire pit"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "A magnificent golden fish rises from the water, startling the young sage",
+      "dialogues": [
+        {
+          "character": "Dhruva",
+          "text": "Who... who are you?",
+          "type": "speech"
+        },
+        {
+          "character": "Fish",
+          "text": "I am Matsya, child. I have watched you come here every evening.",
+          "type": "speech"
+        }
+      ],
+      "narration": "As he was about to begin his prayers, the water rippled, and a magnificent golden fish rose from the river. Its ancient eyes sparkled with otherworldly wisdom.",
+      "sceneDescription": "Magical golden fish emerging from water, glowing with divine light, surprised young sage, mystical atmosphere, water droplets catching light"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "The young sage looks sadly at his small offerings while explaining his humble situation",
+      "dialogues": [
+        {
+          "character": "Dhruva",
+          "text": "I wish I had more to offer Agni. The other sages bring ghee, silk, and precious herbs...",
+          "type": "speech"
+        },
+        {
+          "character": "Dhruva",
+          "text": "All I have are these small flowers and a little rice.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The young sage felt embarrassed by his humble offerings. He had seen wealthy merchants and learned priests bring grand sacrifices to the sacred fire.",
+      "sceneDescription": "Close-up of sage's worried face looking at tiny offerings, contrast with imagined grand sacrifices in thought bubble, emotional scene"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "The wise fish teaches the sage about true devotion, gesturing with its fins",
+      "dialogues": [
+        {
+          "character": "Matsya",
+          "text": "Tell me, young one—when you place that single flower in the fire, what is in your heart?",
+          "type": "speech"
+        },
+        {
+          "character": "Dhruva",
+          "text": "Gratitude... for the warmth Agni gives, for the light that cooks my food, for the sacred presence in every flame.",
+          "type": "speech"
+        },
+        {
+          "character": "Matsya",
+          "text": "Then that single flower carries the weight of mountains.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The wise fish smiled, creating gentle ripples in the water. Its voice was like the sound of flowing streams—ancient and soothing.",
+      "sceneDescription": "Wise fish speaking with compassionate expression, sage listening intently, peaceful teaching moment, spiritual energy visible"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "Sacred fire transforms the small offerings into brilliant flames of pure devotion",
+      "dialogues": [
+        {
+          "character": "Matsya",
+          "text": "Agni does not measure offerings by their size, but by the purity of intention.",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "The fire blazed brighter than ever before",
+          "type": "caption"
+        }
+      ],
+      "narration": "As Dhruva placed his small offerings into the fire with a heart full of pure devotion, the flames danced higher and brighter than he had ever seen. The fire seemed to sing with joy.",
+      "sceneDescription": "Magical transformation scene, small offerings creating magnificent flames, sacred fire blazing with divine energy, awe on sage's face, spiritual light"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/story-panel-placeholder.jpg",
+      "imageAlt": "The sage sits peacefully by the fire with new understanding, the golden fish watching approvingly",
+      "dialogues": [
+        {
+          "character": "Dhruva",
+          "text": "I understand now. It's not what I give, but how I give it.",
+          "type": "thought"
+        },
+        {
+          "character": "Matsya",
+          "text": "Remember this always, young sage. The greatest offerings come from the heart.",
+          "type": "speech"
+        }
+      ],
+      "narration": "From that day on, Dhruva never felt ashamed of his simple offerings. He knew that Agni, the sacred fire, saw the devotion in his heart. And the wise fish continued to watch over him, appearing whenever wisdom was needed.",
+      "sceneDescription": "Peaceful resolution scene, sage meditating by fire with contentment, fish blessing him from water, stars appearing in twilight sky, serene conclusion"
+    }
+  ],
+  "lesson": {
+    "title": "The Power of Pure Intention",
+    "content": "True devotion is not measured by the grandness of our actions or the value of our offerings, but by the purity and sincerity of our hearts. Just as Agni transforms physical offerings into sacred smoke that reaches the heavens, our pure intentions transform even the smallest acts into something divine. Whether we offer a single flower or a grand feast, what matters is the gratitude, love, and awareness we bring to the act.",
+    "practicalApplication": "In your daily life, focus on doing small things with great love. Whether helping a friend, completing homework, or sharing a meal, bring your full attention and genuine care to each action. The universe recognizes and honors sincere effort, no matter how humble."
+  },
+  "shloka": {
+    "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम्। होतारं रत्नधातमम्॥",
+    "transliteration": "Agnim īḷe purohitaṃ yajñasya devam ṛtvijam | Hotāraṃ ratnadhātamam ||",
+    "translation": "I praise Agni, the chosen priest, the divine minister of sacrifice, the invoker, the most generous bestower of treasure.",
+    "reference": "Rig Veda 1.1.1",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 1,
+      "rik": 1
+    }
+  },
+  "quiz": {
+    "question": "What did the wise fish teach Dhruva about offerings to Agni?",
+    "options": [
+      "Larger offerings are always better",
+      "Only priests can make proper offerings",
+      "The purity of intention matters more than the size of the offering",
+      "Fish know more about fire than humans"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The wise fish Matsya taught that Agni measures offerings not by their size or value, but by the sincerity and purity of the devotee's heart. Even a single flower offered with genuine gratitude is more precious than a grand offering made without true devotion."
+  },
+  "metadata": {
+    "difficulty": "beginner",
+    "created": "2025-10-03",
+    "author": "RigKatha Team"
+  }
+}

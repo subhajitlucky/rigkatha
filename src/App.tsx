@@ -4,6 +4,8 @@ import Home from './pages/Home'
 import BrowseByMandala from './pages/BrowseByMandala'
 import BrowseByDeity from './pages/BrowseByDeity'
 import BrowseByTheme from './pages/BrowseByTheme'
+import DeityDetail from './pages/deity/DeityDetail'
+import StoryReader from './pages/story/StoryReader'
 import Navbar from './components/ui/Navbar'
 import Footer from './components/ui/Footer'
 
@@ -19,7 +21,9 @@ function App() {
           <Route path='/' element={<Home/>}/>
           <Route path='/browse/mandala' element={<BrowseByMandala/>}/>
           <Route path='/browse/deity' element={<BrowseByDeity/>}/>
+          <Route path='/browse/deity/:deityId' element={<DeityDetail/>}/>
           <Route path='/browse/theme' element={<BrowseByTheme/>}/>
+          <Route path='/story/:storyId' element={<StoryReader/>}/>
         </Routes>
       </main>
 
