@@ -20,7 +20,7 @@ export default function ComicPanel({ panel, totalPanels }: ComicPanelProps) {
         <img
           src={panel.imageUrl}
           alt={panel.imageAlt}
-          className="w-full aspect-video object-cover"
+          className="w-full aspect-video object-center"
         />
 
         {/* Dialogues Overlay (Speech bubbles, captions, thoughts) */}
@@ -32,9 +32,9 @@ export default function ComicPanel({ panel, totalPanels }: ComicPanelProps) {
                   key={index}
                   className={`
                     mb-3 p-4 rounded-xl max-w-2xl backdrop-blur-sm
-                    ${dialogue.type === 'speech' ? 'bg-white/95 text-gray-900' : ''}
-                    ${dialogue.type === 'thought' ? 'bg-blue-100/95 text-blue-900 italic' : ''}
-                    ${dialogue.type === 'caption' ? 'bg-amber-100/95 text-amber-900 font-semibold text-center mx-auto' : ''}
+                    ${dialogue.type === 'speech' ? 'bg-white/95 opacity-[70%] text-gray-900' : ''}
+                    ${dialogue.type === 'thought' ? 'bg-blue-100/95 opacity-[70%] text-blue-900 italic' : ''}
+                    ${dialogue.type === 'caption' ? 'bg-amber-100/95 opacity-[70%] text-amber-900 font-semibold text-center mx-auto' : ''}
                   `}
                 >
                   {dialogue.type !== 'caption' && (

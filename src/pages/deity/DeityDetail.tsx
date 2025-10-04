@@ -34,7 +34,7 @@ export default function DeityDetail() {
           theme: ['wisdom', 'devotion', 'humility'],
           panelCount: 6,
           readingTime: 3,
-          thumbnailUrl: '/story-panel-placeholder.jpg',
+          thumbnailUrl: '/agni-wise-fish-panel-1.jpg',
           shlokaReference: 'RV 1.1.1',
         },
       ]
