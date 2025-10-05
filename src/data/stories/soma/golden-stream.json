@@ -1,0 +1,169 @@
+{
+  "id": "soma-golden-stream",
+  "deity": "soma",
+  "title": "The Golden Stream",
+  "subtitle": "How purity of heart creates the nectar of enlightenment",
+  "thumbnail": "/stories/soma/golden-stream/panel-1.jpg",
+  "theme": ["purity", "enlightenment", "transformation", "clarity"],
+  "ageGroup": "10-14 years",
+  "readingTime": 3,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/soma/golden-stream/panel-1.jpg",
+      "imageAlt": "Two students preparing soma - one hurried and careless, one slow and mindful",
+      "dialogues": [
+        {
+          "character": "Kavi",
+          "text": "Why are you so slow? We need to finish quickly!",
+          "type": "speech"
+        },
+        {
+          "character": "Anvi",
+          "text": "The sage said to prepare with pure thoughts. I'm being careful.",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "At the ashram, during soma preparation",
+          "type": "caption"
+        }
+      ],
+      "narration": "In an ancient forest ashram, two students—Kavi and Anvi—were learning to prepare the sacred soma. Kavi rushed through the ritual, his mind on play. Anvi worked slowly, with awareness and reverence, as the sage had taught.",
+      "sceneDescription": "Forest ashram setting, two students at ritual space, one rushing carelessly, one working mindfully with focus, sacred plants and ritual implements, peaceful forest background"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/soma/golden-stream/panel-2.jpg",
+      "imageAlt": "The soma being pressed - Kavi's is murky, Anvi's glows with golden light",
+      "dialogues": [
+        {
+          "character": "Kavi",
+          "text": "Done! See? Mine's finished first!",
+          "type": "speech"
+        },
+        {
+          "character": "Sage",
+          "text": "But look—what do you see in each bowl?",
+          "type": "speech"
+        }
+      ],
+      "narration": "When they presented their work, the difference was striking. Kavi's soma was cloudy and dull. But Anvi's soma shimmered with golden light, flowing like liquid sunshine. The sage smiled knowingly.",
+      "sceneDescription": "Comparison scene, two bowls side by side, one murky and dark, one glowing golden and pure, sage observing, visible difference in quality, mystical glow from pure soma"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/soma/golden-stream/panel-3.jpg",
+      "imageAlt": "The sage explaining, showing visions in the pure soma",
+      "dialogues": [
+        {
+          "character": "Sage",
+          "text": "Soma is not just a plant, children. It is the essence of clarity itself. Your intentions flow into everything you touch.",
+          "type": "speech"
+        },
+        {
+          "character": "Kavi",
+          "text": "But... we used the same plants!",
+          "type": "speech"
+        },
+        {
+          "character": "Sage",
+          "text": "The plants are the same. But your minds were different. Soma mirrors the preparer's heart.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The sage explained that Soma, the purifying essence, responds to the purity of the preparer's intention. Hurried thoughts create cloudiness. Mindful awareness creates clarity. The golden stream reflects the golden heart.",
+      "sceneDescription": "Teaching moment, sage with both students, showing how inner state affects outer result, visual representation of thoughts becoming reality, wisdom being transmitted"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/soma/golden-stream/panel-4.jpg",
+      "imageAlt": "Anvi offering her pure soma in ritual, golden light streams upward toward the gods",
+      "dialogues": [
+        {
+          "character": "Narrator",
+          "text": "When Anvi's soma was offered in the sacred fire",
+          "type": "caption"
+        }
+      ],
+      "narration": "When the sage poured Anvi's pure soma into the sacred fire, something magical happened. The golden liquid transformed into streams of light that rose to the heavens. The gods themselves were said to delight in such pure offerings, for they carried no trace of haste or carelessness.",
+      "sceneDescription": "Mystical ritual scene, golden soma being poured into sacred fire, light streaming upward to sky, divine energy, sacred atmosphere, gods perceiving the offering, magical transformation"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/soma/golden-stream/panel-5.jpg",
+      "imageAlt": "Kavi trying again, this time with full attention and pure heart",
+      "dialogues": [
+        {
+          "character": "Kavi",
+          "text": "Sage, may I try again? This time, I'll give it my complete attention.",
+          "type": "speech"
+        },
+        {
+          "character": "Sage",
+          "text": "Of course, my child. Soma teaches through practice. Each attempt is a step toward clarity.",
+          "type": "speech"
+        }
+      ],
+      "narration": "Kavi felt ashamed but also inspired. He asked to try again. This time, he cleared his mind of all distractions. He worked with reverence, feeling each movement, thinking pure thoughts of gratitude and devotion.",
+      "sceneDescription": "Kavi preparing soma again, this time with complete focus and reverence, calm expression, mindful movements, sage watching encouragingly, transformation in attitude visible"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/soma/golden-stream/panel-6.jpg",
+      "imageAlt": "Both students' soma now glowing golden, flowing together in harmony",
+      "dialogues": [
+        {
+          "character": "Anvi",
+          "text": "Look, Kavi! Your soma is glowing too!",
+          "type": "speech"
+        },
+        {
+          "character": "Kavi",
+          "text": "It's beautiful... I can feel the difference. My mind is so clear!",
+          "type": "speech"
+        },
+        {
+          "character": "Sage",
+          "text": "Now you understand. Purity is not about perfection—it's about presence. When your mind is fully here, everything you touch becomes sacred.",
+          "type": "speech"
+        }
+      ],
+      "narration": "Kavi's second attempt produced a soma as golden as Anvi's! He understood now: it wasn't about speed or skill, but about the quality of awareness he brought to the task. From that day forward, both students remembered that whatever they did—studying, playing, or working—doing it with full presence and pure intention made all the difference. The golden stream of Soma had taught them to bring clarity to every moment of life.",
+      "sceneDescription": "Joyful conclusion, both students with glowing golden soma, sage smiling proudly, harmonious scene, golden light around them, enlightenment achieved, wisdom internalized"
+    }
+  ],
+  "lesson": {
+    "title": "The Power of Mindful Intention",
+    "content": "The story of the Golden Stream teaches us that the quality of our attention and the purity of our intentions directly shape the quality of our actions and their results. When we rush through tasks with a scattered mind, the results reflect that inner chaos. But when we bring mindful awareness and pure intention to what we do, even simple actions become extraordinary. Soma, the purifying essence, symbolizes this transformation—from cloudy to clear, from ordinary to sacred.",
+    "practicalApplication": "Whether doing homework, helping at home, or learning a new skill, practice bringing your full attention to the task. Before starting, take a moment to clear your mind and set a positive intention. Notice how this changes both the process (you enjoy it more) and the result (it turns out better). This is the practice of creating your own 'golden stream' in daily life."
+  },
+  "shloka": {
+    "sanskrit": "पवस्व सोम धारया रथीरश्वो न वाजयुः। इन्दुः पवित्रमत्युवं॥",
+    "transliteration": "Pavasva soma dhārayā rathīr aśvo na vājayuḥ | Induh pavitram aty uvaṃ ||",
+    "translation": "Flow, O Soma, in your stream, like a swift horse seeking the prize. Drop of Soma, flow through the filter toward purification.",
+    "reference": "Rig Veda 9.1.1",
+    "mandalaSuktaRik": {
+      "mandala": 9,
+      "sukta": 1,
+      "rik": 1
+    }
+  },
+  "quiz": {
+    "question": "Why was Anvi's soma golden while Kavi's first soma was cloudy?",
+    "options": [
+      "Anvi used better plants",
+      "Anvi prepared it with pure intention and mindful awareness",
+      "Kavi didn't follow the instructions",
+      "The sage helped Anvi secretly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Both students used the same plants and followed the same steps. The difference was in their state of mind and intention. Anvi prepared the soma with mindful awareness and pure thoughts, while Kavi rushed through it carelessly. The soma mirrored the quality of their consciousness, teaching that our inner state directly affects the quality of everything we create."
+  },
+  "metadata": {
+    "difficulty": "intermediate",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}
+

@@ -3,6 +3,32 @@ import deitiesData from '../../data/deities.json';
 import StoryCard from '../../components/ui/StoryCard';
 import type { StoryPreview } from '../../types/story';
 
+// Import all story data
+import agniWiseFish from '../../data/stories/agni/wise-fish.json';
+import indraBattleVritra from '../../data/stories/indra/battle-vritra.json';
+import varunaPatientCrocodile from '../../data/stories/varuna/patient-crocodile.json';
+import somaGoldenStream from '../../data/stories/soma/golden-stream.json';
+import ushasEarlyBird from '../../data/stories/ushas/early-bird.json';
+import suryaSevenHorses from '../../data/stories/surya/seven-horses.json';
+import marutsStormBrothers from '../../data/stories/maruts/storm-brothers.json';
+import ashvinsTwinHealers from '../../data/stories/ashvins/twin-healers.json';
+import rudraStormMercy from '../../data/stories/rudra/storm-mercy.json';
+import sarasvatiRiverKnowledge from '../../data/stories/sarasvati/river-knowledge.json';
+
+// Map story data by ID
+const storyDataMap: Record<string, any> = {
+  'agni-wise-fish': agniWiseFish,
+  'indra-battle-vritra': indraBattleVritra,
+  'varuna-patient-crocodile': varunaPatientCrocodile,
+  'soma-golden-stream': somaGoldenStream,
+  'ushas-early-bird': ushasEarlyBird,
+  'surya-seven-horses': suryaSevenHorses,
+  'maruts-storm-brothers': marutsStormBrothers,
+  'ashvins-twin-healers': ashvinsTwinHealers,
+  'rudra-storm-mercy': rudraStormMercy,
+  'sarasvati-river-knowledge': sarasvatiRiverKnowledge,
+};
+
 export default function DeityDetail() {
   const { deityId } = useParams<{ deityId: string }>();
   
@@ -22,23 +48,31 @@ export default function DeityDetail() {
     );
   }
 
-  // Convert deity story titles to StoryPreview format
-  // For now, we'll manually map the first story (agni-wise-fish)
-  const storyPreviews: StoryPreview[] = deity.id === 'agni' 
-    ? [
-        {
-          id: 'agni-wise-fish',
-          deity: 'agni',
-          title: 'The Wise Fish and Sacred Fire',
-          subtitle: 'A young sage learns that true devotion comes from the heart, not the size of the offering',
-          theme: ['wisdom', 'devotion', 'humility'],
-          panelCount: 6,
-          readingTime: 3,
-          thumbnailUrl: '/stories/agni/wise-fish/panel-1.jpg',
-          shlokaReference: 'RV 1.1.1',
-        },
-      ]
-    : []; // Other deities will show "coming soon"
+  // Convert deity stories to StoryPreview format by looking up the story data
+  const storyPreviews: StoryPreview[] = deity.stories
+    .map((storyTitle: string) => {
+      // Find the story data that matches this title
+      const storyEntry = Object.entries(storyDataMap).find(([_, storyData]) => 
+        storyData.title === storyTitle
+      );
+
+      if (!storyEntry) return null;
+
+      const [storyId, storyData] = storyEntry;
+
+      return {
+        id: storyId,
+        deity: storyData.deity,
+        title: storyData.title,
+        subtitle: storyData.subtitle,
+        theme: storyData.theme,
+        panelCount: storyData.panels.length,
+        readingTime: storyData.readingTime,
+        thumbnailUrl: storyData.thumbnail,
+        shlokaReference: `RV ${storyData.shloka.mandalaSuktaRik.mandala}.${storyData.shloka.mandalaSuktaRik.sukta}.${storyData.shloka.mandalaSuktaRik.rik}`,
+      };
+    })
+    .filter((story): story is StoryPreview => story !== null);
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 via-amber-50 to-yellow-50">

@@ -1,0 +1,149 @@
+{
+  "id": "indra-battle-vritra",
+  "deity": "indra",
+  "title": "The Battle with Vritra",
+  "subtitle": "How Indra freed the waters and brought life back to the world",
+  "thumbnail": "/stories/indra/battle-vritra/panel-1.jpg",
+  "theme": ["courage", "heroism", "sacrifice", "liberation"],
+  "ageGroup": "8-12 years",
+  "readingTime": 4,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/indra/battle-vritra/panel-1.jpg",
+      "imageAlt": "A barren, dried earth with cracked ground, wilting plants, and desperate people looking to the sky",
+      "dialogues": [
+        {
+          "character": "Narrator",
+          "text": "In ancient times, when darkness ruled",
+          "type": "caption"
+        }
+      ],
+      "narration": "Long ago, the demon Vritra, a massive serpent, coiled himself around the cosmic waters. He held them captive in the dark mountains, and without water, the earth became barren. Rivers dried up, crops withered, and people suffered.",
+      "sceneDescription": "Barren landscape, cracked dry earth, wilting plants, desperate villagers looking up at dark mountains, ominous atmosphere, dark clouds blocking sun"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/indra/battle-vritra/panel-2.jpg",
+      "imageAlt": "The mighty god Indra stands with his vajra thunderbolt, determination in his eyes",
+      "dialogues": [
+        {
+          "character": "Indra",
+          "text": "The waters belong to all living beings! I will free them, no matter the cost!",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "Indra, King of Gods, prepared for battle",
+          "type": "caption"
+        }
+      ],
+      "narration": "The gods gathered in council. Only Indra, the thunder god, had the courage to face Vritra. Armed with his vajra—the divine thunderbolt forged by Tvastar—Indra set forth on his cosmic chariot, ready to battle the demon.",
+      "sceneDescription": "Mighty Indra standing heroically, golden armor, holding vajra thunderbolt, determined expression, divine chariot with bay horses, stormy sky background, gods watching"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/indra/battle-vritra/panel-3.jpg",
+      "imageAlt": "Epic confrontation - massive serpent Vritra coiled around mountains facing Indra",
+      "dialogues": [
+        {
+          "character": "Vritra",
+          "text": "You dare challenge me, Indra? These waters are mine! Turn back or perish!",
+          "type": "speech"
+        },
+        {
+          "character": "Indra",
+          "text": "Your darkness ends today, serpent! The waters will flow again!",
+          "type": "speech"
+        }
+      ],
+      "narration": "Indra found Vritra coiled around the mountains like a fortress of scales and shadow. The demon serpent was enormous—ninety-nine coils thick—blocking rivers, lakes, and springs. Lightning crackled as the two mighty forces faced each other.",
+      "sceneDescription": "Epic confrontation scene, massive serpent Vritra coiled around dark mountains, Indra on chariot facing him, lightning crackling, dramatic tension, cosmic scale battle"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/indra/battle-vritra/panel-4.jpg",
+      "imageAlt": "Intense battle scene with lightning, thunderbolts, and cosmic forces clashing",
+      "dialogues": [
+        {
+          "character": "Narrator",
+          "text": "The battle shook the heavens and earth",
+          "type": "caption"
+        }
+      ],
+      "narration": "The battle was fierce! Vritra breathed fire and darkness. Indra hurled thunderbolts and lightning. Mountains trembled. The sky roared. For what seemed like ages, neither could gain the upper hand. But Indra's determination never wavered—he fought for all living beings.",
+      "sceneDescription": "Intense battle scene, lightning bolts flying, fire breath from serpent, thunderbolts striking, mountains shaking, cosmic energy clash, dramatic action, both combatants showing power"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/indra/battle-vritra/panel-5.jpg",
+      "imageAlt": "Indra delivers the final blow with his vajra, shattering Vritra and releasing torrents of water",
+      "dialogues": [
+        {
+          "character": "Indra",
+          "text": "By the power of truth and righteousness—FALL!",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "The vajra struck true!",
+          "type": "caption"
+        }
+      ],
+      "narration": "Finally, Indra gathered all his divine strength. He raised his vajra high and, with a mighty cry, struck Vritra's fortress-body. The thunderbolt split the serpent's ninety-nine coils! Vritra fell, his dark power shattered forever.",
+      "sceneDescription": "Climactic moment, Indra striking with vajra, explosion of divine energy, serpent breaking apart, massive impact, heroic triumph, light breaking through darkness"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/indra/battle-vritra/panel-6.jpg",
+      "imageAlt": "Waters flowing freely, earth blooming with life, people celebrating, Indra riding victorious across sky",
+      "dialogues": [
+        {
+          "character": "Child",
+          "text": "Look! The rivers are flowing! The rain is falling!",
+          "type": "speech"
+        },
+        {
+          "character": "Elder",
+          "text": "Indra has saved us all! Praise to the hero who freed the waters!",
+          "type": "speech"
+        }
+      ],
+      "narration": "The captive waters burst forth! Rivers flowed again, rain fell from the sky, and the earth bloomed with new life. People danced with joy. From that day on, Indra was celebrated as the hero who defeated darkness and brought life-giving waters to the world. Every thunderstorm reminds us of his courage.",
+      "sceneDescription": "Joyous celebration scene, rivers flowing, rain falling, flowers blooming, people dancing and celebrating, Indra victorious in sky on chariot, rainbow appearing, life returning to earth"
+    }
+  ],
+  "lesson": {
+    "title": "Courage to Face Darkness",
+    "content": "Indra's battle with Vritra teaches us that sometimes we must face our fears and fight for what is right, even when the challenge seems impossible. Vritra represents any obstacle that holds back the flow of good things in life—whether it's fear, selfishness, or injustice. Like Indra, we must have the courage to stand up against these forces, not just for ourselves, but for the wellbeing of everyone around us.",
+    "practicalApplication": "When you see something wrong—bullying, waste, or unfairness—don't stay silent. Speak up with courage. Even small acts of bravery, like standing up for a friend or protecting nature, are your own battles against 'Vritra.' Remember: true heroes fight not for glory, but to help others."
+  },
+  "shloka": {
+    "sanskrit": "इन्द्रस्य नु वीर्याणि प्र वोचं यानि चकार प्रथमानि वज्री। अहन्नहिमन्वपस्ततर्द प्र वक्षणा अभिनत्पर्वतानाम्॥",
+    "transliteration": "Indrasya nu vīryāṇi pra vocaṃ yāni cakāra prathamāni vajrī | Ahann ahim anv apas tatarda pra vakṣaṇā abhinat parvatānām ||",
+    "translation": "Now I shall proclaim the heroic deeds of Indra, which the thunderbolt-wielder performed first. He slew the dragon and released the waters; he split open the bellies of mountains.",
+    "reference": "Rig Veda 1.32.1",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 32,
+      "rik": 1
+    }
+  },
+  "quiz": {
+    "question": "Why did Indra fight Vritra?",
+    "options": [
+      "To become famous and powerful",
+      "To free the waters that Vritra had captured, so life could flourish",
+      "Because the other gods told him to",
+      "To get revenge for a personal insult"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indra fought Vritra not for personal glory, but to free the cosmic waters that the demon had trapped. Without water, all life was suffering. Indra's courage and selflessness saved the world, teaching us that true heroism is about helping others, not seeking fame."
+  },
+  "metadata": {
+    "difficulty": "beginner",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}
+

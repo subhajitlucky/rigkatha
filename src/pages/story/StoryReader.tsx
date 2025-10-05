@@ -21,13 +21,45 @@ export default function StoryReader() {
       try {
         setLoading(true);
         // Dynamic import based on storyId
-        // For now, we'll handle the specific story we created
-        if (storyId === 'agni-wise-fish') {
-          const storyData = await import('../../data/stories/agni/wise-fish.json');
-          setStory(storyData.default as Story);
-        } else {
-          setError('Story not found');
+        let storyData;
+        
+        switch (storyId) {
+          case 'agni-wise-fish':
+            storyData = await import('../../data/stories/agni/wise-fish.json');
+            break;
+          case 'indra-battle-vritra':
+            storyData = await import('../../data/stories/indra/battle-vritra.json');
+            break;
+          case 'varuna-patient-crocodile':
+            storyData = await import('../../data/stories/varuna/patient-crocodile.json');
+            break;
+          case 'soma-golden-stream':
+            storyData = await import('../../data/stories/soma/golden-stream.json');
+            break;
+          case 'ushas-early-bird':
+            storyData = await import('../../data/stories/ushas/early-bird.json');
+            break;
+          case 'surya-seven-horses':
+            storyData = await import('../../data/stories/surya/seven-horses.json');
+            break;
+          case 'maruts-storm-brothers':
+            storyData = await import('../../data/stories/maruts/storm-brothers.json');
+            break;
+          case 'ashvins-twin-healers':
+            storyData = await import('../../data/stories/ashvins/twin-healers.json');
+            break;
+          case 'rudra-storm-mercy':
+            storyData = await import('../../data/stories/rudra/storm-mercy.json');
+            break;
+          case 'sarasvati-river-knowledge':
+            storyData = await import('../../data/stories/sarasvati/river-knowledge.json');
+            break;
+          default:
+            setError('Story not found');
+            return;
         }
+        
+        setStory(storyData.default as Story);
       } catch (err) {
         console.error('Error loading story:', err);
         setError('Failed to load story');

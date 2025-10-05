@@ -1,0 +1,153 @@
+{
+  "id": "ushas-early-bird",
+  "deity": "ushas",
+  "title": "The Early Bird's Revelation",
+  "subtitle": "Discovering the gifts that dawn brings to those who wake with awareness",
+  "thumbnail": "/stories/ushas/early-bird/panel-1.jpg",
+  "theme": ["awakening", "new beginnings", "mindfulness", "opportunity"],
+  "ageGroup": "8-12 years",
+  "readingTime": 3,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/ushas/early-bird/panel-1.jpg",
+      "imageAlt": "A young girl named Tara sleeping through dawn, missing the beautiful sunrise",
+      "dialogues": [
+        {
+          "character": "Mother",
+          "text": "Tara, wake up! You're missing the most beautiful part of the day!",
+          "type": "speech"
+        },
+        {
+          "character": "Tara",
+          "text": "Just five more minutes...",
+          "type": "speech"
+        }
+      ],
+      "narration": "Tara loved to sleep late. Every morning, her mother would try to wake her for dawn prayers, but Tara would pull the blanket over her head. She thought mornings were boring and saw no point in waking early.",
+      "sceneDescription": "Young girl sleeping in bed, mother trying to wake her, dawn light starting to filter through window, cozy bedroom, missed opportunity visible through window showing beautiful sunrise outside"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/ushas/early-bird/panel-2.jpg",
+      "imageAlt": "A magical bird appears at Tara's window at dawn, glowing with soft light",
+      "dialogues": [
+        {
+          "character": "Golden Bird",
+          "text": "Little sleeper, do you not hear Ushas calling? The dawn goddess offers gifts to those who greet her.",
+          "type": "speech"
+        },
+        {
+          "character": "Tara",
+          "text": "Who... who are you?",
+          "type": "speech"
+        }
+      ],
+      "narration": "One morning, a golden bird appeared at Tara's window just as the first light touched the sky. The bird glowed with the colors of dawn—pink, orange, and gold—and its voice was like morning bells.",
+      "sceneDescription": "Magical golden bird at window glowing with dawn colors, surprised Tara waking up, soft dawn light filling room, ethereal and magical atmosphere, bird radiating gentle divine energy"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/ushas/early-bird/panel-3.jpg",
+      "imageAlt": "The bird showing Tara the beauty of dawn - flowers opening, dew sparkling, world awakening",
+      "dialogues": [
+        {
+          "character": "Golden Bird",
+          "text": "Come, let me show you what you've been missing every dawn.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The bird invited Tara to follow. As they stepped outside, Tara gasped. The world at dawn was completely different! Flowers were opening, dew sparkled like diamonds on spider webs, birds sang their first songs, and the air itself seemed to dance with fresh energy. Everything felt new and full of possibilities.",
+      "sceneDescription": "Beautiful dawn scene, flowers opening, dew sparkling on grass and webs, birds singing, magical morning atmosphere, Tara discovering the beauty she'd been missing, world awakening"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/ushas/early-bird/panel-4.jpg",
+      "imageAlt": "The bird reveals itself as a messenger of Ushas, the dawn goddess appears in the sky",
+      "dialogues": [
+        {
+          "character": "Golden Bird",
+          "text": "I am a messenger of Ushas, the dawn goddess. Each morning, she gifts the world with fresh beginnings. But these gifts go only to those awake to receive them.",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "In the radiant sky, Ushas herself appeared",
+          "type": "caption"
+        }
+      ],
+      "narration": "As the sun rose higher, Tara saw a vision of Ushas in the sky—a radiant goddess in golden-red robes, riding a chariot drawn by red cows. Her smile was warm and welcoming, like the first rays of sun after a long night.",
+      "sceneDescription": "Magnificent vision of Ushas in sky, radiant goddess in golden-red robes on chariot drawn by red cows, divine and beautiful, Tara watching in awe, golden bird explaining, sacred revelation moment"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/ushas/early-bird/panel-5.jpg",
+      "imageAlt": "Tara understanding that each dawn brings clarity, energy, and fresh opportunities",
+      "dialogues": [
+        {
+          "character": "Tara",
+          "text": "I understand now! Dawn isn't just about waking up—it's about new beginnings, fresh energy, and seeing clearly!",
+          "type": "speech"
+        },
+        {
+          "character": "Golden Bird",
+          "text": "Yes! Ushas sweeps away the darkness of yesterday. Each dawn is a gift—a chance to start fresh, see clearly, and live fully.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The bird explained that Ushas brings not just light, but clarity of mind, fresh energy, and hope. Those who wake with the dawn receive these gifts: clear thinking for studies, energy for the day's adventures, and the joy of witnessing nature's daily miracle.",
+      "sceneDescription": "Teaching moment, Tara having realization, golden bird explaining wisdom, visual representations of dawn's gifts (clarity, energy, hope), transformative understanding, enlightened expression"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/ushas/early-bird/panel-6.jpg",
+      "imageAlt": "Tara now wakes joyfully every dawn, greeting the day with her mother, living fully",
+      "dialogues": [
+        {
+          "character": "Tara",
+          "text": "Good morning, Mother! Good morning, Ushas! Thank you for this beautiful new day!",
+          "type": "speech"
+        },
+        {
+          "character": "Mother",
+          "text": "My daughter, you've discovered the secret! Those who rise with Ushas live twice as much life.",
+          "type": "speech"
+        }
+      ],
+      "narration": "From that day forward, Tara woke joyfully at dawn. She greeted Ushas with gratitude, feeling the goddess's gifts flow into her day. Her mind was clearer for studies, her spirit brighter for friendships, and her heart fuller with appreciation for life's beauty. The golden bird still visits sometimes, reminding her that each dawn is Ushas's gift—a fresh page, a new chance, an awakened life.",
+      "sceneDescription": "Joyful conclusion, Tara and mother doing dawn prayers together, beautiful sunrise, birds singing, harmonious scene, Tara fully alive and awake, golden bird watching approvingly, transformation complete"
+    }
+  ],
+  "lesson": {
+    "title": "Embracing New Beginnings",
+    "content": "Ushas, the dawn goddess, teaches us that every morning is a gift of new beginnings. When we sleep through dawn, we miss more than just sunrise—we miss the clarity, energy, and fresh perspective that each new day offers. Waking with awareness and gratitude transforms our entire experience of life. Dawn reminds us that no matter what happened yesterday, today is a new chance to start fresh, see clearly, and live fully.",
+    "practicalApplication": "Try waking up 15 minutes earlier than usual for one week. Use those minutes to appreciate the quiet morning, breathe fresh air, or simply sit peacefully. Notice how starting your day consciously (instead of rushing) changes your whole day's energy. Like Tara discovered, those who greet the dawn with awareness truly live more fully."
+  },
+  "shloka": {
+    "sanskrit": "उषो यच्चासि सुम्नयुर्वसूनां अभि प्रियं। दात्रम् आ शंस विश्पतिम्॥",
+    "transliteration": "Uṣo yac cāsi sumnayur vasūnāṃ abhi priyam | Dātram ā śaṃsa viśpatim ||",
+    "translation": "O Dawn, since you are benevolent and bestow treasures most dear, praise the giver, the lord of the house.",
+    "reference": "Rig Veda 1.113.7",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 113,
+      "rik": 7
+    }
+  },
+  "quiz": {
+    "question": "What gifts does Ushas (Dawn) bring to those who wake early to greet her?",
+    "options": [
+      "Gold and precious jewels",
+      "Clarity of mind, fresh energy, and new beginnings",
+      "Magical powers and flying abilities",
+      "Food and comfortable beds"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ushas, the dawn goddess, brings spiritual and practical gifts to those who wake with awareness: clarity of mind for clear thinking, fresh energy for the day ahead, and the blessing of new beginnings. These aren't material treasures but life-enhancing qualities that help us live more fully and joyfully."
+  },
+  "metadata": {
+    "difficulty": "beginner",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}

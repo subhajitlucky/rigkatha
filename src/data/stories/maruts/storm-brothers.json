@@ -1,0 +1,149 @@
+{
+  "id": "maruts-storm-brothers",
+  "deity": "maruts",
+  "title": "The Storm Brothers Unite",
+  "subtitle": "When many small forces work together, they become unstoppable",
+  "thumbnail": "/stories/maruts/storm-brothers/panel-1.jpg",
+  "theme": ["teamwork", "unity", "cooperation", "strength in numbers"],
+  "ageGroup": "6-10 years",
+  "readingTime": 3,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-1.jpg",
+      "imageAlt": "A village suffering from drought, crops wilting, a single small cloud trying hard but unable to bring rain alone",
+      "dialogues": [
+        {
+          "character": "Little Cloud",
+          "text": "*puff puff* I'm trying my hardest, but I'm too small to bring rain to this whole village!",
+          "type": "thought"
+        }
+      ],
+      "narration": "In a time of great drought, a single small cloud drifted over a suffering village. The little cloud wanted desperately to help—its heart ached seeing the wilted crops and thirsty children below. It puffed and gathered all its moisture, but could only produce a few tiny droplets. Alone, it was simply not enough.",
+      "sceneDescription": "Sad scene of drought-stricken village, dry fields, wilting plants, worried farmers, one small lonely cloud in vast empty sky trying hard, sense of insufficiency but good intention"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-2.jpg",
+      "imageAlt": "The Maruts, forty-nine storm gods riding on winds, appearing in the sky with thunderous energy",
+      "dialogues": [
+        {
+          "character": "Marut Leader",
+          "text": "Little brother! You should not carry burdens alone. We are the Maruts—forty-nine brothers who move as one!",
+          "type": "speech"
+        },
+        {
+          "character": "Little Cloud",
+          "text": "You all... you all came to help me?",
+          "type": "speech"
+        }
+      ],
+      "narration": "Suddenly, the sky darkened with purpose. The Maruts—forty-nine divine storm brothers—came riding on winds and lightning! Each Marut was not much larger than the little cloud, but together they filled the entire horizon. They wore gleaming armor and carried spears of lightning, but their eyes were kind. They had heard the little cloud's wish to help.",
+      "sceneDescription": "Dramatic arrival of the Maruts, forty-nine young storm gods on wind-steeds, gleaming armor, lightning spears, filling the sky together, powerful but friendly presence, sense of brotherhood and unity"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-3.jpg",
+      "imageAlt": "The Maruts teaching the little cloud about unity and formation, showing how they move together",
+      "dialogues": [
+        {
+          "character": "Marut Leader",
+          "text": "Watch and learn, little one! Alone, each of us is small. But when we move together, with one purpose and one heart, we become the mighty storm!",
+          "type": "speech"
+        }
+      ],
+      "narration": "The Maruts showed the little cloud their secret: perfect unity. When they wanted to move left, all forty-nine moved left together. When one gathered moisture, all gathered moisture. When one called the wind, all called the wind. Not a single Marut tried to be the leader or the hero. They moved as one great being, though they were many.",
+      "sceneDescription": "Teaching moment, Maruts demonstrating synchronized movement, visual arrows showing coordination, unified motion, little cloud watching and learning, sense of perfect teamwork and harmony"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-4.jpg",
+      "imageAlt": "The little cloud joining the Maruts, becoming the fiftieth member, learning to move in harmony",
+      "dialogues": [
+        {
+          "character": "Little Cloud",
+          "text": "I'm doing it! When I think of us as ONE rather than many, I can feel your strength!",
+          "type": "speech"
+        },
+        {
+          "character": "Marut Brother",
+          "text": "Yes! And we feel your caring heart for the village. You've made us stronger too!",
+          "type": "speech"
+        }
+      ],
+      "narration": "The little cloud joined the Maruts, becoming the fiftieth storm spirit. At first, it was hard to match their rhythm. But gradually, the little cloud stopped trying to work alone. It listened to the others, felt their movement, and synchronized its heartbeat with theirs. And something magical happened—together, they became more than the sum of their parts!",
+      "sceneDescription": "Little cloud integrated into the Marut formation, learning to synchronize, visual connection lines showing unity, transformation happening, joy of belonging and contributing"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-5.jpg",
+      "imageAlt": "The unified storm bringing blessed rain to the village, thunder and lightning, life-giving water",
+      "dialogues": [
+        {
+          "character": "All Maruts Together",
+          "text": "FOR THE LAND BELOW! LET THE RAINS COME!",
+          "type": "speech"
+        },
+        {
+          "character": "Narrator",
+          "text": "When fifty hearts beat as one, miracles happen",
+          "type": "caption"
+        }
+      ],
+      "narration": "As one magnificent storm, the Maruts and the little cloud brought rain to the village. Thunder rolled like cosmic drums. Lightning danced like divine celebration. And rain—blessed, life-giving rain—poured down upon the thirsty earth. What one small cloud could never do alone, fifty united spirits accomplished with joy. The village rejoiced, and the crops began to grow again.",
+      "sceneDescription": "Magnificent storm scene, united clouds bringing abundant rain, thunder and lightning in harmony, rain falling on grateful village below, crops reviving, people celebrating, powerful and beautiful"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/maruts/storm-brothers/panel-6.jpg",
+      "imageAlt": "After the storm, the Maruts and little cloud looking down at the revived green village, rainbow in the sky",
+      "dialogues": [
+        {
+          "character": "Little Cloud",
+          "text": "I was trying so hard to be strong alone. But being united is so much better!",
+          "type": "speech"
+        },
+        {
+          "character": "Marut Leader",
+          "text": "Remember this always: a single raindrop evaporates quickly. But many raindrops become a river that nourishes the world. Unity is our greatest power.",
+          "type": "speech"
+        }
+      ],
+      "narration": "The little cloud learned the deepest lesson of the Maruts: true strength comes not from being the biggest or the strongest alone, but from being united with others who share your purpose. The Maruts are not famous because any single one is special—they are famous because all forty-nine choose to be one. And that day, the little cloud realized that asking for help and working together isn't weakness—it's wisdom.",
+      "sceneDescription": "Peaceful after-storm scene, beautiful rainbow, revived green village below, Maruts and little cloud together looking satisfied, sense of accomplished mission and deep friendship, wisdom shared"
+    }
+  ],
+  "lesson": {
+    "title": "The Power of Unity and Teamwork",
+    "content": "The Maruts teach us that unity multiplies strength. When we try to do everything alone, we struggle and often fail. But when we work together with others who share our goals, we can accomplish what seems impossible. The key is true unity—not just being in the same place, but moving with the same purpose, supporting each other, and celebrating each other's contributions. In unity, 1+1 doesn't equal 2... it equals 10, or 100, or 1000!",
+    "practicalApplication": "This week, look for chances to unite with others: In school projects, don't try to do everything yourself—contribute your part while appreciating others' contributions. In sports or games, focus on the team's success rather than your individual glory. At home, coordinate with siblings or parents to accomplish tasks together. Notice how things that seem hard alone become easy when everyone works as one. Remember: a single stick breaks easily, but a bundle of sticks is nearly unbreakable!"
+  },
+  "shloka": {
+    "sanskrit": "आ यात्रे मरुतो यूयं वृद्धाय स्तोत्रे अवक्षत। आ वो यज्ञं नाशत॥",
+    "transliteration": "Ā yātre maruto yūyaṃ vṛddhāya stotre avakṣata | Ā vo yajñaṃ nāśata ||",
+    "translation": "Come, O Maruts, to our journey, to our great hymn of praise. Come to our worship, united as one.",
+    "reference": "Rig Veda 1.165.15",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 165,
+      "rik": 15
+    }
+  },
+  "quiz": {
+    "question": "What is the main secret of the Maruts' power?",
+    "options": [
+      "Each Marut is individually very strong",
+      "They have magical lightning weapons",
+      "They all move together with one purpose and one heart",
+      "They are bigger than other storm clouds"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The Maruts' true power comes from their perfect unity. Though there are forty-nine of them, they move as one being, with one purpose and one heart. Individually, each Marut is not much bigger or stronger than the little cloud, but together they become an unstoppable storm. This teaches us that cooperation and unity can multiply our strength far beyond what any individual could achieve alone."
+  },
+  "metadata": {
+    "difficulty": "beginner",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}
+

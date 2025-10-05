@@ -107,7 +107,7 @@
     "keyQualities": ["Invincible", "Generous", "Protector of Aryans", "Soma-lover"],
     "ageGroup": "Ages 8+ - Action & heroism",
     "color": "from-blue-100 to-indigo-100",
-    "stories": ["Indra's Cosmic Horses", "The Battle with Vritra", "Thunder's Teaching"]
+    "stories": ["The Battle with Vritra"]
   },
   {
     "id": "varuna",
@@ -162,7 +162,7 @@
     "keyQualities": ["Omniscient", "Just", "Merciful", "Guardian of Rita"],
     "ageGroup": "Ages 13+ - Deep philosophy",
     "color": "from-blue-100 to-cyan-100",
-    "stories": ["The Patient Crocodile's Wisdom", "Rivers that Remember", "Ocean's Ancient Laws"]
+    "stories": ["The Patient Crocodile's Wisdom"]
   },
   {
     "id": "soma",
@@ -217,7 +217,7 @@
     "keyQualities": ["Purifying", "Enlightening", "Immortal", "All-pervading"],
     "ageGroup": "Ages 15+ - Mystical content",
     "color": "from-green-100 to-emerald-100",
-    "stories": ["The Golden Stream", "Soma's Journey Through the Worlds", "The Purifying Light"]
+    "stories": ["The Golden Stream"]
   },
   {
     "id": "ushas",
@@ -272,7 +272,7 @@
     "keyQualities": ["Ever-young", "Beautiful", "Life-giving", "Awakener"],
     "ageGroup": "All ages - Inspiring & beautiful",
     "color": "from-pink-100 to-orange-100",
-    "stories": ["The Early Bird's Revelation", "Dance of First Light", "Morning's Sacred Promise"]
+    "stories": ["The Early Bird's Revelation"]
   },
   {
     "id": "surya",
@@ -327,7 +327,7 @@
     "keyQualities": ["All-seeing", "Life-giving", "Illuminating", "Eternal"],
     "ageGroup": "All ages - Universal symbol",
     "color": "from-yellow-100 to-amber-100",
-    "stories": ["The Seven Horses of Heaven", "The Sun's Daily Journey", "Eye of the Universe"]
+    "stories": ["The Seven Horses of Heaven"]
   },
   {
     "id": "maruts",
@@ -382,7 +382,7 @@
     "keyQualities": ["Youthful", "Fierce", "Benevolent", "United"],
     "ageGroup": "Ages 8+ - Action-packed",
     "color": "from-gray-100 to-blue-100",
-    "stories": ["The Storm Brothers", "When Mountains Trembled", "Rain's Gift"]
+    "stories": ["The Storm Brothers Unite"]
   },
   {
     "id": "ashvins",
@@ -437,7 +437,7 @@
     "keyQualities": ["Compassionate", "Swift", "Miraculous", "Youthful"],
     "ageGroup": "All ages - Heroes & helpers",
     "color": "from-amber-100 to-yellow-100",
-    "stories": ["The Twin Healers", "Rescue at Dawn", "The Golden Chariot"]
+    "stories": ["The Twin Healers' Greatest Lesson"]
   },
   {
     "id": "rudra",
@@ -492,7 +492,7 @@
     "keyQualities": ["Fierce", "Healing", "Protective", "Unpredictable"],
     "ageGroup": "Ages 13+ - Complex deity",
     "color": "from-gray-100 to-slate-100",
-    "stories": ["The Storm Lord's Mercy", "Rudra's Healing Power", "Father of the Maruts"]
+    "stories": ["The Fierce God's Gentle Touch"]
   },
   {
     "id": "sarasvati",
@@ -547,6 +547,6 @@
     "keyQualities": ["Eloquent", "Purifying", "Inspiring", "Wise"],
     "ageGroup": "All ages - Learning & wisdom",
     "color": "from-blue-100 to-teal-100",
-    "stories": ["The River of Knowledge", "Song of Sarasvati", "The Purifying Flow"]
+    "stories": ["The River That Teaches"]
   }
 ]

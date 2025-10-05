@@ -1,0 +1,169 @@
+{
+  "id": "sarasvati-river-knowledge",
+  "deity": "sarasvati",
+  "title": "The River That Teaches",
+  "subtitle": "Knowledge flows like water—it must keep moving to stay pure",
+  "thumbnail": "/stories/sarasvati/river-knowledge/panel-1.jpg",
+  "theme": ["knowledge", "sharing", "flow", "generosity", "wisdom"],
+  "ageGroup": "8-14 years",
+  "readingTime": 4,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-1.jpg",
+      "imageAlt": "A brilliant young scholar named Vidya hoarding books and knowledge in a locked library, refusing to share with anyone",
+      "dialogues": [
+        {
+          "character": "Village Child",
+          "text": "Please, Vidya, could you teach me to read? You know so much!",
+          "type": "speech"
+        },
+        {
+          "character": "Vidya",
+          "text": "No! I worked hard for this knowledge. It's MINE. Find your own books!",
+          "type": "speech"
+        }
+      ],
+      "narration": "Vidya was the most learned person in her village. She had collected hundreds of books and scrolls, studied day and night, and possessed vast knowledge. But she kept it all to herself, locked away in her private library. When others asked her to teach them or share her books, she refused. 'Knowledge is power,' she thought, 'and if I share it, I'll lose my advantage. My knowledge makes me special.' So she hoarded every bit of learning, letting no one else in.",
+      "sceneDescription": "Dark, closed library filled with books, young scholar Vidya surrounded by knowledge but looking isolated and protective, village child at locked door being turned away, selfish atmosphere, stagnant energy"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-2.jpg",
+      "imageAlt": "Vidya noticing that her books are starting to decay, pages yellowing, ink fading, despite being kept carefully",
+      "dialogues": [
+        {
+          "character": "Vidya",
+          "text": "What's happening?! I've kept these books so carefully, protected from everyone... yet they're deteriorating! Why?",
+          "type": "speech"
+        }
+      ],
+      "narration": "But something strange began happening. Despite Vidya's careful preservation, her books started to decay. Pages yellowed faster than they should. Ink faded. Even scrolls she'd just copied became brittle and hard to read. Most mysteriously, Vidya noticed that knowledge she didn't use or share was slipping from her own memory! Information she'd once known perfectly was becoming foggy and unclear. She was panicking—what was wrong?",
+      "sceneDescription": "Troubled scene, Vidya examining decaying books with concern, yellowed pages, fading text visible, sense of deterioration despite care, confusion and worry on her face"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-3.jpg",
+      "imageAlt": "Sarasvati appearing in the form of a beautiful flowing river, speaking to Vidya",
+      "dialogues": [
+        {
+          "character": "Sarasvati",
+          "text": "Come, child. Walk with me along my banks. I will show you why your knowledge is dying.",
+          "type": "speech"
+        },
+        {
+          "character": "Vidya",
+          "text": "Goddess Sarasvati! You are the deity of knowledge! Please, tell me how to preserve what I've learned!",
+          "type": "speech"
+        }
+      ],
+      "narration": "One evening, as Vidya sat despairing in her decaying library, she heard the sound of flowing water. But there was no river near her home! Following the sound, she found herself by the banks of a magnificent, shining river. Standing in the water, radiant and serene, was Sarasvati—goddess of knowledge, music, and sacred rivers. 'Your books are dying because knowledge itself is dying within you,' Sarasvati said gently. 'Come, I will teach you what you've forgotten.'",
+      "sceneDescription": "Magical scene, beautiful flowing river Sarasvati in luminous form, divine presence in water, Vidya approaching riverbank, contrast between flowing living river and Vidya's stagnant library, sacred atmosphere"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-4.jpg",
+      "imageAlt": "Sarasvati showing Vidya two pools of water—one flowing and fresh, one stagnant and green with algae",
+      "dialogues": [
+        {
+          "character": "Sarasvati",
+          "text": "Look at these two pools, child. One is part of my flowing river—fresh, clear, full of life. The other has been blocked off—stagnant, green, dying. Both started as the same water. What made the difference?",
+          "type": "speech"
+        },
+        {
+          "character": "Vidya",
+          "text": "The flowing water stays fresh because it keeps moving, keeps sharing itself downstream...",
+          "type": "speech"
+        }
+      ],
+      "narration": "Sarasvati showed Vidya two pools. One was part of the flowing river—crystal clear, full of fish and plants, alive with energy. The other had been blocked off from the river's flow—it was stagnant, covered with algae, smelling bad, lifeless. 'Both began as the same pure water,' Sarasvati explained. 'But the flowing water stays fresh because it constantly receives from upstream and gives to downstream. The blocked water has no flow, so it stagnates and dies. Knowledge is exactly the same.'",
+      "sceneDescription": "Teaching moment, split visual showing two pools side by side, one fresh and flowing, one stagnant and dying, Sarasvati guiding Vidya's understanding, powerful metaphor visualized"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-5.jpg",
+      "imageAlt": "Sarasvati explaining that knowledge must flow—received from teachers, shared with students—to stay alive",
+      "dialogues": [
+        {
+          "character": "Sarasvati",
+          "text": "You received knowledge from your teachers—that was water flowing to you. But then you blocked the flow! You refused to let it continue downstream to others. So like stagnant water, your knowledge is dying.",
+          "type": "speech"
+        },
+        {
+          "character": "Vidya",
+          "text": "I thought keeping knowledge to myself made me powerful... but I was actually killing it?",
+          "type": "speech"
+        },
+        {
+          "character": "Sarasvati",
+          "text": "Yes. Knowledge grows when shared, dies when hoarded. A river that gives water to the land receives more rain from the sky. Share knowledge, and more knowledge comes to you.",
+          "type": "speech"
+        }
+      ],
+      "narration": "Sarasvati revealed the sacred truth: Knowledge is not a possession to hoard but a river to channel. When we receive knowledge from teachers and books, we must let it flow through us to others. In teaching, we deepen our own understanding. In sharing, we create space for new knowledge to come. In discussing ideas, we discover connections we never saw alone. But when we dam up knowledge, refusing to share it, it stagnates within us—just like blocked water. Vidya suddenly understood why her memory was fading: she had stopped the flow!",
+      "sceneDescription": "Profound teaching scene, Sarasvati illustrating the flow of knowledge with graceful gestures, visual representation of knowledge flowing like water from teacher to student to next student, river imagery merged with learning imagery, Vidya experiencing deep realization"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/sarasvati/river-knowledge/panel-6.jpg",
+      "imageAlt": "Vidya transformed, now teaching village children under a tree by the river, knowledge flowing, her books preserved through use and sharing",
+      "dialogues": [
+        {
+          "character": "Village Child",
+          "text": "Thank you for teaching us, Vidya! I want to learn everything!",
+          "type": "speech"
+        },
+        {
+          "character": "Vidya",
+          "text": "And you will! And when you learn, you must teach others too. Keep the river flowing!",
+          "type": "speech"
+        },
+        {
+          "character": "Another Child",
+          "text": "Look! Vidya's learning even more as she teaches us! How does that work?",
+          "type": "speech"
+        },
+        {
+          "character name": "Elder",
+          "text": "*watching from nearby* That is Sarasvati's blessing—knowledge multiplies when shared.",
+          "type": "thought"
+        }
+      ],
+      "narration": "Vidya returned home transformed. She opened her library to everyone. She started teaching children under a tree by the riverside every morning. She discussed ideas with other scholars, shared her books freely, and helped anyone who wanted to learn. And something miraculous happened: her books stopped decaying! More than that—her own understanding deepened. Teaching others made her realize connections she'd never seen before. Explaining concepts helped her understand them more clearly. And new knowledge seemed to flow to her effortlessly. By becoming a river instead of a dam, she'd tapped into the infinite source of Sarasvati herself. She learned that you can never lose knowledge by giving it away—you can only multiply it.",
+      "sceneDescription": "Joyful final scene, Vidya teaching multiple enthusiastic children under beautiful tree by flowing river, books being shared and read, vibrant learning community, knowledge flowing like water, Sarasvati's presence blessing the scene, complete transformation from stagnation to vitality"
+    }
+  ],
+  "lesson": {
+    "title": "Knowledge Multiplies When Shared",
+    "content": "Sarasvati teaches us that knowledge is fundamentally different from material possessions. If you give away your money, you have less. But if you give away your knowledge, you actually have MORE—because teaching deepens understanding, sharing creates discussion that sparks new insights, and generosity with learning attracts more learning opportunities. Knowledge is like a river: it must flow to stay fresh. When we receive knowledge from teachers and share it with others, we become channels for an infinite source. When we hoard knowledge, it stagnates and dies within us. The paradox is beautiful: the more freely you give knowledge, the more knowledge flows to you.",
+    "practicalApplication": "This week, practice being a knowledge river: Share something you know with someone who wants to learn—teach a skill, explain a concept, recommend a book. Notice how teaching clarifies your own understanding. Join or start a study group where everyone shares insights. When you learn something interesting, don't keep it to yourself—tell someone! Create a blog, make a video, or simply have conversations. Keep a 'flow journal'—write what you learned (received) and what you taught (shared) each day. Like Sarasvati's river, aim to be both receiving upstream and giving downstream. Remember: hoarding knowledge doesn't make you powerful—channeling it does!"
+  },
+  "shloka": {
+    "sanskrit": "प्र णो देवी सरस्वती वाजेभिर्वाजिनीवती धीनामवित्र्यवतु॥",
+    "transliteration": "Pra ṇo devī sarasvatī vājebhir vājinīvatī dhīnām avitry avatu ||",
+    "translation": "May the divine Sarasvati, rich with treasures of knowledge, protector of insight, grant us her blessings.",
+    "reference": "Rig Veda 1.3.10",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 3,
+      "rik": 10
+    }
+  },
+  "quiz": {
+    "question": "Why were Vidya's books decaying even though she kept them carefully?",
+    "options": [
+      "The library had poor ventilation and moisture damage",
+      "Someone was secretly damaging them out of jealousy",
+      "Knowledge dies when it stops flowing—when it's hoarded instead of shared",
+      "The books were very old and naturally deteriorating"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vidya's books were decaying because knowledge itself was dying within her due to lack of flow. Like water that becomes stagnant when blocked from flowing, knowledge deteriorates when hoarded and not shared. Sarasvati showed Vidya that knowledge must flow—received from teachers and passed on to students—to stay alive and fresh. When Vidya transformed into a teacher who shared freely, her books stopped decaying because the knowledge was flowing again. This teaches us that knowledge is not meant to be possessed but to be channeled."
+  },
+  "metadata": {
+    "difficulty": "intermediate",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}
+

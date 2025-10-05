@@ -1,0 +1,149 @@
+{
+  "id": "surya-seven-horses",
+  "deity": "surya",
+  "title": "The Seven Horses of Heaven",
+  "subtitle": "How each day of the week brings its own special gift from the Sun",
+  "thumbnail": "/stories/surya/seven-horses/panel-1.jpg",
+  "theme": ["time", "diversity", "rhythm", "consistency"],
+  "ageGroup": "8-12 years",
+  "readingTime": 3,
+  "panels": [
+    {
+      "panelNumber": 1,
+      "imageUrl": "/stories/surya/seven-horses/panel-1.jpg",
+      "imageAlt": "A young astronomer named Rohit looking through his telescope, confused why some days feel different than others",
+      "dialogues": [
+        {
+          "character": "Rohit",
+          "text": "Strange... the sun rises every day, yet each day feels so different. Why?",
+          "type": "speech"
+        }
+      ],
+      "narration": "Rohit loved observing the sky. Every morning, he watched the sunrise, and every evening, he tracked the sunset. But he noticed something curious: though the sun appeared the same each day, the days themselves felt different. Some days felt full of energy, others felt peaceful, some felt challenging.",
+      "sceneDescription": "Young boy with telescope on rooftop at dawn, observing sunrise, notebooks with observations, curious expression, beautiful sky background, scientific but mystical atmosphere"
+    },
+    {
+      "panelNumber": 2,
+      "imageUrl": "/stories/surya/seven-horses/panel-2.jpg",
+      "imageAlt": "Surya appears in a vision, riding his golden chariot pulled by seven magnificent horses, each glowing with different colors",
+      "dialogues": [
+        {
+          "character": "Surya",
+          "text": "Young observer, you have noticed well. Come, let me show you the truth behind the days.",
+          "type": "speech"
+        },
+        {
+          "character": "Rohit",
+          "text": "Lord Surya! The Sun God himself!",
+          "type": "speech"
+        }
+      ],
+      "narration": "One dawn, as Rohit watched, the sun blazed brighter than ever before. In its radiance appeared Surya, the solar deity, riding his magnificent golden chariot. But what amazed Rohit most were the seven horses pulling the chariot—each one glowing with a different color of light!",
+      "sceneDescription": "Magnificent vision of Surya on golden chariot, seven horses in rainbow colors (red, orange, yellow, green, blue, indigo, violet), divine radiance, Rohit watching in awe, epic celestial scene"
+    },
+    {
+      "panelNumber": 3,
+      "imageUrl": "/stories/surya/seven-horses/panel-3.jpg",
+      "imageAlt": "Surya explaining, showing how each horse represents a day of the week and brings different energy",
+      "dialogues": [
+        {
+          "character": "Surya",
+          "text": "These seven horses are not just pulling my chariot—they ARE the seven days of your week! Each brings its own color, energy, and gift to the world.",
+          "type": "speech"
+        },
+        {
+          "character": "Rohit",
+          "text": "Each day has its own horse? Its own personality?",
+          "type": "speech"
+        }
+      ],
+      "narration": "Surya explained: The red horse brings the energy of beginnings (Monday/Somvar). The orange horse brings active power (Tuesday/Mangalvar). The yellow horse brings wisdom and learning (Wednesday/Budhvar). The green horse brings growth and balance (Thursday/Guruvar). The blue horse brings creativity and beauty (Friday/Shukravar). The indigo horse brings discipline and rest (Saturday/Shanivar). The violet horse brings spiritual renewal (Sunday/Ravivar).",
+      "sceneDescription": "Teaching scene, Surya gesturing to each horse, seven horses displayed with their unique energies, visual labels or auras showing their qualities, educational but magical presentation"
+    },
+    {
+      "panelNumber": 4,
+      "imageUrl": "/stories/surya/seven-horses/panel-4.jpg",
+      "imageAlt": "Close-up of the horses showing their individual personalities and gifts",
+      "dialogues": [
+        {
+          "character": "Narrator",
+          "text": "Each horse carried the essence of its day",
+          "type": "caption"
+        }
+      ],
+      "narration": "Rohit watched in wonder as each horse showed its nature. The Monday horse was calm and reflective like the moon. The Tuesday horse was fierce and courageous like Mars. The Wednesday horse was quick and clever like Mercury. Thursday's horse was wise and generous like Jupiter. Friday's horse was graceful and loving like Venus. Saturday's horse was patient and enduring like Saturn. And Sunday's horse blazed with pure solar radiance.",
+      "sceneDescription": "Beautiful panel showing all seven horses with their unique characteristics visible, each emanating their special quality, mystical and educational, cosmic beauty"
+    },
+    {
+      "panelNumber": 5,
+      "imageUrl": "/stories/surya/seven-horses/panel-5.jpg",
+      "imageAlt": "Surya teaching Rohit that every day's energy is important and needed",
+      "dialogues": [
+        {
+          "character": "Rohit",
+          "text": "But Lord Surya, some days are harder than others. I wish every day could be easy like Friday!",
+          "type": "speech"
+        },
+        {
+          "character": "Surya",
+          "text": "Ah, but then you would never grow strong! Tuesday's challenges build courage. Saturday's discipline builds character. Each day's gift is necessary for a complete life.",
+          "type": "speech"
+        }
+      ],
+      "narration": "Surya taught Rohit that we need all seven horses—all seven energies. Without Monday's reflection, we can't learn from the past. Without Tuesday's courage, we can't face challenges. Without Saturday's discipline, we can't build strength. The variety of days creates the richness of life!",
+      "sceneDescription": "Wise teaching moment, Surya and Rohit in conversation, visual representation of balanced life needing all seven energies, circular harmony showing interconnection, deep wisdom being transmitted"
+    },
+    {
+      "panelNumber": 6,
+      "imageUrl": "/stories/surya/seven-horses/panel-6.jpg",
+      "imageAlt": "Rohit now understands, appreciating each day for its unique gift as the seven horses ride across the sky",
+      "dialogues": [
+        {
+          "character": "Rohit",
+          "text": "I understand now! Every day is perfect for what it needs to be. I'll honor each horse—each day's special energy!",
+          "type": "speech"
+        },
+        {
+          "character": "Surya",
+          "text": "Well understood, young astronomer. Live with the rhythm of the seven horses, and you'll live in harmony with time itself.",
+          "type": "speech"
+        }
+      ],
+      "narration": "From that day forward, Rohit greeted each morning differently. On Mondays, he reflected quietly. On Tuesdays, he faced challenges bravely. On Wednesdays, he studied hard. On Thursdays, he shared generously. On Fridays, he created beauty. On Saturdays, he practiced discipline. And on Sundays, he renewed his spirit. He understood that Surya's seven horses don't just pull the sun across the sky—they pull us through the dance of time, each day bringing exactly what we need to grow into our fullest selves.",
+      "sceneDescription": "Joyful resolution, Rohit greeting each new dawn with understanding, seven horses riding majestically across sky, beautiful sunrise, harmony between boy and cosmic order, wisdom fully integrated"
+    }
+  ],
+  "lesson": {
+    "title": "Honoring the Rhythm of Time",
+    "content": "Surya's seven horses teach us that life needs variety and rhythm. Each day of the week brings its own energy and opportunities, and all are necessary for growth. Instead of wishing every day were the same (easy and fun), we can learn to work with each day's unique quality. Monday's quiet reflection is as valuable as Friday's joy. Tuesday's challenges build the strength we need for Thursday's generosity. When we honor the natural rhythm of time, we flow with life instead of fighting against it.",
+    "practicalApplication": "This week, try this: At the start of each day, pause for a moment and ask 'What energy does today bring?' Notice how Mondays feel different from Fridays. Instead of resisting a day's energy, work with it. Use Monday for planning, Tuesday for tackling hard tasks, Wednesday for learning, Thursday for helping others, Friday for creative projects, Saturday for organizing, and Sunday for rest and renewal. Living with the seven horses means dancing with time, not fighting it."
+  },
+  "shloka": {
+    "sanskrit": "उद्वयं तमसस्परि ज्योतिः पश्यन्त उत्तरम्। देवं देवत्रा सूर्यमगन्म ज्योतिरुत्तमम्॥",
+    "transliteration": "Ud vayaṃ tamasas pari jyotiḥ paśyanta uttaram | Devaṃ devatrā sūryam aganma jyotir uttamam ||",
+    "translation": "Seeing the higher light beyond the darkness, we have reached Surya, god among gods, the light supreme.",
+    "reference": "Rig Veda 1.50.1",
+    "mandalaSuktaRik": {
+      "mandala": 1,
+      "sukta": 50,
+      "rik": 1
+    }
+  },
+  "quiz": {
+    "question": "What do Surya's seven horses represent?",
+    "options": [
+      "Seven colors of the rainbow",
+      "Seven continents of the world",
+      "Seven days of the week, each with unique energy and gifts",
+      "Seven planets in the solar system"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Surya's seven horses represent the seven days of the week, each bringing its own unique energy, quality, and gifts to our lives. Just as the horses work together to pull the sun across the sky, all seven days work together to create the complete rhythm of life. Each day's energy—whether challenging or easy—is necessary for our growth and wellbeing."
+  },
+  "metadata": {
+    "difficulty": "beginner",
+    "created": "2025-10-05",
+    "author": "RigKatha Team"
+  }
+}
+
