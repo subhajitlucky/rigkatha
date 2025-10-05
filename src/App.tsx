@@ -5,6 +5,7 @@ import About from './pages/About'
 import BrowseByMandala from './pages/BrowseByMandala'
 import BrowseByDeity from './pages/BrowseByDeity'
 import BrowseByTheme from './pages/BrowseByTheme'
+import ThemeDetail from './pages/theme/ThemeDetail'
 import DeityDetail from './pages/deity/DeityDetail'
 import MandalaDetail from './pages/mandala/MandalaDetail'
 import HymnDetail from './pages/mandala/HymnDetail'
@@ -29,6 +30,7 @@ function App() {
           <Route path='/browse/deity' element={<BrowseByDeity/>}/>
           <Route path='/browse/deity/:deityId' element={<DeityDetail/>}/>
           <Route path='/browse/theme' element={<BrowseByTheme/>}/>
+          <Route path='/browse/theme/:themeId' element={<ThemeDetail/>}/>
           <Route path='/story/:storyId' element={<StoryReader/>}/>
         </Routes>
       </main>
