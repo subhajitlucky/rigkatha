@@ -16,41 +16,48 @@ export default function ComicPanel({ panel, totalPanels }: ComicPanelProps) {
       </div>
 
       {/* Comic Panel Image */}
-      <div className="relative bg-white rounded-2xl overflow-hidden shadow-2xl border-4 border-amber-900 mb-6">
+      <div className="relative bg-white rounded-2xl overflow-hidden shadow-2xl border-4 border-amber-900 mb-4">
         <img
           src={panel.imageUrl}
           alt={panel.imageAlt}
           className="w-full aspect-video object-center"
         />
+      </div>
 
-        {/* Dialogues Overlay (Speech bubbles, captions, thoughts) */}
-        {panel.dialogues.length > 0 && (
-          <div className="absolute inset-0 pointer-events-none">
-            <div className="h-full flex flex-col justify-end p-6 bg-gradient-to-t from-black/60 via-transparent to-transparent">
-              {panel.dialogues.map((dialogue, index) => (
-                <div
-                  key={index}
-                  className={`
-                    mb-3 p-4 rounded-xl max-w-2xl backdrop-blur-sm
-                    ${dialogue.type === 'speech' ? 'bg-white/95 opacity-[70%] text-gray-900' : ''}
-                    ${dialogue.type === 'thought' ? 'bg-blue-100/95 opacity-[70%] text-blue-900 italic' : ''}
-                    ${dialogue.type === 'caption' ? 'bg-amber-100/95 opacity-[70%] text-amber-900 font-semibold text-center mx-auto' : ''}
-                  `}
-                >
-                  {dialogue.type !== 'caption' && (
-                    <div className="text-xs font-bold text-gray-600 mb-1">
-                      {dialogue.character}
-                    </div>
-                  )}
-                  <div className="text-base leading-relaxed">
+      {panel.dialogues.length > 0 && (
+        <div className="mb-6 space-y-3 rounded-2xl bg-amber-50/70 border border-amber-200 px-4 py-5 shadow-sm">
+          {panel.dialogues.map((dialogue, index) => (
+            <div key={index} className="space-y-1">
+              {dialogue.type === 'caption' ? (
+                <div className="text-center">
+                  <span className="inline-block px-4 py-2 rounded-xl bg-amber-100 text-amber-900 font-semibold shadow">
+                    {dialogue.text}
+                  </span>
+                </div>
+              ) : (
+                <div className="flex flex-col gap-2 md:flex-row md:items-start md:gap-3">
+                  <div className="md:w-24">
+                    {dialogue.character && (
+                      <span className="inline-block rounded-full bg-amber-200/80 px-3 py-1 text-[10px] font-semibold uppercase tracking-wide text-amber-900 shadow-sm">
+                        {dialogue.character}
+                      </span>
+                    )}
+                  </div>
+                  <div
+                    className={`max-w-2xl px-4 py-3 rounded-2xl shadow-sm border transition-transform duration-200 md:hover:-translate-y-0.5 ${
+                      dialogue.type === 'speech'
+                        ? 'bg-white text-gray-900 border-amber-200'
+                        : 'bg-sky-50 text-sky-900 border-sky-200 italic'
+                    }`}
+                  >
                     {dialogue.text}
                   </div>
                 </div>
-              ))}
+              )}
             </div>
-          </div>
-        )}
-      </div>
+          ))}
+        </div>
+      )}
 
       {/* Narration Below Panel */}
       <div className="bg-gradient-to-br from-orange-50 to-amber-50 rounded-xl p-6 border-2 border-amber-200">

@@ -1,0 +1,3460 @@
+[
+  {
+    "number": 1,
+    "title": "अग्निमीळे",
+    "titleEnglish": "Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Invocation of Agni as divine priest",
+    "description": "Hymn 1 to Agni: Invocation of Agni as divine priest",
+    "keywords": [
+      "agni",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": true,
+    "storyId": "wise-fish-agni",
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni"
+  },
+  {
+    "number": 2,
+    "title": "वायव",
+    "titleEnglish": "Vayu",
+    "deity": "Vayu",
+    "deityIcon": "💨",
+    "verseCount": 9,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Invocation of Wind god",
+    "description": "Hymn 2 to Vayu: Invocation of Wind god",
+    "keywords": [
+      "vayu",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Vayu"
+  },
+  {
+    "number": 3,
+    "title": "अश्विना",
+    "titleEnglish": "Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 12,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Divine healers of dawn",
+    "description": "Hymn 3 to Ashvins: Divine healers of dawn",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Ashvins"
+  },
+  {
+    "number": 4,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Power and strength",
+    "description": "Hymn 4 to Indra: Power and strength",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 5,
+    "title": "इन्द्रमरुत्",
+    "titleEnglish": "Indra-Maruts",
+    "deity": "Indra-Maruts",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Storm deities",
+    "description": "Hymn 5 to Indra-Maruts: Storm deities",
+    "keywords": [
+      "indra-maruts",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra-Maruts"
+  },
+  {
+    "number": 6,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Heroic deeds",
+    "description": "Hymn 6 to Indra: Heroic deeds",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 7,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Songs of praise",
+    "description": "Hymn 7 to Indra: Songs of praise",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 8,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 8,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Bestower of wealth",
+    "description": "Hymn 8 to Indra: Bestower of wealth",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 9,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Ritual presence",
+    "description": "Hymn 9 to Indra: Ritual presence",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 10,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 12,
+    "composer": "Madhuchandas Vaishvamitra",
+    "theme": "Collective worship",
+    "description": "Hymn 10 to Indra: Collective worship",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 11,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 8,
+    "composer": "Jeta Madhuchandas",
+    "theme": "Supreme power",
+    "description": "Hymn 11 to Indra: Supreme power",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 12,
+    "title": "अग्नि",
+    "titleEnglish": "Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Divine messenger",
+    "description": "Hymn 12 to Agni: Divine messenger",
+    "keywords": [
+      "agni",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni"
+  },
+  {
+    "number": 13,
+    "title": "अग्नि",
+    "titleEnglish": "Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Oblations to fire",
+    "description": "Hymn 13 to Agni: Oblations to fire",
+    "keywords": [
+      "agni",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni"
+  },
+  {
+    "number": 14,
+    "title": "अग्नि",
+    "titleEnglish": "Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Kindling the flame",
+    "description": "Hymn 14 to Agni: Kindling the flame",
+    "keywords": [
+      "agni",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni"
+  },
+  {
+    "number": 15,
+    "title": "ऋतु",
+    "titleEnglish": "Rtu (Seasons)",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Seasonal worship",
+    "description": "Hymn 15 to Agni: Seasonal worship",
+    "keywords": [
+      "agni",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni"
+  },
+  {
+    "number": 16,
+    "title": "इन्द्र",
+    "titleEnglish": "Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Thunderbolt wielder",
+    "description": "Hymn 16 to Indra: Thunderbolt wielder",
+    "keywords": [
+      "indra",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra"
+  },
+  {
+    "number": 17,
+    "title": "इन्द्रवायु",
+    "titleEnglish": "Indra-Vayu",
+    "deity": "Indra-Vayu",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Power and wind combined",
+    "description": "Hymn 17 to Indra-Vayu: Power and wind combined",
+    "keywords": [
+      "indra-vayu",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Indra-Vayu"
+  },
+  {
+    "number": 18,
+    "title": "ब्रह्मणस्पति",
+    "titleEnglish": "Brahmanaspati",
+    "deity": "Brahmanaspati",
+    "deityIcon": "🕉️",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Lord of sacred speech",
+    "description": "Hymn 18 to Brahmanaspati: Lord of sacred speech",
+    "keywords": [
+      "brahmanaspati",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Brahmanaspati"
+  },
+  {
+    "number": 19,
+    "title": "अग्निमरुत्",
+    "titleEnglish": "Agni-Maruts",
+    "deity": "Agni-Maruts",
+    "deityIcon": "🕉️",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Fire and storm",
+    "description": "Hymn 19 to Agni-Maruts: Fire and storm",
+    "keywords": [
+      "agni-maruts",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Agni-Maruts"
+  },
+  {
+    "number": 20,
+    "title": "ऋभु",
+    "titleEnglish": "Rbhus",
+    "deity": "Rbhus",
+    "deityIcon": "🔨",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Divine craftsmen",
+    "description": "Hymn 20 to Rbhus: Divine craftsmen",
+    "keywords": [
+      "rbhus",
+      "vedic",
+      "hymn"
+    ],
+    "hasStory": false,
+    "storyId": null,
+    "culturalSignificance": "Part of Mandala 1, dedicated to Rbhus"
+  },
+  {
+    "number": 21,
+    "title": "अग्नि 21",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 21 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 22,
+    "title": "अग्नि 22",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 22 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 23,
+    "title": "अग्नि 23",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 23 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 24,
+    "title": "अग्नि 24",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 24 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 25,
+    "title": "अग्नि 25",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 25 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 26,
+    "title": "अग्नि 26",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 26 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 27,
+    "title": "अग्नि 27",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 8,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 27 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 28,
+    "title": "अग्नि 28",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 28 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 29,
+    "title": "अग्नि 29",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 29 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 30,
+    "title": "अग्नि 30",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 30 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 31,
+    "title": "अग्नि 31",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 31 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 32,
+    "title": "अग्नि 32",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 32 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 33,
+    "title": "अग्नि 33",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 33 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 34,
+    "title": "अग्नि 34",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 34 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 35,
+    "title": "अग्नि 35",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 35 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 36,
+    "title": "अग्नि 36",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 36 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 37,
+    "title": "अग्नि 37",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 37 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 38,
+    "title": "अग्नि 38",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 38 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 39,
+    "title": "अग्नि 39",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 8,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 39 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 40,
+    "title": "अग्नि 40",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 40 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 41,
+    "title": "अग्नि 41",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 41 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 42,
+    "title": "अग्नि 42",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 42 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 43,
+    "title": "अग्नि 43",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Medhyatithi Kanva",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 43 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Medhyatithi Kanva"
+  },
+  {
+    "number": 44,
+    "title": "इन्द्र 44",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 14,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 44 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 45,
+    "title": "इन्द्र 45",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 45 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 46,
+    "title": "इन्द्र 46",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 46 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 47,
+    "title": "इन्द्र 47",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 4,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 47 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 48,
+    "title": "इन्द्र 48",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 16,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 48 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 49,
+    "title": "इन्द्र 49",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 13,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 49 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 50,
+    "title": "इन्द्र 50",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Praskanva Kanva",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 50 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Praskanva Kanva"
+  },
+  {
+    "number": 51,
+    "title": "इन्द्र 51",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 51 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 52,
+    "title": "इन्द्र 52",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 52 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 53,
+    "title": "इन्द्र 53",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 53 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 54,
+    "title": "इन्द्र 54",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 11,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 54 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 55,
+    "title": "इन्द्र 55",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 11,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 55 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 56,
+    "title": "इन्द्र 56",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 56 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 57,
+    "title": "इन्द्र 57",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 6,
+    "composer": "Savya Angirasa",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 57 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Savya Angirasa"
+  },
+  {
+    "number": 58,
+    "title": "अग्नि 58",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 58 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 59,
+    "title": "अग्नि 59",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 59 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 60,
+    "title": "अग्नि 60",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 8,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 60 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 61,
+    "title": "अग्नि 61",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 16,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 61 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 62,
+    "title": "अग्नि 62",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 62 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 63,
+    "title": "अग्नि 63",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 63 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 64,
+    "title": "अग्नि 64",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Nodhas Gautama",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 64 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Nodhas Gautama"
+  },
+  {
+    "number": 65,
+    "title": "अग्नि 65",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 65 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 66,
+    "title": "अग्नि 66",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 66 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 67,
+    "title": "अग्नि 67",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 67 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 68,
+    "title": "अग्नि 68",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 68 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 69,
+    "title": "अग्नि 69",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 69 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 70,
+    "title": "अग्नि 70",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 70 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 71,
+    "title": "अग्नि 71",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 71 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 72,
+    "title": "अग्नि 72",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 72 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 73,
+    "title": "अग्नि 73",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Parashara Shaktya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 73 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Parashara Shaktya"
+  },
+  {
+    "number": 74,
+    "title": "इन्द्र 74",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 74 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 75,
+    "title": "इन्द्र 75",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 75 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 76,
+    "title": "इन्द्र 76",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 76 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 77,
+    "title": "इन्द्र 77",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 77 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 78,
+    "title": "इन्द्र 78",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 78 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 79,
+    "title": "इन्द्र 79",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 4,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 79 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 80,
+    "title": "इन्द्र 80",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 80 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 81,
+    "title": "इन्द्र 81",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 81 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 82,
+    "title": "इन्द्र 82",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 82 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 83,
+    "title": "इन्द्र 83",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 7,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 83 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 84,
+    "title": "इन्द्र 84",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 23,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 84 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 85,
+    "title": "इन्द्र 85",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 85 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 86,
+    "title": "इन्द्र 86",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 18,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 86 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 87,
+    "title": "इन्द्र 87",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 16,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 87 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 88,
+    "title": "इन्द्र 88",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 6,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 88 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 89,
+    "title": "इन्द्र 89",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 4,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 89 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 90,
+    "title": "इन्द्र 90",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 90 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 91,
+    "title": "इन्द्र 91",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 7,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 91 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 92,
+    "title": "इन्द्र 92",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 92 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 93,
+    "title": "इन्द्र 93",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Gotama Rahugana",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 93 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Gotama Rahugana"
+  },
+  {
+    "number": 94,
+    "title": "अग्नि 94",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 16,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 94 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 95,
+    "title": "अग्नि 95",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 95 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 96,
+    "title": "अग्नि 96",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 96 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 97,
+    "title": "अग्नि 97",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 97 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 98,
+    "title": "अग्नि 98",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 98 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 99,
+    "title": "अग्नि 99",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 99 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 100,
+    "title": "अग्नि 100",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 100 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 101,
+    "title": "अग्नि 101",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 101 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 102,
+    "title": "अग्नि 102",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 8,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 102 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 103,
+    "title": "अग्नि 103",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 18,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 103 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 104,
+    "title": "अग्नि 104",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 7,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 104 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 105,
+    "title": "अग्नि 105",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 24,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 105 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 106,
+    "title": "अग्नि 106",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 106 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 107,
+    "title": "अग्नि 107",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 107 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 108,
+    "title": "अग्नि 108",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 108 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 109,
+    "title": "अग्नि 109",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 109 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 110,
+    "title": "अग्नि 110",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 7,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 110 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 111,
+    "title": "अग्नि 111",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 14,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 111 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 112,
+    "title": "अग्नि 112",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 112 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 113,
+    "title": "अग्नि 113",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 113 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 114,
+    "title": "अग्नि 114",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 114 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 115,
+    "title": "अग्नि 115",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 16,
+    "composer": "Kutsa Angirasa",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 115 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kutsa Angirasa"
+  },
+  {
+    "number": 116,
+    "title": "सूक्त 116",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 25,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 116 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 117,
+    "title": "सूक्त 117",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 25,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 117 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 118,
+    "title": "सूक्त 118",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 24,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 118 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 119,
+    "title": "सूक्त 119",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 11,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 119 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 120,
+    "title": "सूक्त 120",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 25,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 120 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 121,
+    "title": "सूक्त 121",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 24,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 121 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 122,
+    "title": "सूक्त 122",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 24,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 122 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 123,
+    "title": "सूक्त 123",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 5,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 123 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 124,
+    "title": "सूक्त 124",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 24,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 124 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 125,
+    "title": "सूक्त 125",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 17,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 125 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 126,
+    "title": "सूक्त 126",
+    "titleEnglish": "Hymn to Ashvins",
+    "deity": "Ashvins",
+    "deityIcon": "🌅",
+    "verseCount": 26,
+    "composer": "Kakshivan Dairghatamas",
+    "theme": "Praise and invocation of Ashvins",
+    "description": "Hymn 126 of Mandala 1, dedicated to Ashvins",
+    "keywords": [
+      "ashvins",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Kakshivan Dairghatamas"
+  },
+  {
+    "number": 127,
+    "title": "अग्नि 127",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 127 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 128,
+    "title": "अग्नि 128",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 128 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 129,
+    "title": "अग्नि 129",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 129 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 130,
+    "title": "अग्नि 130",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 130 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 131,
+    "title": "अग्नि 131",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 131 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 132,
+    "title": "अग्नि 132",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 7,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 132 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 133,
+    "title": "अग्नि 133",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 133 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 134,
+    "title": "अग्नि 134",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 134 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 135,
+    "title": "अग्नि 135",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 7,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 135 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 136,
+    "title": "अग्नि 136",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 136 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 137,
+    "title": "अग्नि 137",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 137 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 138,
+    "title": "अग्नि 138",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 4,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 138 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 139,
+    "title": "अग्नि 139",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Paruchhepa Daivodasi",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 139 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Paruchhepa Daivodasi"
+  },
+  {
+    "number": 140,
+    "title": "अग्नि 140",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 140 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 141,
+    "title": "अग्नि 141",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 141 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 142,
+    "title": "अग्नि 142",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 142 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 143,
+    "title": "अग्नि 143",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 143 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 144,
+    "title": "अग्नि 144",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 144 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 145,
+    "title": "अग्नि 145",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 145 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 146,
+    "title": "अग्नि 146",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 146 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 147,
+    "title": "अग्नि 147",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 147 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 148,
+    "title": "अग्नि 148",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 6,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 148 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 149,
+    "title": "अग्नि 149",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 149 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 150,
+    "title": "अग्नि 150",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 11,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 150 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 151,
+    "title": "अग्नि 151",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 151 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 152,
+    "title": "अग्नि 152",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 152 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 153,
+    "title": "अग्नि 153",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 153 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 154,
+    "title": "अग्नि 154",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 10,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 154 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 155,
+    "title": "अग्नि 155",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 12,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 155 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 156,
+    "title": "अग्नि 156",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 21,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 156 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 157,
+    "title": "अग्नि 157",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 16,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 157 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 158,
+    "title": "अग्नि 158",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 9,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 158 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 159,
+    "title": "अग्नि 159",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 5,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 159 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 160,
+    "title": "अग्नि 160",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 23,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 160 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 161,
+    "title": "अग्नि 161",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 22,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 161 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 162,
+    "title": "अग्नि 162",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 162 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 163,
+    "title": "अग्नि 163",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 13,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 163 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 164,
+    "title": "अग्नि 164",
+    "titleEnglish": "Hymn to Agni",
+    "deity": "Agni",
+    "deityIcon": "🔥",
+    "verseCount": 18,
+    "composer": "Dirghatamas Auchathya",
+    "theme": "Praise and invocation of Agni",
+    "description": "Hymn 164 of Mandala 1, dedicated to Agni",
+    "keywords": [
+      "agni",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Dirghatamas Auchathya"
+  },
+  {
+    "number": 165,
+    "title": "इन्द्र 165",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 165 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 166,
+    "title": "इन्द्र 166",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 166 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 167,
+    "title": "इन्द्र 167",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 167 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 168,
+    "title": "इन्द्र 168",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 168 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 169,
+    "title": "इन्द्र 169",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 169 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 170,
+    "title": "इन्द्र 170",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 170 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 171,
+    "title": "इन्द्र 171",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 15,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 171 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 172,
+    "title": "इन्द्र 172",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 4,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 172 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 173,
+    "title": "इन्द्र 173",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 173 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 174,
+    "title": "इन्द्र 174",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 174 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 175,
+    "title": "इन्द्र 175",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 6,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 175 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 176,
+    "title": "इन्द्र 176",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 176 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 177,
+    "title": "इन्द्र 177",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 177 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 178,
+    "title": "इन्द्र 178",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 178 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 179,
+    "title": "इन्द्र 179",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 5,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 179 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 180,
+    "title": "इन्द्र 180",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 4,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 180 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 181,
+    "title": "इन्द्र 181",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 13,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 181 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 182,
+    "title": "इन्द्र 182",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 10,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 182 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 183,
+    "title": "इन्द्र 183",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 183 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 184,
+    "title": "इन्द्र 184",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 184 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 185,
+    "title": "इन्द्र 185",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 185 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 186,
+    "title": "इन्द्र 186",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 186 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 187,
+    "title": "इन्द्र 187",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 9,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 187 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 188,
+    "title": "इन्द्र 188",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 18,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 188 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 189,
+    "title": "इन्द्र 189",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 22,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 189 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 190,
+    "title": "इन्द्र 190",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 20,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 190 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  },
+  {
+    "number": 191,
+    "title": "इन्द्र 191",
+    "titleEnglish": "Hymn to Indra",
+    "deity": "Indra",
+    "deityIcon": "⚡",
+    "verseCount": 11,
+    "composer": "Agastya Maitravaruni",
+    "theme": "Praise and invocation of Indra",
+    "description": "Hymn 191 of Mandala 1, dedicated to Indra",
+    "keywords": [
+      "indra",
+      "vedic",
+      "sacred"
+    ],
+    "hasStory": false,
+    "culturalSignificance": "Traditional hymn in Mandala 1 composed by Agastya Maitravaruni"
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "mandala": 1,
+  "hymn": 1,
+  "totalVerses": 9,
+  "deity": "Agni",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "अग्निमीळे पुरोहितं यज्ञस्य देवमृत्विजम् । होतारं रत्नधातमम् ॥",
+      "transliteration": "agním īḷe puróhitaṃ yajñásya devám ṛtvíjam | hótāraṃ ratnadhā́tamam ||",
+      "translation": "I praise Agni, the chosen Priest, God, minister of sacrifice, The invoker, lavishest of wealth.",
+      "wordMeanings": {
+        "अग्निम्": "Agni (fire god, accusative)",
+        "ईळे": "I praise, I invoke",
+        "पुरोहितम्": "placed in front, priest, family priest",
+        "यज्ञस्य": "of the sacrifice",
+        "देवम्": "divine, god",
+        "ऋत्विजम्": "priest, officiant",
+        "होतारम्": "the invoker, one who offers oblations",
+        "रत्नधातमम्": "bestower of treasures, most generous"
+      },
+      "explanation": "The opening verse of the entire Rig Veda. The sage invokes Agni as the divine priest who acts as intermediary between humans and gods, and who bestows treasures upon his devotees."
+    },
+    {
+      "number": 2,
+      "sanskrit": "अग्निः पूर्वेभिरृषिभिरीड्यो नूतनैरुत । स देवाँ एह वक्षति ॥",
+      "transliteration": "agníḥ pū́rvebhir ṛ́ṣibhir īḍyó nū́tanair utá | sá devā́m̐ ihá vakṣati ||",
+      "translation": "Agni, worthy to be praised by former and by present seers, May he bring the Gods hither.",
+      "wordMeanings": {
+        "अग्निः": "Agni",
+        "पूर्वेभिः": "by the ancient ones, by former",
+        "ऋषिभिः": "by sages, by seers",
+        "ईड्यः": "worthy of praise, to be invoked",
+        "नूतनैः": "by new ones, by present",
+        "उत": "also, and",
+        "सः": "he",
+        "देवान्": "the gods (accusative plural)",
+        "इह": "here",
+        "वक्षति": "shall bring, will convey"
+      },
+      "explanation": "Agni has been praised by sages across all ages - ancient and modern. He serves as the divine messenger who brings the gods to the sacrificial ceremony."
+    },
+    {
+      "number": 3,
+      "sanskrit": "अग्निना रयिमश्नवत्पोषमेव दिवेदिवे । यशसं वीरवत्तमम् ॥",
+      "transliteration": "agnínā rayím aśnavat póṣam evá divedíve | yaśásaṃ vī́ravattamam ||",
+      "translation": "Through Agni one may win wealth and prosperity day by day, Glorious and rich in valiant sons.",
+      "wordMeanings": {
+        "अग्निना": "through Agni, by means of Agni",
+        "रयिम्": "wealth, riches",
+        "अश्नवत्": "may obtain, may win",
+        "पोषम्": "prosperity, nourishment",
+        "एव": "indeed, truly",
+        "दिवेदिवे": "day by day, daily",
+        "यशसम्": "glorious, famous",
+        "वीरवत्तमम्": "most abounding in heroes, rich in valiant sons"
+      },
+      "explanation": "The benefits of worshipping Agni are described - material wealth, daily prosperity, glory, and strong progeny. This reflects the concerns of ancient Vedic society."
+    },
+    {
+      "number": 4,
+      "sanskrit": "अग्ने यं यज्ञमध्वरं विश्वतः परिभूरसि । स इद्देवेषु गच्छति ॥",
+      "transliteration": "ágne yáṃ yajñám adhvaráṃ viśvátaḥ paribhū́r asi | sá íd devéṣu gacchati ||",
+      "translation": "Agni, the sacrifice and ritual which you encompass on every side, That indeed goes to the gods.",
+      "wordMeanings": {
+        "अग्ने": "O Agni (vocative)",
+        "यम्": "which",
+        "यज्ञम्": "sacrifice, worship",
+        "अध्वरम्": "ritual, non-violent ceremony",
+        "विश्वतः": "from all sides, completely",
+        "परिभूः": "you surround, you encompass",
+        "असि": "you are",
+        "सः": "that",
+        "इत्": "indeed, truly",
+        "देवेषु": "to the gods",
+        "गच्छति": "goes, reaches"
+      },
+      "explanation": "Any sacrifice that is properly conducted with Agni at its center will surely reach the gods. Agni ensures the offerings are received by the divine realm."
+    },
+    {
+      "number": 5,
+      "sanskrit": "अग्निर्होता कविक्रतुः सत्यश्चित्रश्रवस्तमः । देवो देवेभिरागमत् ॥",
+      "transliteration": "agnír hótā kavíkratuḥ satyáś citraśrávastama | devó devébhir ā́ gamat ||",
+      "translation": "Agni, the invoker, sage with poet's wisdom, True, most rich in brilliant light, Let the god come with gods.",
+      "wordMeanings": {
+        "अग्निः": "Agni",
+        "होता": "the invoker, the priest who offers oblations",
+        "कविक्रतुः": "whose works are those of a sage, wise in action",
+        "सत्यः": "true, truthful",
+        "चित्रश्रवस्तमः": "most brilliant in fame, having wonderful glory",
+        "देवः": "god, divine",
+        "देवेभिः": "with the gods",
+        "आगमत्": "may come, let him come"
+      },
+      "explanation": "Agni is praised for his wisdom, truthfulness, and brilliant glory. He is invited to come along with all the other gods to partake in the offerings."
+    },
+    {
+      "number": 6,
+      "sanskrit": "यदङ्ग दाशुषे त्वमग्ने भद्रं करिष्यसि । तवेत्तत्सत्यमङ्गिरः ॥",
+      "transliteration": "yád aṅga dāśúṣe tvám agne bhadrám kariṣyási | távet tat satyám aṅgira ||",
+      "translation": "Whatever blessing you will grant to the worshipper, O Agni, That, Angiras, comes true.",
+      "wordMeanings": {
+        "यत्": "whatever, which",
+        "अङ्ग": "indeed, truly",
+        "दाशुषे": "to the giver, to the worshipper",
+        "त्वम्": "you",
+        "अग्ने": "O Agni",
+        "भद्रम्": "good, blessing, welfare",
+        "करिष्यसि": "you will do, you will grant",
+        "तव": "your",
+        "इत्": "indeed",
+        "तत्": "that",
+        "सत्यम्": "true, truth",
+        "अङ्गिरः": "O Angiras (descendant of Angiras, epithet of Agni)"
+      },
+      "explanation": "Agni's promises never fail. Whatever blessings he grants to sincere worshippers will certainly come to pass. His nature is truth itself."
+    },
+    {
+      "number": 7,
+      "sanskrit": "उप त्वाग्ने दिवेदिवे दोषावस्तर्धिया वयम् । नमो भरन्त एमसि ॥",
+      "transliteration": "úpa tvā agne divedíve dóṣā́vastar dhiyā́ vayam | námo bhárant emasi ||",
+      "translation": "To you, Agni, day by day, at nightfall and at dawn, With thought we come bearing homage.",
+      "wordMeanings": {
+        "उप": "near, unto",
+        "त्वा": "you (accusative)",
+        "अग्ने": "O Agni",
+        "दिवेदिवे": "day by day, daily",
+        "दोषावस्तः": "at evening and dawn, at dusk and daybreak",
+        "धिया": "with thought, with devotion",
+        "वयम्": "we",
+        "नमः": "homage, reverence",
+        "भरन्तः": "bearing, bringing",
+        "एमसि": "we approach, we come"
+      },
+      "explanation": "The devotees approach Agni consistently - morning and evening, every single day - with reverence and devotional thoughts. This emphasizes the importance of regular spiritual practice."
+    },
+    {
+      "number": 8,
+      "sanskrit": "राजन्तमध्वराणां गोपामृतस्य दीदिविम् । वर्धमानं स्वे दमे ॥",
+      "transliteration": "rā́jantam adhvarā́ṇāṃ gopā́m ṛtásya dīdivim | vardhamā́naṃ své dame ||",
+      "translation": "You who are ruler of rituals, Guardian of the law, shining bright, Growing in your own home.",
+      "wordMeanings": {
+        "राजन्तम्": "ruling, sovereign",
+        "अध्वराणाम्": "of the rituals, of the sacrifices",
+        "गोपाम्": "guardian, protector",
+        "ऋतस्य": "of truth, of cosmic order",
+        "दीदिविम्": "shining, brilliant",
+        "वर्धमानम्": "growing, increasing",
+        "स्वे": "in own",
+        "दमे": "in the house, in the home"
+      },
+      "explanation": "Agni is described as the sovereign of all sacred rituals and the guardian of Rita (cosmic order/truth). He shines brilliantly and grows in strength within the home hearth."
+    },
+    {
+      "number": 9,
+      "sanskrit": "स नः पितेव सूनवेऽग्ने सूपायनो भव । सचस्वा नः स्वस्तये ॥",
+      "transliteration": "sá naḥ pitéva sūnáve 'gne sūpāyano bhava | sácasvā naḥ svastáye ||",
+      "translation": "Be to us like a father to his son, O Agni, be easily accessible. Accompany us for our well-being.",
+      "wordMeanings": {
+        "सः": "he, that",
+        "नः": "to us, for us",
+        "पिता": "father",
+        "इव": "like, as",
+        "सूनवे": "to the son",
+        "अग्ने": "O Agni",
+        "सुपायनः": "easy to approach, accessible",
+        "भव": "be, become",
+        "सचस्व": "accompany, stay with",
+        "नः": "us",
+        "स्वस्तये": "for well-being, for welfare"
+      },
+      "explanation": "The concluding verse beautifully expresses the intimate relationship between devotee and deity. Agni is asked to be like a loving, accessible father who stays with his children for their welfare and protection."
+    }
+  ],
+  "overallTheme": "This first hymn of the Rig Veda establishes Agni as the central deity of Vedic ritual. It describes his role as intermediary between humans and gods, his truthful nature, his ability to bestow blessings, and the intimate relationship devotees should cultivate with him.",
+  "culturalContext": "Agni (fire) was the most accessible of all Vedic deities - present in every home's hearth. This hymn has been chanted for over 3000 years at the beginning of Vedic ceremonies and is considered the foundation of all Vedic knowledge.",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "VedaWeb Project (University of Cologne) - Open Access",
+    "Sanskrit text from Rigveda Samhita"
+  ]
+}
+

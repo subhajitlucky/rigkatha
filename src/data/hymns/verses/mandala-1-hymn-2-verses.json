@@ -1,0 +1,185 @@
+{
+  "mandala": 1,
+  "hymn": 2,
+  "totalVerses": 9,
+  "deity": "Vayu (Indra-Vayu)",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "वायवा याहि दर्शतेमे सोमा अरंकृताः । तेषां पाहि श्रुधी हवम् ॥",
+      "transliteration": "vāyav ā yāhi darśateme somā araṅkṛtāḥ | teṣāṃ pāhi śrudhī havam ||",
+      "translation": "Come, Vayu, fair of aspect! These pressed juices are ready for you. Drink of them, hear our call!",
+      "wordMeanings": {
+        "वायव": "O Vayu (wind god, vocative)",
+        "आ": "come, hither",
+        "याहि": "come (imperative)",
+        "दर्शते": "fair to see, beautiful of aspect",
+        "इमे": "these",
+        "सोमाः": "soma juices, sacred offerings",
+        "अरंकृताः": "prepared, adorned, made ready",
+        "तेषाम्": "of these, from these",
+        "पाहि": "drink (imperative)",
+        "श्रुधि": "hear, listen (imperative)",
+        "हवम्": "call, invocation"
+      },
+      "explanation": "The worshipper invites Vayu, the wind deity, to come and partake of the prepared soma offerings. Vayu is praised for his beautiful appearance and asked to hear the prayers of the devotees."
+    },
+    {
+      "number": 2,
+      "sanskrit": "वायो त्वमस्मान् विश्वाहा प्र जानीहि प्रियमीड्यः । सोमपीतिमहि भजा ॥",
+      "transliteration": "vāyo tvam asmān viśvāhā pra jānīhi priyam īḍyaḥ | somapītim ahi bhajā ||",
+      "translation": "O Vayu, recognize us always! You are beloved and worthy of praise. Come and share in the soma drinking.",
+      "wordMeanings": {
+        "वायो": "O Vayu",
+        "त्वम्": "you",
+        "अस्मान्": "us (accusative)",
+        "विश्वाहा": "always, on all days",
+        "प्र": "forth, forward",
+        "जानीहि": "know, recognize (imperative)",
+        "प्रियम्": "beloved, dear",
+        "ईड्यः": "worthy of praise, to be invoked",
+        "सोमपीतिम्": "soma drinking, soma feast",
+        "अहि": "come (imperative)",
+        "भजा": "share, partake (imperative)"
+      },
+      "explanation": "The hymn emphasizes the relationship between worshipper and deity. Vayu is asked to always recognize his devotees and join them in the sacred soma ritual, highlighting the reciprocal nature of Vedic worship."
+    },
+    {
+      "number": 3,
+      "sanskrit": "इन्द्रवायू इमे सुता उप प्रयोभिरा गतम् । इन्दवो वामुशन्ति हि ॥",
+      "transliteration": "indravāyū ime sutā upa prayobhir ā gatam | indavo vām uśanti hi ||",
+      "translation": "O Indra and Vayu, these soma juices are pressed. Come with your chariot! The drops desire you.",
+      "wordMeanings": {
+        "इन्द्रवायू": "Indra and Vayu (dual vocative)",
+        "इमे": "these",
+        "सुताः": "pressed, extracted (soma)",
+        "उप": "near, towards",
+        "प्रयोभिः": "with chariots, with vehicles",
+        "आ": "hither",
+        "गतम्": "come (dual imperative)",
+        "इन्दवः": "soma drops",
+        "वाम्": "you two (accusative dual)",
+        "उशन्ति": "desire, wish for",
+        "हि": "indeed, truly"
+      },
+      "explanation": "This verse shifts to addressing both Indra and Vayu together, a common Vedic practice of joint invocation. The soma itself is personified as desiring the gods' presence, emphasizing the mutual relationship between offering and divine recipient."
+    },
+    {
+      "number": 4,
+      "sanskrit": "वायविन्द्रश्च चेतथः सुतानामीशाथे अव्ययौ । तावा यातमुप द्रवत् ॥",
+      "transliteration": "vāyav indraś ca cetatha sutānām īśāthe avyayau | tāv ā yātam upa dravat ||",
+      "translation": "O Vayu and Indra, you perceive and rule over the pressed soma. You two imperishable ones, come hither swiftly!",
+      "wordMeanings": {
+        "वायव": "O Vayu",
+        "इन्द्रः": "Indra",
+        "च": "and",
+        "चेतथः": "you two perceive, you two know",
+        "सुतानाम्": "of the pressed (soma)",
+        "ईशाथे": "you two rule, you two are lords",
+        "अव्ययौ": "imperishable, indestructible (dual)",
+        "तौ": "you two",
+        "आ": "hither",
+        "यातम्": "come (dual imperative)",
+        "उप": "towards",
+        "द्रवत्": "running, swiftly"
+      },
+      "explanation": "The verse praises both deities as omniscient rulers of the sacrificial offerings and calls them imperishable, emphasizing their eternal divine nature. The urgency of the invitation is heightened with 'swiftly.'"
+    },
+    {
+      "number": 5,
+      "sanskrit": "मित्रावरुणावृतावृधावृतस्पृशा । क्रतुं बृहन्तमाशाथे ॥",
+      "transliteration": "mitrāvaruṇāv ṛtāv ṛdhāv ṛtaspṛśā | kratuṃ bṛhantam āśāthe ||",
+      "translation": "O Mitra and Varuna, truthful ones, increasers of truth, touching cosmic law! You two attain great sacred power.",
+      "wordMeanings": {
+        "मित्रावरुणौ": "Mitra and Varuna (dual vocative)",
+        "ऋतौ": "truthful ones, upholders of cosmic order",
+        "ऋधौ": "increasers, promoters",
+        "ऋतस्पृशा": "touching Rita (cosmic law)",
+        "क्रतुम्": "sacred power, will, intention",
+        "बृहन्तम्": "great, vast",
+        "आशाथे": "you two attain, you two reach"
+      },
+      "explanation": "The hymn now addresses Mitra (friendship/contract) and Varuna (cosmic order), emphasizing their role as guardians of Rita (cosmic law and truth). These deities represent the moral and cosmic order that underlies Vedic society."
+    },
+    {
+      "number": 6,
+      "sanskrit": "मित्रावरुणा वयं वृध आशीमहे गिरा । आ नो यज्ञं शिक्षतम् ॥",
+      "transliteration": "mitrāvaruṇā vayaṃ vṛdha āśīmahe girā | ā no yajñaṃ śikṣatam ||",
+      "translation": "O Mitra and Varuna, through our song we pray for prosperity. Teach us the ritual, guide our worship!",
+      "wordMeanings": {
+        "मित्रावरुणा": "O Mitra and Varuna",
+        "वयम्": "we",
+        "वृधः": "prosperity, increase",
+        "आशीमहे": "we pray for, we desire",
+        "गिरा": "by song, through praise",
+        "आ": "fully, completely",
+        "नः": "our, us",
+        "यज्ञम्": "ritual, sacrifice",
+        "शिक्षतम्": "teach, instruct (dual imperative)"
+      },
+      "explanation": "The worshippers request not just material prosperity but also proper knowledge of ritual. This reflects the Vedic belief that correct performance of rituals requires divine guidance and teaching."
+    },
+    {
+      "number": 7,
+      "sanskrit": "वयं राजानो अध्वरे स्वाध्यो अदिते गिर्वणः । विश्वे देवा यजामहे ॥",
+      "transliteration": "vayaṃ rājāno adhvare svādhyo adite girvaṇaḥ | viśve devā yajāmahe ||",
+      "translation": "We worship the royal ones in the ritual - independent ones, O Aditi, praised by many. We honor all the gods!",
+      "wordMeanings": {
+        "वयम्": "we",
+        "राजानः": "kings, royal ones",
+        "अध्वरे": "in the ritual, in the sacrifice",
+        "स्वाध्यः": "independent, self-ruling",
+        "अदिते": "O Aditi (goddess, boundlessness)",
+        "गिर्वणः": "praised by songs, hymned",
+        "विश्वे": "all",
+        "देवाः": "gods",
+        "यजामहे": "we worship, we sacrifice to"
+      },
+      "explanation": "This verse expands the invocation to all gods collectively (Vishvedevas), with special mention of Aditi, the mother of gods. This reflects the Vedic understanding that while specific deities are invoked, all divine powers are ultimately interconnected."
+    },
+    {
+      "number": 8,
+      "sanskrit": "आद् राजानः सुक्रतव आप्तुराः सुजाताः सुदंससः । स्वधावन्तः स्वर्विदः ॥",
+      "transliteration": "ād rājānaḥ sukratava āpturāḥ sujātāḥ sudaṃsasaḥ | svadhāvantaḥ svarvida ḥ ||",
+      "translation": "These royal ones of good deeds, mighty, well-born, wondrous in works, possessing sacred food, knowers of heaven!",
+      "wordMeanings": {
+        "आत्": "truly, indeed",
+        "राजानः": "kings, royal ones (gods)",
+        "सुक्रतवः": "of good deeds, wise in action",
+        "आप्तुराः": "mighty, powerful",
+        "सुजाताः": "well-born, of good birth",
+        "सुदंससः": "wonderful in works, amazing in deeds",
+        "स्वधावन्तः": "possessing sacred food/offering",
+        "स्वर्विदः": "knowers of heaven, heaven-finding"
+      },
+      "explanation": "This verse heaps praise upon the deities, using multiple epithets to describe their divine qualities - their power, nobility, wisdom, and connection to the celestial realm. It emphasizes that the gods are worthy recipients of worship."
+    },
+    {
+      "number": 9,
+      "sanskrit": "सुयज्ञासो यजत्रा देवासो देवयज्यया । बर्हिः सीदन्तु शं हृदे ॥",
+      "transliteration": "suyajñāso yajat rā devāso devayajyayā | barhiḥ sīdantu śaṃ hṛde ||",
+      "translation": "The gods, good sacrificers, worthy of worship, with divine sacrifice - may they sit on the sacred grass, bringing peace to the heart!",
+      "wordMeanings": {
+        "सुयज्ञासः": "good sacrificers, excellent in worship",
+        "यजत्राः": "worthy of worship, venerable",
+        "देवासः": "the gods",
+        "देवयज्यया": "with divine sacrifice, through god-worship",
+        "बर्हिः": "on the sacred grass (ritual seat)",
+        "सीदन्तु": "may they sit (imperative plural)",
+        "शम्": "peace, welfare, blessing",
+        "हृदे": "to the heart, for the heart"
+      },
+      "explanation": "The concluding verse invites the gods to take their seat on the sacred grass spread for them in the ritual space. The phrase 'peace to the heart' beautifully captures the ultimate goal of Vedic worship - inner peace and divine blessing that brings contentment to the worshipper's heart."
+    }
+  ],
+  "overallTheme": "This hymn begins with invocation of Vayu (wind) and expands to include Indra, Mitra-Varuna, and ultimately all gods (Vishvedevas). It demonstrates the Vedic practice of progressive invocation and the interconnected nature of divine powers. The hymn emphasizes the reciprocal relationship between worshippers and deities, with soma offerings and praise given in exchange for blessings, prosperity, and divine guidance.",
+  "culturalContext": "Hymn 1.2 showcases the fluid boundaries between Vedic deities. While starting with Vayu (wind/breath), it seamlessly incorporates Indra (power), Mitra-Varuna (cosmic order), and all gods. This reflects the Vedic understanding that divine powers, while having distinct personalities, are ultimately aspects of one cosmic reality. Vayu, as the life-breath (prana), connects the physical and spiritual realms. The hymn's structure - moving from specific to universal - mirrors the Vedic journey from individual worship to cosmic vision.",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "VedaWeb Project (University of Cologne) - Open Access",
+    "Sanskrit text from Rigveda Samhita"
+  ]
+}
+

@@ -3,13 +3,14 @@
   "deity": "agni",
   "title": "The Wise Fish and Sacred Fire",
   "subtitle": "A young sage learns that true devotion comes from the heart, not the size of the offering",
+  "thumbnail": "/stories/agni/wise-fish/panel-1.jpg",
   "theme": ["wisdom", "devotion", "humility", "gratitude"],
   "ageGroup": "8-12 years",
   "readingTime": 3,
   "panels": [
     {
       "panelNumber": 1,
-      "imageUrl": "/agni-wise-fish-panel-1.jpg",
+      "imageUrl": "/stories/agni/wise-fish/panel-1.jpg",
       "imageAlt": "A young sage sitting by a peaceful river at sunset, preparing offerings for the sacred fire",
       "dialogues": [
         {
@@ -23,7 +24,7 @@
     },
     {
       "panelNumber": 2,
-      "imageUrl": "/agni-wise-fish-panel-2.jpg.jpeg",
+      "imageUrl": "/stories/agni/wise-fish/panel-2.jpg",
       "imageAlt": "A magnificent golden fish rises from the water, startling the young sage",
       "dialogues": [
         {
@@ -42,7 +43,7 @@
     },
     {
       "panelNumber": 3,
-      "imageUrl": "/agni-wise-fish-panel-3.jpeg.jpeg",
+      "imageUrl": "/stories/agni/wise-fish/panel-3.jpg",
       "imageAlt": "The young sage looks sadly at his small offerings while explaining his humble situation",
       "dialogues": [
         {
@@ -61,7 +62,7 @@
     },
     {
       "panelNumber": 4,
-      "imageUrl": "/agni-wise-fish-panel-4.jpeg.jpeg",
+      "imageUrl": "/stories/agni/wise-fish/panel-4.jpg",
       "imageAlt": "The wise fish teaches the sage about true devotion, gesturing with its fins",
       "dialogues": [
         {
@@ -85,7 +86,7 @@
     },
     {
       "panelNumber": 5,
-      "imageUrl": "/agni-wise-fish-panel-5.jpeg.jpeg",
+      "imageUrl": "/stories/agni/wise-fish/panel-5.jpg",
       "imageAlt": "Sacred fire transforms the small offerings into brilliant flames of pure devotion",
       "dialogues": [
         {
@@ -104,7 +105,7 @@
     },
     {
       "panelNumber": 6,
-      "imageUrl": "/agni-wise-fish-panel-6.jpeg.jpeg",
+      "imageUrl": "/stories/agni/wise-fish/panel-6.jpg",
       "imageAlt": "The sage sits peacefully by the fire with new understanding, the golden fish watching approvingly",
       "dialogues": [
         {

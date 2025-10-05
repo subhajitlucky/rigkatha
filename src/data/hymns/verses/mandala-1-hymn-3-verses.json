@@ -1,0 +1,232 @@
+{
+  "mandala": 1,
+  "hymn": 3,
+  "totalVerses": 12,
+  "deity": "Ashvins",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "अश्विना यज्वरीरिषो द्रवत्पाणी शुभस्पती । पुरुभुजा चनस्यतम् ॥",
+      "transliteration": "aśvinā yajvarīr iṣo dravat-pāṇī śubhas-patī | purubhujā canasyatam ||",
+      "translation": "O Ashvins, lords of splendor, with swift hands, rich in treasure, come to our libation!",
+      "wordMeanings": {
+        "अश्विना": "O Ashvins (twin gods, dual vocative)",
+        "यज्वरीः": "worthy of worship, venerable",
+        "इषः": "refreshment, food, vigor",
+        "द्रवत्पाणी": "swift-handed, having quick hands",
+        "शुभस्पती": "lords of splendor, masters of beauty",
+        "पुरुभुजा": "enjoying much, rich in treasure",
+        "चनस्यतम्": "take pleasure, enjoy (dual imperative)"
+      },
+      "explanation": "The hymn opens with praise of the Ashvins' swift action and splendor. As divine physicians, their 'swift hands' refer to their quick healing abilities. They are invited to enjoy the soma offering."
+    },
+    {
+      "number": 2,
+      "sanskrit": "अश्विना पुरुदंससा नरा शवीरया धिया । धिष्ण्या वनतं गिरः ॥",
+      "transliteration": "aśvinā puru-daṃsasā narā śavīrayā dhiyā | dhiṣṇyā vanataṃ giraḥ ||",
+      "translation": "O Ashvins, with many wonders, O leaders, with mighty thought, on your chariot seat, hear our songs!",
+      "wordMeanings": {
+        "अश्विना": "O Ashvins",
+        "पुरुदंससा": "with many wonders, rich in marvels",
+        "नरा": "leaders, heroes (dual)",
+        "शवीरया": "mighty, powerful",
+        "धिया": "with thought, with wisdom",
+        "धिष्ण्या": "chariot seat, sacred place",
+        "वनतम्": "hear, win, obtain (dual imperative)",
+        "गिरः": "songs, praises, hymns"
+      },
+      "explanation": "The Ashvins are praised for their miraculous deeds and powerful wisdom. They are asked to hear the hymns while seated in their divine chariot, which brings them to help devotees at dawn."
+    },
+    {
+      "number": 3,
+      "sanskrit": "दस्रा युवाकवः सुता नासत्या वृक्तबर्हिषः । आ यातमुशिजो गृहे ॥",
+      "transliteration": "dasrā yuvā-kavaḥ sutā nāsatyā vṛkta-barhiṣaḥ | ā yātam uśijo gṛhe ||",
+      "translation": "O wonder-workers, youthful sages, O truthful ones, the soma is pressed, the grass is spread - come to the house of the eager worshipper!",
+      "wordMeanings": {
+        "दस्रा": "wonder-workers, performers of miracles",
+        "युवाकवः": "youthful sages, young wise ones",
+        "सुता": "pressed, extracted (soma)",
+        "नासत्या": "truthful ones, Nasatyas (name of Ashvins)",
+        "वृक्तबर्हिषः": "spread grass, prepared ritual seat",
+        "आ": "hither, here",
+        "यातम्": "come (dual imperative)",
+        "उशिजः": "eager, desirous, zealous",
+        "गृहे": "in the house, to the home"
+      },
+      "explanation": "The Ashvins are called by their alternate name 'Nasatyas' (truthful ones). The ritual preparations are complete - soma pressed, sacred grass spread - and they are invited to the home of the devoted worshipper."
+    },
+    {
+      "number": 4,
+      "sanskrit": "दस्रावतो अद्रयो रथो योजाना अयुज्यत । येना याथो अध्वरं ॥",
+      "transliteration": "dasrāv ato adrayo ratho yojānā ayujyata | yenā yātho adhvaraṃ ||",
+      "translation": "O wonder-workers, your stone-moving chariot has been yoked - the one by which you come to the ritual!",
+      "wordMeanings": {
+        "दस्रौ": "O wonder-workers (dual vocative)",
+        "अतः": "from here, therefore",
+        "अद्रयः": "stone-moving, breaking stones",
+        "रथः": "chariot, vehicle",
+        "योजाना": "being yoked, harnessed",
+        "अयुज्यत": "has been yoked, was prepared",
+        "येन": "by which, with which",
+        "याथः": "you two go, you two come",
+        "अध्वरम्": "to the ritual, to the sacrifice"
+      },
+      "explanation": "The Ashvins' miraculous chariot, capable of moving through obstacles (stone-moving), is ready to bring them to the sacrifice. This emphasizes their ability to overcome any barrier to help devotees."
+    },
+    {
+      "number": 5,
+      "sanskrit": "कुविद् अश्विना युवं वनमृग्मीयमाशाथे । तुजे हि स्थो रयिर्हितम् ॥",
+      "transliteration": "kuvid aśvinā yuvaṃ vanam ṛgmīyam āśāthe | tuje hi stho rayir hitam ||",
+      "translation": "O Ashvins, do you two reach the woods to be praised? For you are vigorous, and wealth is laid up for you!",
+      "wordMeanings": {
+        "कुवित्": "indeed, truly, whether",
+        "अश्विना": "O Ashvins",
+        "युवम्": "you two",
+        "वनम्": "forest, woods, place",
+        "ऋग्मीयम्": "worthy of praise, to be hymned",
+        "आशाथे": "you two reach, you two attain",
+        "तुजे": "for vigor, for impulse",
+        "हि": "indeed, for",
+        "स्थः": "you two are",
+        "रयिः": "wealth, treasure, riches",
+        "हितम्": "placed, laid up, prepared"
+      },
+      "explanation": "The worshipper asks if the Ashvins will come even to remote forest locations to receive praise. Their vigor and the wealth they bestow on devotees are emphasized, showing their generous nature."
+    },
+    {
+      "number": 6,
+      "sanskrit": "अश्विना मधुमत्तमं रथं द्रवत्पाणी युवम् । आ तिष्ठताम्यज्वरे ॥",
+      "transliteration": "aśvinā madhumat-tamaṃ rathaṃ dravat-pāṇī yuvam | ā tiṣṭhātām yajvare ||",
+      "translation": "O Ashvins with swift hands, mount your honey-sweet chariot and stand at the ritual place!",
+      "wordMeanings": {
+        "अश्विना": "O Ashvins",
+        "मधुमत्तमम्": "most honey-sweet, very sweet",
+        "रथम्": "chariot (accusative)",
+        "द्रवत्पाणी": "swift-handed, quick-handed",
+        "युवम्": "you two",
+        "आ": "hither, here",
+        "तिष्ठताम्": "stand, stay (dual imperative)",
+        "यज्वरे": "at the ritual, in the sacred place"
+      },
+      "explanation": "The Ashvins' chariot is described as 'honey-sweet,' perhaps referring to the pleasant experience of their arrival or the sweet rewards they bring. They are urged to stand at the sacrificial ground to receive offerings."
+    },
+    {
+      "number": 7,
+      "sanskrit": "यदश्विनावरं शतं शतं युवासु मन्महे । ता गच्छतं परावतः ॥",
+      "transliteration": "yad aśvinā-varaṃ śataṃ śataṃ yuvāsu manmahe | tā gacchataṃ parāvataḥ ||",
+      "translation": "When we think of you, O Ashvins, hundreds and hundreds of times, come from far away!",
+      "wordMeanings": {
+        "यत्": "when, if",
+        "अश्विनावरम्": "O Ashvins (vocative with particle)",
+        "शतम्": "hundred, many times",
+        "शतम्": "hundred (repeated for emphasis)",
+        "युवासु": "upon you two, of you two",
+        "मन्महे": "we think, we meditate",
+        "ता": "then, therefore",
+        "गच्छतम्": "come, go (dual imperative)",
+        "परावतः": "from far away, from afar"
+      },
+      "explanation": "This verse emphasizes constant devotion - thinking of the Ashvins hundreds upon hundreds of times. Despite distance, they are asked to come, highlighting their omnipresence and ability to reach devotees anywhere."
+    },
+    {
+      "number": 8,
+      "sanskrit": "यदश्विनावहमप्सु जग्रभं दक्षिणा हरी । चक्रमिदार्या सुतम् ॥",
+      "transliteration": "yad aśvinā-vaham apsu jagrabhaṃ dakṣiṇā harī | cakram id āryā sutam ||",
+      "translation": "When I have grasped you, O Ashvins, in the waters, with two bay horses on the right, I have truly prepared the soma for the noble ones!",
+      "wordMeanings": {
+        "यत्": "when",
+        "अश्विनावहम्": "O Ashvins (vocative)",
+        "अप्सु": "in the waters, in the ritual water",
+        "जग्रभम्": "I have grasped, I have taken hold",
+        "दक्षिणा": "on the right, southern",
+        "हरी": "two bay horses (dual)",
+        "चक्रम्": "I have made, I have done",
+        "इत्": "indeed, truly",
+        "आर्या": "noble ones, worthy ones",
+        "सुतम्": "pressed soma, extracted juice"
+      },
+      "explanation": "The ritual preparation is described: the worshipper has invoked the Ashvins in the sacred waters, their chariot with bay horses is ready on the ritual's right side, and soma has been prepared for these noble deities."
+    },
+    {
+      "number": 9,
+      "sanskrit": "पुरा हि सुम्नमश्विनोः शतं मेषासो अश्विनः । उप द्रवत्पाण्यर्कसः ॥",
+      "transliteration": "purā hi sumnam aśvinoḥ śataṃ meṣāso aśvinaḥ | upa dravat-pāṇy arkasaḥ ||",
+      "translation": "For anciently, a hundred sheep and swift-handed hymns approached the Ashvins' favor!",
+      "wordMeanings": {
+        "पुरा": "anciently, formerly, before",
+        "हि": "for, indeed",
+        "सुम्नम्": "favor, grace, kindness",
+        "अश्विनोः": "of the Ashvins (genitive dual)",
+        "शतम्": "hundred",
+        "मेषासः": "sheep, rams",
+        "अश्विनः": "of the Ashvins",
+        "उप": "towards, unto",
+        "द्रवत्पाणि": "swift-handed, quick-working",
+        "अर्कसः": "hymns, songs of praise"
+      },
+      "explanation": "This verse recalls ancient worship practices - offering hundreds of sheep and composing swift hymns to gain the Ashvins' favor. It connects present worship to timeless tradition."
+    },
+    {
+      "number": 10,
+      "sanskrit": "युवाकवा दस्रावतो मदिन्तमः शुचिव्रतः । मोदेते देव नासत्यावधृग्योरधृष्टयोः ॥",
+      "transliteration": "yuvā-kavā dasrāv ato madintamaḥ śuci-vrataḥ | modete deva nāsatyāv adhṛgyor adhṛṣṭayoḥ ||",
+      "translation": "O youthful sages, wonder-workers, most exhilarating, pure in vows, O divine Nasatyas, you two rejoice, unconquered and unconquerable!",
+      "wordMeanings": {
+        "युवाकवा": "youthful sages (dual)",
+        "दस्रौ": "wonder-workers (dual)",
+        "अतः": "therefore, hence",
+        "मदिन्तमः": "most exhilarating, very joyful",
+        "शुचिव्रतः": "pure in vows, having sacred ordinances",
+        "मोदेते": "you two rejoice, you two delight",
+        "देव": "O divine ones",
+        "नासत्या": "Nasatyas (name of Ashvins)",
+        "अधृग्योः": "unconquered (dual genitive)",
+        "अधृष्टयोः": "unconquerable (dual genitive)"
+      },
+      "explanation": "The Ashvins are praised with multiple epithets emphasizing their youth, wisdom, miraculous powers, purity, and invincibility. Their joyful nature and divine status are celebrated."
+    },
+    {
+      "number": 11,
+      "sanskrit": "कुविद् इन्द्रा वरूथ्ये युवाकवा वृणीमहे । सोमं पिबन्तमधवनेः ॥",
+      "transliteration": "kuvid indrā varūthye yuvā-kavā vṛṇīmahe | somaṃ pibantam adhavaneḥ ||",
+      "translation": "Indeed, we choose Indra for protection, the youthful sage who drinks soma at the rite!",
+      "wordMeanings": {
+        "कुवित्": "indeed, truly",
+        "इन्द्रा": "Indra (accusative)",
+        "वरूथ्ये": "for protection, for defense",
+        "युवाकवा": "youthful sage",
+        "वृणीमहे": "we choose, we select",
+        "सोमम्": "soma (accusative)",
+        "पिबन्तम्": "drinking, who drinks",
+        "अधवनेः": "at the rite, in the ceremony"
+      },
+      "explanation": "The hymn transitions to Indra, showing the fluid boundaries of Vedic invocation. Like the Ashvins, Indra is called a 'youthful sage' and is chosen as protector, linking different deities in the ritual context."
+    },
+    {
+      "number": 12,
+      "sanskrit": "इन्द्रं विश्वा अवीवृधन्समुद्रव्यचसं गिरः । रथीतमं रथीनाम् ॥",
+      "transliteration": "indraṃ viśvā avīvṛdhan samudra-vyacasaṃ giraḥ | rathī-tamaṃ rathīnām ||",
+      "translation": "All the hymns have magnified Indra, whose expansion is like the ocean, the best chariot-fighter of all chariot-warriors!",
+      "wordMeanings": {
+        "इन्द्रम्": "Indra (accusative)",
+        "विश्वा": "all",
+        "अवीवृधन्": "have magnified, have strengthened",
+        "समुद्रव्यचसम्": "ocean-expansive, vast as the sea",
+        "गिरः": "hymns, songs, praises",
+        "रथीतमम्": "best chariot-fighter, greatest warrior",
+        "रथीनाम्": "of chariot-warriors, among fighters"
+      },
+      "explanation": "The concluding verse shifts fully to Indra, praising his ocean-like vastness and supreme warrior abilities. This ending connects the Ashvins' healing powers with Indra's protective strength, showing the complementary nature of Vedic deities."
+    }
+  ],
+  "overallTheme": "This hymn primarily invokes the Ashvins, the divine twin physicians who arrive at dawn to heal and help devotees. They are praised for their swift action, miraculous powers, youth, and purity. The hymn emphasizes their chariot (symbolizing their swift arrival), their honey-sweet nature (pleasant and beneficial), and their accessibility - coming from far away when called. The final verses transition to Indra, demonstrating the Vedic practice of invoking multiple deities in one ritual context, linking healing (Ashvins) with protection (Indra).",
+  "culturalContext": "The Ashvins (also called Nasatyas) are unique in Vedic mythology as twin deities, often compared to the Greek Dioscuri or Roman Gemini. They represent the pre-dawn light and are associated with horses, travel, and medicine. Their 'swift hands' reference their legendary healing abilities - numerous Vedic stories tell of them curing blindness, restoring youth, and rescuing people from danger. As divine physicians, they bridge the physical and spiritual realms, bringing both bodily healing and spiritual enlightenment. The transition to Indra at the hymn's end reflects the dawn moment when the Ashvins' time (pre-dawn) gives way to Indra's domain (full daylight and active power).",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "VedaWeb Project (University of Cologne) - Open Access",
+    "Sanskrit text from Rigveda Samhita"
+  ]
+}
+
