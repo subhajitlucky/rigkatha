@@ -3,13 +3,13 @@ import { useState, useMemo } from 'react'
 import mandalasData from '../../data/mandalas.json'
 import HymnCard from '../../components/ui/HymnCard'
 
-// Import hymn data (we'll create this)
-import mandala1Hymns from '../../data/hymns/mandala-1-hymns.json'
+// Import hymn data
+import mandala1Hymns from '../../data/mandalas/mandala-1/hymns.json'
 
-// Map of all mandala hymns (we'll expand this)
+// Map of all mandala hymns
 const mandalaHymnsMap: Record<number, any[]> = {
   1: mandala1Hymns,
-  // 2-10 will be added later
+  // 2-10: Add as src/data/mandalas/mandala-{n}/hymns.json
 }
 
 const MandalaDetail = () => {

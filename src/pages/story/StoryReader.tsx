@@ -25,34 +25,34 @@ export default function StoryReader() {
         
         switch (storyId) {
           case 'agni-wise-fish':
-            storyData = await import('../../data/stories/agni/wise-fish.json');
+            storyData = await import('../../data/stories/agni/wise-fish/story.json');
             break;
           case 'indra-battle-vritra':
-            storyData = await import('../../data/stories/indra/battle-vritra.json');
+            storyData = await import('../../data/stories/indra/battle-vritra/story.json');
             break;
           case 'varuna-patient-crocodile':
-            storyData = await import('../../data/stories/varuna/patient-crocodile.json');
+            storyData = await import('../../data/stories/varuna/patient-crocodile/story.json');
             break;
           case 'soma-golden-stream':
-            storyData = await import('../../data/stories/soma/golden-stream.json');
+            storyData = await import('../../data/stories/soma/golden-stream/story.json');
             break;
           case 'ushas-early-bird':
-            storyData = await import('../../data/stories/ushas/early-bird.json');
+            storyData = await import('../../data/stories/ushas/early-bird/story.json');
             break;
           case 'surya-seven-horses':
-            storyData = await import('../../data/stories/surya/seven-horses.json');
+            storyData = await import('../../data/stories/surya/seven-horses/story.json');
             break;
           case 'maruts-storm-brothers':
-            storyData = await import('../../data/stories/maruts/storm-brothers.json');
+            storyData = await import('../../data/stories/maruts/storm-brothers/story.json');
             break;
           case 'ashvins-twin-healers':
-            storyData = await import('../../data/stories/ashvins/twin-healers.json');
+            storyData = await import('../../data/stories/ashvins/twin-healers/story.json');
             break;
           case 'rudra-storm-mercy':
-            storyData = await import('../../data/stories/rudra/storm-mercy.json');
+            storyData = await import('../../data/stories/rudra/storm-mercy/story.json');
             break;
           case 'sarasvati-river-knowledge':
-            storyData = await import('../../data/stories/sarasvati/river-knowledge.json');
+            storyData = await import('../../data/stories/sarasvati/river-knowledge/story.json');
             break;
           default:
             setError('Story not found');

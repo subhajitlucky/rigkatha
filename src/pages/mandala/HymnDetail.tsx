@@ -1,17 +1,20 @@
 import { useParams, Link } from 'react-router-dom'
 import { useState, useRef, useEffect } from 'react'
-import mandala1Hymns from '../../data/hymns/mandala-1-hymns.json'
+import mandala1Hymns from '../../data/mandalas/mandala-1/hymns.json'
 import mandalasData from '../../data/mandalas.json'
 
 // Import verse data
-import mandala1Hymn1Verses from '../../data/hymns/verses/mandala-1-hymn-1-verses.json'
-import mandala1Hymn2Verses from '../../data/hymns/verses/mandala-1-hymn-2-verses.json'
-import mandala1Hymn3Verses from '../../data/hymns/verses/mandala-1-hymn-3-verses.json'
+import mandala1Hymn1Verses from '../../data/mandalas/mandala-1/hymn-1/verses.json'
+import mandala1Hymn2Verses from '../../data/mandalas/mandala-1/hymn-2/verses.json'
+import mandala1Hymn3Verses from '../../data/mandalas/mandala-1/hymn-3/verses.json'
+import mandala1Hymn4Verses from '../../data/mandalas/mandala-1/hymn-4/verses.json'
+import mandala1Hymn5Verses from '../../data/mandalas/mandala-1/hymn-5/verses.json'
+import mandala1Hymn6Verses from '../../data/mandalas/mandala-1/hymn-6/verses.json'
 
 // Map of all mandala hymns
 const mandalaHymnsMap: Record<number, any[]> = {
   1: mandala1Hymns,
-  // 2-10 will be added later
+  // 2-10: Add as src/data/mandalas/mandala-{n}/hymns.json
 }
 
 // Map of hymns with detailed verses
@@ -19,7 +22,10 @@ const hymnVersesMap: Record<string, any> = {
   '1-1': mandala1Hymn1Verses,
   '1-2': mandala1Hymn2Verses,
   '1-3': mandala1Hymn3Verses,
-  // More will be added as we implement them
+  '1-4': mandala1Hymn4Verses,
+  '1-5': mandala1Hymn5Verses,
+  '1-6': mandala1Hymn6Verses,
+  // More: Add as src/data/mandalas/mandala-{n}/hymn-{m}/verses.json
 }
 
 const HymnDetail = () => {
@@ -176,10 +182,11 @@ const HymnDetail = () => {
                   <span>Authentic Vedic Chanting</span>
                 </h3>
                 <p className="text-sm text-amber-700">
-                  Audio plays complete Sukta {hymnNum} (all verses from this hymn)
+                  Audio plays complete Sukta {hymnNum} (all {hymn.verseCount} verses from this hymn in traditional order)
                 </p>
                 <p className="text-xs text-amber-600 mt-1">
-                  Source: AASI Archive • Chanted by trained Vedic pandits
+                  Source: AASI Archive • Chanted by trained Vedic pandits • Plays entire hymn sequentially
+                  {audioError && <span className="block text-red-600 font-semibold">• Audio currently unavailable for this hymn</span>}
                 </p>
               </div>
               

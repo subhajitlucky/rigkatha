@@ -1,0 +1,162 @@
+{
+  "mandala": 1,
+  "hymn": 5,
+  "totalVerses": 10,
+  "deity": "Indra",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "आ तवेता नि षीदतेन्द्रमभि पर गायत | सखाय सतोमवाहसः ||",
+      "transliteration": "ā tvetā ni ṣīdatendramabhi pra ghāyata | sakhāya stomavāhasaḥ ||",
+      "translation": "O COME ye hither, sit ye down: to Indra sing ye forth, your song, companions, bringing hymns of praise.",
+      "wordMeanings": {
+        "आ": "O (vocative)",
+        "तवेताः": "come hither (plural)",
+        "निषीदत": "sit down",
+        "इन्द्रम्": "Indra (acc.)",
+        "सखाय": "companions, friends",
+        "स्तोमवाहसः": "those who bring hymns"
+      },
+      "explanation": "An opening call inviting singers and companions to assemble and offer hymns to Indra during the soma ritual."
+    },
+    {
+      "number": 2,
+      "sanskrit": "पुरूतमं पुरूणामीशानं वार्याणाम | इन्द्रं सोमे सचा सुते ||",
+      "transliteration": "purūtamaṃ purūṇāmīśānaṃ vāryāṇām | indraṃ some sacā sute ||",
+      "translation": "To him the richest of the rich, the Lord of treasures excellent, Indra, with Soma juice outpoured.",
+      "wordMeanings": {
+        "पुरूतमं": "most abundant, richest",
+        "पुरूणाम्": "of the wealthy",
+        "ईशानं": "lord, ruler",
+        "वार्याणाम्": "of choice possessions",
+        "सोमे": "of Soma",
+        "सचा": "when poured forth"
+      },
+      "explanation": "Praises Indra as the foremost lord of wealth; associates his praise with the pouring of Soma in sacrifice."
+    },
+    {
+      "number": 3,
+      "sanskrit": "स घा नो योग आ भुवत स राये स पुरन्ध्याम | गमद वाजेभिरा स नः ||",
+      "transliteration": "sa ghā no yogha ā bhuvat sa rāye sa purandhyām | ghamad vājebhirā sa naḥ ||",
+      "translation": "May he stand by us in our need and in abundance for our wealth: May he come nigh us with his strength.",
+      "wordMeanings": {
+        "स": "he",
+        "घान": "mighty, vast",
+        "योगे": "in assembly",
+        "राये": "for riches",
+        "पुरन्ध्याम्": "breaker of forts",
+        "वाजेभिः": "with horses"
+      },
+      "explanation": "A petition for Indra to be present among worshippers as protector and bestower of wealth, coming with his powerful steeds."
+    },
+    {
+      "number": 4,
+      "sanskrit": "यस्य संस्थे न वर्ण्वते हरी समत्सु शत्रवः | तस्मा इन्द्राय गायत ||",
+      "transliteration": "yasya saṃsthe na vṛṇvate harī samatsu śatravaḥ | tasmā indrāya ghāyata ||",
+      "translation": "Whose pair of tawny horses yoked in battles foemen challenge not: To him, to Indra sing your song.",
+      "wordMeanings": {
+        "यस्य": "whose",
+        "संस्थे": "when yoked (of horses)",
+        "न वर्ण्यते": "are not withstood",
+        "शत्रवः": "foes, enemies",
+        "इन्द्राय": "to Indra"
+      },
+      "explanation": "Praises Indra's irresistible chariot and horses, urging the assembly to direct their songs to him."
+    },
+    {
+      "number": 5,
+      "sanskrit": "सुतपाव्ने सुता इमे शुचयो यन्ति वीतये | सोमासो दध्याशिरः ||",
+      "transliteration": "sutapāvne sutā ime śucayo yanti vītaye | somāso dadhyāśiraḥ ||",
+      "translation": "Nigh to the Soma-drinker come, for his enjoyment, these pure drops, The Somas mingled with the curd.",
+      "wordMeanings": {
+        "उप": "near, towards",
+        "सावना": "libations, pressings of Soma",
+        "सोमस्य": "of Soma",
+        "सोमपा": "Soma-drinker",
+        "पिब": "drink (imperative)",
+        "रेतो": "of the juice, of the Soma",
+        "मदा": "rapture, ecstasy"
+      },
+      "explanation": "An invitation to Indra to partake in the Soma libation, asking that the heroic ecstasy and vigour of the god be present."
+    },
+    {
+      "number": 6,
+      "sanskrit": "तवं सुतस्य पीतये सद्यो वर्द्धो अजायथाः | इन्द्र जयैष्ठ्याय सुक्रतो ||",
+      "transliteration": "tvaṃ sutasya pītaye sadyo vṛddho ajāyathāḥ | indra jyaiṣṭhyāya sukrato ||",
+      "translation": "Thou, grown at once to perfect strength, wast born to drink the Soma juice, Strong Indra, for preëminence.",
+      "wordMeanings": {
+        "त्वं": "thou, you",
+        "सुतस्य": "of the Soma-drinker",
+        "पीतये": "for drinking",
+        "सद्यः": "at once",
+        "अजायत": "was born",
+        "जैष्ठ्याय": "for pre-eminence"
+      },
+      "explanation": "Describes Indra's rise to greatness through Soma, a common Vedic motif linking ritual ingestion to potency."
+    },
+    {
+      "number": 7,
+      "sanskrit": "आ तवा विशन्त्वाशवः सोमास इन्द्र गिर्वणः | शं ते सन्तु परचेतसे ||",
+      "transliteration": "ā tvā viśantvāśavaḥ somāsa indra ghirvaṇaḥ | śaṃ te santu pracetase ||",
+      "translation": "O Indra, lover of the song, may these quick Somas enter thee: May they bring bliss to thee the Sage.",
+      "wordMeanings": {
+        "विशन्तु": "enter (optative)",
+        "आशवः": "swift (epithet of Soma)",
+        "गिर्वण": "lover of song",
+        "प्रचेतसे": "to thy conscious mind"
+      },
+      "explanation": "A petition that the energizing Soma enter Indra, bringing tranquillity and inspiration so he may act beneficently."
+    },
+    {
+      "number": 8,
+      "sanskrit": "तवां सतोमा अवीव्र्धन तवामुक्था शतक्रतो | तवां वर्धन्तु नो गिरः ||",
+      "transliteration": "tvāṃ stomā avīvṛdhan tvāmukthā śatakrato | tvāṃ vardhantu no ghiraḥ ||",
+      "translation": "Our chants of praise have strengthened thee, O Śatakratu, and our lauds So strengthen thee the songs we sing.",
+      "wordMeanings": {
+        "स्तोमा": "hymns, praises",
+        "आविर्वधन्": "have made grow, strengthened",
+        "शतक्रतो": "of hundred deeds (epithet of Indra)",
+        "वर्धन्तु": "may they increase"
+      },
+      "explanation": "Acknowledges that ritual praise empowers Indra and asks that such praise continue to increase his might."
+    },
+    {
+      "number": 9,
+      "sanskrit": "अक्षितोतिः सनेदिमं वाजमिन्द्रः सहस्रिणम | यस्मिन विश्वानि पौंस्या ||",
+      "transliteration": "akṣitotiḥ sanedimaṃ vājamindraḥ sahasriṇam | yasmin viśvāni pauṃsyā ||",
+      "translation": "Indra, whose succour never fails, accept these viands thousandfold, Wherein all manly powers abide.",
+      "wordMeanings": {
+        "तं": "thee",
+        "वाजेषु": "among the riches",
+        "वाजिनम्": "possessor of wealth",
+        "वाजयाम": "we make rich, we enrich",
+        "धनानाम्": "of riches"
+      },
+      "explanation": "An offering-formula promising to enrich Indra with wealth so that his favour may return abundance to the worshippers."
+    },
+    {
+      "number": 10,
+      "sanskrit": "मा नो मर्ता अभि दरुहन तनूनामिन्द्र गिर्वणः | ईशानो यवया वधम ||",
+      "transliteration": "mā no martā abhi druhan tanūnāmindra ghirvaṇaḥ | īśāno yavayā vadham ||",
+      "translation": "O Indra, thou who lovest song, let no man hurt our bodies, keep Slaughter far from us, for thou canst.",
+      "wordMeanings": {
+        "यो": "who",
+        "रयः": "wealth, riches",
+        "अवनि": "supporter, protector",
+        "सखा": "friend",
+        "सोमप": "Soma-pressers"
+      },
+      "explanation": "A final exhortation to sing to Indra, praised as protector and friend of those who perform the Soma rites and source of riches."
+    }
+  ],
+  "overallTheme": "Invocation and praise of Indra: inviting the ritual community to sing hymns, extolling his unmatched wealth and connection to Soma, and beseeching his presence for protection and prosperity in the sacrifice.",
+  "culturalContext": "Highlights the communal and ritualistic nature of Vedic hymns, the pivotal role of Soma in invoking divine favor, and Indra's embodiment of Aryan ideals as the protector, warrior, and benefactor in a society centered on cattle, agriculture, and sacrificial rites.",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "Sacred-Texts.com Rig Veda (Sanskrit Devanagari)",
+    "Rigveda-Online (Shakala recension) - tokenized page",
+    "AASI Archive (rv-audio) - https://github.com/aasi-archive/rv-audio/raw/main/data/1/5.mp3"
+  ]
+}

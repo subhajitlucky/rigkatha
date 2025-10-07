@@ -4,16 +4,16 @@ import StoryCard from '../../components/ui/StoryCard';
 import type { StoryPreview } from '../../types/story';
 
 // Import all story data
-import agniWiseFish from '../../data/stories/agni/wise-fish.json';
-import indraBattleVritra from '../../data/stories/indra/battle-vritra.json';
-import varunaPatientCrocodile from '../../data/stories/varuna/patient-crocodile.json';
-import somaGoldenStream from '../../data/stories/soma/golden-stream.json';
-import ushasEarlyBird from '../../data/stories/ushas/early-bird.json';
-import suryaSevenHorses from '../../data/stories/surya/seven-horses.json';
-import marutsStormBrothers from '../../data/stories/maruts/storm-brothers.json';
-import ashvinsTwinHealers from '../../data/stories/ashvins/twin-healers.json';
-import rudraStormMercy from '../../data/stories/rudra/storm-mercy.json';
-import sarasvatiRiverKnowledge from '../../data/stories/sarasvati/river-knowledge.json';
+import agniWiseFish from '../../data/stories/agni/wise-fish/story.json';
+import indraBattleVritra from '../../data/stories/indra/battle-vritra/story.json';
+import varunaPatientCrocodile from '../../data/stories/varuna/patient-crocodile/story.json';
+import somaGoldenStream from '../../data/stories/soma/golden-stream/story.json';
+import ushasEarlyBird from '../../data/stories/ushas/early-bird/story.json';
+import suryaSevenHorses from '../../data/stories/surya/seven-horses/story.json';
+import marutsStormBrothers from '../../data/stories/maruts/storm-brothers/story.json';
+import ashvinsTwinHealers from '../../data/stories/ashvins/twin-healers/story.json';
+import rudraStormMercy from '../../data/stories/rudra/storm-mercy/story.json';
+import sarasvatiRiverKnowledge from '../../data/stories/sarasvati/river-knowledge/story.json';
 
 // Map story data by ID
 const storyDataMap: Record<string, any> = {

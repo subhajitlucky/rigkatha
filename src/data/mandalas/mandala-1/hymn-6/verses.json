@@ -1,0 +1,206 @@
+{
+  "mandala": 1,
+  "hymn": 6,
+  "totalVerses": 10,
+  "deity": "Indra",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "युञ्जन्ति बरध्नमरुषं चरन्तं परि तस्थुषः | रोचन्तेरोचना दिवि ||",
+      "transliteration": "yuñjanti bradhnamaruṣaṃ carantaṃ pari tasthuṣaḥ | rocanterocanā divi ||",
+      "translation": "They who stand round him as he moves harness the bright, the ruddy Steed The lights are shining in the sky.",
+      "wordMeanings": {
+        "युञ्जन्ति": "harness (they)",
+        "बरध्नम्": "bright",
+        "अरुषम्": "ruddy, red",
+        "चरन्तम्": "moving",
+        "परि": "around",
+        "तस्थुषः": "standing (they who stand)",
+        "रोचन्ते": "shine",
+        "रोचनाः": "lights",
+        "दिवि": "in heaven"
+      },
+      "explanation": "Describes the harnessing of Indra's chariot by the gods, with lights shining in heaven."
+    },
+    {
+      "number": 2,
+      "sanskrit": "युञ्जन्त्यस्य काम्या हरी विपक्षसा रथे | शोणा धर्ष्णू नर्वाहसा ||",
+      "transliteration": "yuñjantyasya kāmyā harī vipakṣasā rathe | śoṇā dharṣṇū nṛvāhasā ||",
+      "translation": "On both sides to the car they yoke the two bay coursers dear to him, Bold, tawny, bearers of the Chief.",
+      "wordMeanings": {
+        "युञ्जन्ति": "harness (they)",
+        "अस्य": "his",
+        "काम्याः": "beloved",
+        "हरी": "bay horses",
+        "विपक्षसा": "on both sides",
+        "रथे": "to the chariot",
+        "शोणाः": "red, tawny",
+        "धर्ष्णू": "bold",
+        "नर्वाहसाः": "carrying men"
+      },
+      "explanation": "Praises Indra's beloved horses yoked to his chariot, emphasizing their strength and beauty."
+    },
+    {
+      "number": 3,
+      "sanskrit": "केतुं कर्ण्वन्नकेतवे पेशो मर्या अपेशसे | समुषद्भिरजायथाः ||",
+      "transliteration": "ketuṃ kṛṇvannaketave peśo maryā apeśase | samuṣadbhirajāyathāḥ ||",
+      "translation": "Thou, making light where no light was, and form, O men: where form was not, Wast born together with the Dawns.",
+      "wordMeanings": {
+        "केतुम्": "light",
+        "कृण्वन्": "making",
+        "अकेतवे": "where no light was",
+        "पेशः": "form",
+        "मर्याः": "O men",
+        "अपेशसे": "where form was not",
+        "सम्": "together",
+        "उषद्भिः": "with the dawns",
+        "अजायथाः": "you were born"
+      },
+      "explanation": "Celebrates Indra's role in bringing light and form, born alongside the Dawns."
+    },
+    {
+      "number": 4,
+      "sanskrit": "आदह सवधामनु पुनर्गर्भत्वमेरिरे | दधाना नामयज्ञियम ||",
+      "transliteration": "ādaha svadhāmanu punargharbhatvamerire | dadhānā nāmayajñiyam ||",
+      "translation": "Thereafter they, as is their wont, threw off the state of babes unborn, Assuming sacrificial names.",
+      "wordMeanings": {
+        "आद": "thereafter",
+        "अह": "they",
+        "स्वधाम्": "their own nature",
+        "अनु": "following",
+        "पुनः": "again",
+        "गर्भत्वम्": "state of embryos",
+        "एरिरे": "threw off",
+        "दधाना": "assuming",
+        "नाम": "names",
+        "यज्ञियम्": "sacrificial"
+      },
+      "explanation": "Refers to the gods shedding their embryonic state and taking sacrificial identities."
+    },
+    {
+      "number": 5,
+      "sanskrit": "वीळु चिदारुजत्नुभिर्गुहा चिदिन्द्र वह्निभिः | अविन्द उस्रिया अनु ||",
+      "transliteration": "vīḷu cidārujatnubhirghuhā cidindra vahnibhiḥ | avinda usriyā anu ||",
+      "translation": "Thou, Indra, with the Tempest-Gods, the breakers down of what is firm, Foundest the kine even in the cave.",
+      "wordMeanings": {
+        "वीळु": "what is firm",
+        "चित्1": "even",
+        "आरुजत्नुभिः": "breakers down",
+        "गुहा": "in the cave",
+        "चित्2": "even",
+        "इन्द्र": "O Indra",
+        "वह्निभिः": "with the tempestuous gods",
+        "अविन्द": "you found",
+        "उस्रियाः": "the cows",
+        "अनु": "indeed"
+      },
+      "explanation": "Praises Indra for recovering the cows hidden in the cave with the Maruts."
+    },
+    {
+      "number": 6,
+      "sanskrit": "देवयन्तो यथा मतिमछा विदद्वसुं गिरः | महामनूषत शरुतम ||",
+      "transliteration": "devayanto yathā matimachā vidadvasuṃ ghiraḥ | mahāmanūṣata śrutam ||",
+      "translation": "Worshipping even as they list, singers laud him who findeth wealth, The far-renowned, the mighty One.",
+      "wordMeanings": {
+        "देवयन्तः": "worshipping",
+        "यथा": "as they wish",
+        "मति": "thought, intention",
+        "अछा": "reach",
+        "विदद्वसुम्": "who gives wealth",
+        "गिरः": "songs",
+        "महा": "mighty",
+        "मनूषत": "praised",
+        "श्रुतम्": "renowned"
+      },
+      "explanation": "Singers praise Indra, who bestows wealth, as they worship according to their will."
+    },
+    {
+      "number": 7,
+      "sanskrit": "इन्द्रेण सं हि दर्क्षसे संजग्मानो अबिभ्युषा | मन्दू समानवर्चसा ||",
+      "transliteration": "indreṇa saṃ hi dṛkṣase saṃjaghmāno abibhyuṣā | mandū samānavarcasā ||",
+      "translation": "Mayest thou verily be seen coming by fearless Indra's side: Both joyous, equal in your sheen.",
+      "wordMeanings": {
+        "इन्द्रेण": "with Indra",
+        "सम्": "together",
+        "हि": "verily",
+        "दृक्षसे": "may you be seen",
+        "संजग्मानः": "coming together",
+        "अबिभ्युषा": "fearless",
+        "मन्दू": "joyous",
+        "समान": "equal",
+        "वर्चसा": "in splendor"
+      },
+      "explanation": "A prayer to see the sacrificer united with Indra, both joyful and radiant."
+    },
+    {
+      "number": 8,
+      "sanskrit": "अनवद्यैरभिद्युभिर्मखः सहस्वदर्चति | गणैरिन्द्रस्य काम्यैः ||",
+      "transliteration": "anavadyairabhidyubhirmakhaḥ sahasvadarcati | ghaṇairindrasya kāmyaiḥ ||",
+      "translation": "With Indra's well beloved hosts, the blameless, hastening to heaven, The sacrificer cries aloud.",
+      "wordMeanings": {
+        "अनवद्यैः": "blameless",
+        "अभिद्युभिः": "shining",
+        "मखः": "sacrificer",
+        "सहस्वत्": "powerfully",
+        "अर्चति": "cries aloud",
+        "गणैः": "with hosts",
+        "इन्द्रस्य": "Indra's",
+        "काम्यैः": "beloved"
+      },
+      "explanation": "The sacrificer calls out with Indra's beloved, blameless hosts ascending to heaven."
+    },
+    {
+      "number": 9,
+      "sanskrit": "अतः परिज्मन्ना गहि दिवो वा रोचनादधि | समस्मिन्न्र्ञ्जते गिरः ||",
+      "transliteration": "ataḥ parijmannā gahi divo vā rocanādadhi | samasminnṛñjate ghiraḥ ||",
+      "translation": "Come from this place, O Wanderer, or downward from the light of heaven: Our songs of praise all yearn for this.",
+      "wordMeanings": {
+        "अतः": "from here",
+        "परिज्मन्": "O wanderer",
+        "आ": "come",
+        "गहि": "come",
+        "दिवः": "of heaven",
+        "वा": "or",
+        "रोचनात्": "from the light",
+        "अधि": "above",
+        "सम्": "for you",
+        "अस्मिन्": "in this",
+        "ऋञ्जते": "yearn",
+        "गिरः": "songs"
+      },
+      "explanation": "Invites Indra to come from various places, as the hymns yearn for him."
+    },
+    {
+      "number": 10,
+      "sanskrit": "इतो वा सातिमीमहे दिवो वा पार्थिवादधि | इन्द्रं महोवा रजसः ||",
+      "transliteration": "ito vā sātimīmahe divo vā pārthivādadhi | indraṃ mahovā rajasaḥ ||",
+      "translation": "Indra we seek to give us help, from here, from heaven above the earth, Or from the spacious firmament.",
+      "wordMeanings": {
+        "इतः": "from here",
+        "वा1": "or",
+        "सातिम्": "help",
+        "ईमहे": "we seek",
+        "दिवः": "from heaven",
+        "वा2": "or",
+        "पार्थिवात्": "above the earth",
+        "अधि": "above",
+        "इन्द्रम्": "Indra",
+        "महः": "great",
+        "वा3": "or",
+        "रजसः": "from the atmosphere"
+      },
+      "explanation": "Seeks Indra's help from all directions, emphasizing his omnipresence."
+    }
+  ],
+  "overallTheme": "This hymn celebrates Indra's divine chariot, horses, and heroic exploits, including the recovery of stolen cattle and his role in cosmic creation. It emphasizes the reciprocal relationship between the gods and worshippers through hymns and sacrifices.",
+  "culturalContext": "Vedic hymns to Indra highlight themes of divine intervention, the importance of soma sacrifices, and the symbiotic bond between deities and humans. The Maruts (storm gods) are portrayed as Indra's companions, reflecting the Vedic pantheon's interconnected nature. The hymn's structure moves from description to invocation, mirroring ritual progression.",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "Sacred-Texts.com Rig Veda (Sanskrit Devanagari)",
+    "Rigveda-Online (Shakala recension) - tokenized page",
+    "Sanskrit & Trika Shaivism (sanskrit-trikashaivism.com) - detailed word meanings and transliterations",
+    "AASI Archive (rv-audio) - https://github.com/aasi-archive/rv-audio/raw/main/data/1/6.mp3"
+  ]
+}

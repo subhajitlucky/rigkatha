@@ -2,9 +2,8 @@
  
 > *Comic-style storytelling meets ancient Sanskrit wisdom*
 
-[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-blue)](https://rigkatha.vercel.app)
-[![Demo Video](https://img.shields.io/badge/🎬-Demo%20Video-red)](https://youtu.be/your-demo)
-[![GitHub](https://img.shields.io/badge/⭐-Star%20on%20GitHub-yellow)](https://github.com/yourusername/rigkatha)
+[![GitHub](https://img.shields.io/badge/⭐-Star%20on%20GitHub-yellow)](https://github.com/subhajitlucky/rigkatha)
+[![License](https://img.shields.io/badge/📜-MIT%20License-green)](LICENSE)
 
 ---
 
@@ -79,13 +78,10 @@ Each story follows a proven educational pattern:
 
 ## 🚀 **Quick Start**
 
-### 🌐 **Try It Now**
-Visit **[rigkatha.vercel.app](https://rigkatha.vercel.app)** - no installation required!
-
 ### 💻 **Run Locally**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/rigkatha.git
+git clone https://github.com/subhajitlucky/rigkatha.git
 
 # Navigate to project
 cd rigkatha
@@ -102,22 +98,26 @@ npm run build
 
 ---
 
-## 🎯 **Hackathon Achievement**
+## 🎯 **Project Mission**
 
-### 📊 **Judging Criteria Met:**
-- ✅ **Design**: Visual clarity with Vedic aesthetics
-- ✅ **Usability**: Value delivered in 30 seconds
-- ✅ **Performance**: Lightning-fast load times
-- ✅ **Rigor**: Accurate Rig Veda references with citations
-- ✅ **Originality**: First comic-style Rig Veda explorer
-- ✅ **User Delight**: Engaging, fun, and insightful
+**RigKatha** is built with love and devotion to make the ancient wisdom of the Rig Veda accessible to everyone - from curious children to lifelong learners. We believe these timeless teachings deserve to be shared in engaging, beautiful ways that honor their sacred origins while connecting with modern hearts.
 
-### 🏆 **Why RigKatha Won:**
-- **Unique Approach**: No one else used comics for Sanskrit literature
-- **Immediate Engagement**: Visual storytelling hooks users instantly
-- **Educational Value**: Complex concepts made accessible through characters
-- **Technical Excellence**: Smooth performance and beautiful design
-- **Cultural Bridge**: Ancient wisdom meets modern interaction design
+### ✅ **Current Features:**
+- ✅ Browse by Deity (10 deities with comprehensive data)
+- ✅ Browse by Theme (11 universal life lessons)
+- ✅ Browse by Mandala (all 10 Mandalas with metadata)
+- ✅ Hymn detail pages with authentic Vedic audio (AASI Archive)
+- ✅ 10 hymns with metadata, 6 with full Sanskrit verses
+- ✅ Story framework (10 story templates ready)
+- ✅ Responsive design (mobile + desktop)
+- ✅ Fast performance (<3s load time)
+
+### 🚧 **Coming Soon:**
+- 🔄 Comic panel illustrations for stories
+- 🔄 Expanding to all 191 hymns of Mandala 1
+- 🔄 Interactive quiz system
+- 🔄 Additional story content
+- 🔄 Community contributions
 
 ---
 
@@ -205,23 +205,12 @@ We welcome contributions from:
 
 ---
 
-## 🏆 **Awards & Recognition**
-
-- 🥇 **Winner - Rig Veda Hackathon 2025** (₹7,000 prize)
-- ⭐ **Featured** in upcoming Rig Veda video series
-- 🌟 **Community Choice** for innovation in cultural education
-- 📱 **Best Mobile Experience** for ancient literature apps
-
----
-
 ## 📞 **Contact**
 
-Created with ❤️ for the Rig Veda Hackathon
+Created with ❤️ and devotion for the Rig Veda
 
-- **Demo**: [rigkatha.vercel.app](https://rigkatha.vercel.app)
-- **Video**: [30-second demo](https://youtu.be/your-demo)
-- **GitHub**: [github.com/yourusername/rigkatha](https://github.com/yourusername/rigkatha)
-- **Pitch**: "Ancient Sanskrit wisdom through beautiful comic storytelling - learn Rig Veda tales in 30 seconds!"
+- **GitHub**: [github.com/subhajitlucky/rigkatha](https://github.com/subhajitlucky/rigkatha)
+- **Mission**: Making ancient Sanskrit wisdom accessible through beautiful storytelling
 
 ---
 
@@ -233,4 +222,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built for the Rig Veda Hackathon by passionate storytellers and developers who believe ancient wisdom should be accessible, engaging, and delightful to explore.*
+*Built with devotion by those who believe ancient wisdom should be accessible, engaging, and delightful to explore. May the gods be pleased with our humble offering.* 🙏
+

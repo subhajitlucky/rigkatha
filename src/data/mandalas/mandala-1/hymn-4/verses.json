@@ -1,0 +1,206 @@
+{
+  "mandala": 1,
+  "hymn": 4,
+  "totalVerses": 10,
+  "deity": "Indra",
+  "composer": "Madhuchandas Vaishvamitra",
+  "meter": "Gayatri",
+  "verses": [
+    {
+      "number": 1,
+      "sanskrit": "सुरूपकृत्नुमूतये सुदुघामिव गोदुहे । जुहूमसि दयवि-दयवि ॥",
+      "transliteration": "surūpa-kṛtnum ūtaye su-dughām iva go-duhe | juhūmasi davi-davi ||",
+      "translation": "For the sake of the well-formed doer of good deeds, like a good milch-cow to the milker, we invoke day by day.",
+      "wordMeanings": {
+        "सुरूपकृत्नुम्": "well-formed doer of good deeds, beautiful maker",
+        "ऊतये": "for protection, for help",
+        "सुदुघाम्": "good milker, yielding plenty",
+        "इव": "like, as",
+        "गोदुहे": "cow-milker, one who milks cows",
+        "जुहूमसि": "we invoke, we call",
+        "दयविदयवि": "day by day, daily"
+      },
+      "explanation": "The hymn begins by invoking Indra daily, comparing the call to him with milking a good cow. Just as a milker approaches a cow that gives abundant milk, devotees approach Indra who provides protection and good deeds."
+    },
+    {
+      "number": 2,
+      "sanskrit": "उप नः सवना गहि सोमस्य सोमपाः पिब । गोदा इद्रेवतो मदः ॥",
+      "transliteration": "upa naḥ savanā gahi somasya soma-pāḥ piba | godā id reva-to madaḥ ||",
+      "translation": "Come to our libations, drink of the soma; soma-drinker thou! The rapture of the rich one giveth kine.",
+      "wordMeanings": {
+        "उप": "near, to",
+        "नः": "our",
+        "सवना": "libations, pressings of soma",
+        "गहि": "come (imperative)",
+        "सोमस्य": "of soma",
+        "सोमपाः": "soma-drinker",
+        "पिब": "drink (imperative)",
+        "गोदा": "giver of cows",
+        "इत्": "indeed",
+        "रेवतः": "of the rich one",
+        "मदः": "rapture, intoxication"
+      },
+      "explanation": "Indra is invited to come to the soma sacrifice and drink the sacred juice. As the soma-drinker, his intoxication brings wealth in the form of cattle to his devotees."
+    },
+    {
+      "number": 3,
+      "sanskrit": "अथा ते अन्तमानां विद्याम सुमतीनाम् । मा नो अति ख्य आ गहि ॥",
+      "transliteration": "athā te antamānāṃ vidyāma sumatīnām | mā no ati khya ā gahi ||",
+      "translation": "So may we be acquainted with thine innermost benevolence. Neglect us not, come hitherward.",
+      "wordMeanings": {
+        "अथ": "then, so",
+        "ते": "your",
+        "अन्तमानाम्": "innermost, most intimate",
+        "विद्याम": "may we know, may we be acquainted with",
+        "सुमतीनाम्": "benevolent thoughts, good intentions",
+        "मा": "not",
+        "नः": "us",
+        "अति": "beyond, over",
+        "ख्यः": "neglect, overlook",
+        "आ": "hither",
+        "गहि": "come"
+      },
+      "explanation": "The devotees pray to understand Indra's deepest benevolent nature and thoughts. They ask him not to neglect them and to come to their aid."
+    },
+    {
+      "number": 4,
+      "sanskrit": "परेहि विग्रमस्तृतमिन्द्रं पृच्छा विपश्चितम् । यस्ते सखिभ्य आ वरं ॥",
+      "transliteration": "parehi vi-gramas-trutam indram prccha vi-pascitam | yas te sakhi-bhyah a varam ||",
+      "translation": "Go over to Indra the vigorous, the unoverthrown, question the illumined in consciousness who has given to thy friends their desirable boon.",
+      "wordMeanings": {
+        "परेहि": "go over, approach",
+        "विग्रमस्तृतम्": "unconquered, invincible",
+        "इन्द्रम्": "Indra",
+        "पृच्छ": "ask, question",
+        "विपश्चितम्": "illumined in consciousness, wise",
+        "यः": "who",
+        "ते": "thy, your",
+        "सखिभ्यः": "to friends",
+        "आ": "has given",
+        "वरम्": "desirable boon, choice gift"
+      },
+      "explanation": "The hymn advises approaching the invincible Indra, who is wise and has blessed his devotees with desirable gifts. Seek his wisdom and favor."
+    },
+    {
+      "number": 5,
+      "sanskrit": "उत ब्रुवंतु नो निदो निरन्यतश्चिदारत । दधाना इंद्र इद्दुवः ॥",
+      "transliteration": "uta bruvantu no nido nir anyatas cid arata | dadhana indre it duvah ||",
+      "translation": "And may the Binders say to us, 'Nay, forth and strive on even in other fields, reposing on Indra your activity.'",
+      "wordMeanings": {
+        "उत": "and, also",
+        "ब्रुवंतु": "may they say",
+        "नः": "to us",
+        "निदः": "binders, restrainers",
+        "निरन्यतः": "from elsewhere, in other places",
+        "चित्": "even, also",
+        "आरत": "strive, move forward",
+        "दधाना": "placing, reposing",
+        "इंद्रे": "in Indra",
+        "इत्": "indeed",
+        "दुवः": "activity, work"
+      },
+      "explanation": "The devotees hope that even the forces that bind and limit them will encourage continued striving in other areas, with all activity centered on Indra."
+    },
+    {
+      "number": 6,
+      "sanskrit": "उत नः सुभगाँ अरिर्वोचेयुर्दस्म कृष्टयः । स्यामेदिंद्रस्य शर्मणि ॥",
+      "transliteration": "uta nah su-bhagan arir voceyur dasma krsṭayah | syama it indrasya sarmani ||",
+      "translation": "And may the fighters, doers of the work, declare us entirely blessed, O achiever; may we abide in Indra's peace.",
+      "wordMeanings": {
+        "उत": "and, also",
+        "नः": "us",
+        "सुभगान्": "entirely blessed, fortunate",
+        "अरिः": "fighter, enemy (in context of warriors)",
+        "वोचेयुः": "may they declare, proclaim",
+        "दस्म": "O achiever, O doer of wonderful deeds",
+        "कृष्टयः": "doers of the work, people",
+        "स्याम": "may we be",
+        "इत्": "indeed",
+        "इंद्रस्य": "of Indra",
+        "शर्मणि": "in peace, protection"
+      },
+      "explanation": "The devotees pray that even their adversaries will acknowledge their blessed state, and that they may find true peace and protection in Indra's grace."
+    },
+    {
+      "number": 7,
+      "sanskrit": "एमाशुमाशवे भर यज्ञश्रियं नृमादनं । पतयन्मंदयत्सखं ॥",
+      "transliteration": "ema asuma asave bhara yajna-sriyam nr-madanam | patayan mandayat sakham ||",
+      "translation": "Bring for the swift this swift glory of the sacrifice that intoxicates the Gods; may it set on his march him who gives rapture to his friends.",
+      "wordMeanings": {
+        "एमा": "this",
+        "आशुम्": "swift",
+        "आशवे": "for the swift one",
+        "भर": "bring, bear",
+        "यज्ञश्रियम्": "glory of sacrifice, sacrificial splendor",
+        "नृमादनम्": "intoxicating the men/Gods",
+        "पतयन्": "making fly, setting in motion",
+        "मंदयत्": "giving rapture, intoxicating",
+        "सखम्": "friend"
+      },
+      "explanation": "The devotees ask Indra to bring the swift, intoxicating glory of sacrifice that will energize and delight both the gods and their friends."
+    },
+    {
+      "number": 8,
+      "sanskrit": "अस्य पीत्वा शतक्रतो घनो वृत्राणामभवः । प्रावो वाजेषु वाजिनम् ॥",
+      "transliteration": "asya pitva satakrato ghano vrtranam abhavaḥ | pravo vajesu vajinam ||",
+      "translation": "Drinking of this, O thou of the hundred works, thou becamest a slayer of the Coverers and thou hast protected the man of plenitude in his plenty.",
+      "wordMeanings": {
+        "अस्य": "of this (soma)",
+        "पीत्वा": "having drunk",
+        "शतक्रतो": "O thou of hundred works/activities",
+        "घनः": "slayer, destroyer",
+        "वृत्राणाम्": "of the coverers, obstructors",
+        "अभवः": "thou becamest",
+        "प्रावः": "thou hast protected",
+        "वाजेषु": "in plenitudes, in riches",
+        "वाजिनम्": "the man of plenitude, rich one"
+      },
+      "explanation": "Through drinking the soma, Indra gains the power to destroy obstacles and protect those who are abundant in spiritual wealth and plenitude."
+    },
+    {
+      "number": 9,
+      "sanskrit": "तं त्वा वाजेषु वाजिनं वाजयामः शतक्रतो । धनानामिंद्र सातये ॥",
+      "transliteration": "tam tvā vājeṣu vājinam vājayāmaḥ śatakrato | dhanānām indra sātaye ||",
+      "translation": "Thee thus rich in thy riches we enrich again, O Indra, O thou of the hundred activities, for the winning of the Riches.",
+      "wordMeanings": {
+        "तम्": "that, thee",
+        "त्वा": "you",
+        "वाजेषु": "in plenitudes, in riches",
+        "वाजिनम्": "rich, abundant",
+        "वाजयामः": "we enrich, we make rich",
+        "शतक्रतो": "O thou of hundred activities",
+        "धनानाम्": "of riches",
+        "इन्द्र": "O Indra",
+        "सातये": "for winning, for conquest"
+      },
+      "explanation": "The devotees seek to further enrich Indra, who is already abundant in wealth and power. By praising and offering to him, they hope to gain his favor and share in his riches."
+    },
+    {
+      "number": 10,
+      "sanskrit": "यो रायो ऽवनिर्महान्त्सुपारः सुन्वतः सखा । तस्मा इंद्राय गायत ॥",
+      "transliteration": "yo rāyo 'vanir mahān su-pāraḥ sunvataḥ sakhā | tasmā indrāya gāyata ||",
+      "translation": "He who is a great continent of riches and takes us easily over, a friend of the Soma-giver, to that Indra sing.",
+      "wordMeanings": {
+        "यः": "who",
+        "रायः": "of riches",
+        "अवनिः": "continent, protector",
+        "महान्": "great",
+        "सुपारः": "easy to cross, good carrier",
+        "सुन्वतः": "of the soma-presser",
+        "सखा": "friend",
+        "तस्मै": "to that",
+        "इंद्राय": "to Indra",
+        "गायत": "sing (imperative)"
+      },
+      "explanation": "Indra is described as a vast protector of wealth who helps devotees cross difficulties easily. As a friend to those who offer soma, he deserves hymns of praise."
+    }
+  ],
+  "overallTheme": "This hymn praises Indra as the supreme deity who protects devotees, drinks soma, and wields the thunderbolt to defeat demons. It emphasizes his benevolence, wisdom, and power, while asking for his favor and wealth. The hymn portrays Indra as the unconquered warrior who ensures cosmic order and prosperity for those who worship him properly.",
+  "culturalContext": "Indra is the most prominent deity in the Rig Veda, representing power, strength, and protection. His defeat of demons like Shushna and Vritra symbolizes the triumph of order over chaos. The hymn reflects Vedic ritual practices where soma sacrifice is central to gaining divine favor. The imagery of cattle, horses, and wealth reflects the pastoral society's values. Indra's role as soma-drinker shows the reciprocal relationship between gods and humans through ritual offerings.",
+  "sources": [
+    "Ralph T.H. Griffith Translation (1896) - Public Domain",
+    "Sacred-Texts.com Rig Veda compilation",
+    "Rigveda Samhita - Standard Shakala recension",
+    "Note: Vedic texts may have minor variations across different recensions"
+  ]
+}
